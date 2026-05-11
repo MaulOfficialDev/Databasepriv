@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "MaulDev",
+      "password": "225",
+      "role": "admin"
+    },
+    {
+      "username": "Fanz",
+      "password": "Ceo",
+      "role": "admin"
+    },
+    {
+      "username": "reseller2",
+      "password": "xyz789",
+      "role": "reseller"
+    }
+  ]
+}
