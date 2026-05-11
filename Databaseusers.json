@@ -14,6 +14,11 @@
       "username": "reseller2",
       "password": "xyz789",
       "role": "reseller"
+    },
+    {
+      "username": "p",
+      "password": "1",
+      "role": "reseller"
     }
   ]
 }
