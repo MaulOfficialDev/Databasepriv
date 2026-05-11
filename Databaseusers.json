@@ -17,7 +17,12 @@
     },
     {
       "username": "p",
-      "password": "2",
+      "password": "1",
+      "role": "reseller"
+    },
+    {
+      "username": "paok",
+      "password": "123",
       "role": "reseller"
     }
   ]
