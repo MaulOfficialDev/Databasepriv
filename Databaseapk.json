@@ -112,5 +112,13 @@
     "role": "reseller",
     "createdAt": 1778567848743,
     "createdBy": "𝖬𝖺𝗎𝗅.env"
+  },
+  {
+    "username": "Jack",
+    "key": "Jack",
+    "expired": 1864881464391,
+    "role": "owner",
+    "createdAt": 1778567864535,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
