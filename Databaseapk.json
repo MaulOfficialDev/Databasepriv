@@ -1,16 +1,10 @@
-{
-  "users": [
-    {
-      "username": "Mauldev",
-      "password": "225",
-      "role": "Developer",
-      "duration": "lifetime"
-    },
-    {
-      "username": "Fanz",
-      "password": "Ceo",
-      "role": "Developer",
-      "duration": "lifetime"
-    }
-  ]
-}
+[
+  {
+    "username": "Mauldev",
+    "key": "25",
+    "expired": 1864876141916,
+    "role": "developer",
+    "createdAt": 1778562542063,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
+  }
+]
