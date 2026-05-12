@@ -125,7 +125,9 @@
     "expired": 1864881464391,
     "role": "owner",
     "createdAt": 1778567864535,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "da677ce5a70fbe8a2420b9293fe198e7304ce1bc94ee030ee6e3158269fa83e7",
+    "lastLogin": "2026-05-12T08:49:53.899Z"
   },
   {
     "username": "Ryuu",
