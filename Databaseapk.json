@@ -156,5 +156,13 @@
     "createdBy": "Jack",
     "rememberToken": "d1ca28f4fa644ec7a3612da3a85e9b558b0709ec643e50288fbf4c980a7e79d6",
     "lastLogin": "2026-05-12T09:50:18.235Z"
+  },
+  {
+    "username": "Wann",
+    "key": "Wann",
+    "expired": 865778493755994,
+    "role": "admin",
+    "createdAt": 1778580155994,
+    "createdBy": "Jack"
   }
 ]
