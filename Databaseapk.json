@@ -113,7 +113,9 @@
     "expired": 1864881448590,
     "role": "reseller",
     "createdAt": 1778567848743,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "f7bcabe6df38a987f53aa6caab3a2acd7715f4e3488d675c8558f497b000884d",
+    "lastLogin": "2026-05-12T07:07:09.455Z"
   },
   {
     "username": "Jack",
