@@ -31,7 +31,9 @@
     "expired": 1781073365285,
     "role": "user",
     "createdAt": 1778567765387,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "8b778fb675f65c82d9f5b8f1ea6d86d5db5c9dff5f1944a45230e3863de66ed7",
+    "lastLogin": "2026-05-12T06:45:15.850Z"
   },
   {
     "username": "reza",
