@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Mauldev",
+    "key": "225",
+    "expired": 1864880963379,
+    "role": "developer",
+    "createdAt": 1778567363561,
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "ee709def709cd95bc5d73a79f69fc944ef6087b39fb7ee42492917e23bc5f2c6",
+    "lastLogin": "2026-05-12T07:22:07.937Z"
+  },
+  {
+    "username": "Fanz",
+    "key": "Ceo",
+    "expired": 1864881018033,
+    "role": "developer",
+    "createdAt": 1778567418163,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
+  },
+]
