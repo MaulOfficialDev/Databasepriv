@@ -83,7 +83,9 @@
     "expired": 1779863811591,
     "role": "user",
     "createdAt": 1778567811741,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "e8adbe48a0071571096627f7a5ab65c0fa83b33d432e79cf982532465288bba2",
+    "lastLogin": "2026-05-12T09:50:02.516Z"
   },
   {
     "username": "Misaki",
