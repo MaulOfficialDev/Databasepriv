@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "Mauldev",
+      "password": "225",
+      "role": "Developer",
+      "duration": "lifetime"
+    },
+    {
+      "username": "Fanz",
+      "password": "Ceo",
+      "role": "Developer",
+      "duration": "lifetime"
+    },
+    {
+      "username": "reseller2",
+      "password": "xyz789",
+      "role": "reseller",
+      "duration": "7d"
+    }
+  ]
+}
