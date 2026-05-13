@@ -14,6 +14,11 @@
       "username": "p",
       "password": "1",
       "role": "reseller"
+    },
+    {
+      "username": "maulana",
+      "phone": "6285804286529",
+      "role": "user"
     }
   ]
 }
