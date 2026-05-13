@@ -197,7 +197,9 @@
     "expired": 1865014570916,
     "role": "user",
     "createdAt": 1778700971039,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "8cc0edda673ab75881f645f57b2935d1c7474f6abd74351d28b6b00f8d91f79c",
+    "lastLogin": "2026-05-13T22:00:22.786Z"
   },
   {
     "username": "Zovy",
