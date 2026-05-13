@@ -198,5 +198,13 @@
     "role": "user",
     "createdAt": 1778700971039,
     "createdBy": "𝖬𝖺𝗎𝗅.env"
+  },
+  {
+    "username": "Zovy",
+    "key": "4791",
+    "expired": 2642616197694,
+    "role": "reseller",
+    "createdAt": 1778702597694,
+    "createdBy": "Fanz"
   }
 ]
