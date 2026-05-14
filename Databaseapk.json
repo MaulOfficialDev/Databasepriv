@@ -452,5 +452,13 @@
     "createdBy": "Fanz",
     "rememberToken": "7c12cbdea6d2925b20a6ae4ecea6f8f4b49396ff8e3f340cf955f5d509bf6661",
     "lastLogin": "2026-05-14T08:50:05.161Z"
+  },
+  {
+    "username": "saraseostur",
+    "key": "saraseostur",
+    "expired": 1810288506942,
+    "role": "user",
+    "createdAt": 1778752506942,
+    "createdBy": "Antarez"
   }
 ]
