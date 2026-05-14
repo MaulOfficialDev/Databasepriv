@@ -212,5 +212,13 @@
     "createdBy": "Fanz",
     "rememberToken": "7eadc006e1ee5095d59d8eeb7c5cc9011dd92ff149593226599bab04b0b2794a",
     "lastLogin": "2026-05-13T23:31:03.745Z"
+  },
+  {
+    "username": "Fata",
+    "key": "Fata",
+    "expired": 1787274415608,
+    "role": "reseller",
+    "createdAt": 1778720815608,
+    "createdBy": "FizOffc2"
   }
 ]
