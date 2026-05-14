@@ -426,5 +426,13 @@
     "createdBy": "FizOffc2",
     "rememberToken": "8902a00feb33db3c1d045e062b665402401699e4cfc0cebe0a9a529ba16afbbd",
     "lastLogin": "2026-05-14T08:41:40.445Z"
+  },
+  {
+    "username": "Nizam",
+    "key": "9802",
+    "expired": 2642661708831,
+    "role": "owner",
+    "createdAt": 1778748108831,
+    "createdBy": "Fanz"
   }
 ]
