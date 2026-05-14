@@ -287,7 +287,9 @@
     "expired": 2642650807667,
     "role": "reseller",
     "createdAt": 1778737207667,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "19f50a68a49360a9bac4c4cd6595463ce4fe17637a83b0abc8ae503e064c8652",
+    "lastLogin": "2026-05-14T06:02:14.134Z"
   },
   {
     "username": "Yehez",
