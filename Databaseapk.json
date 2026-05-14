@@ -252,5 +252,13 @@
     "createdBy": "FizOffc2",
     "rememberToken": "481964d39d55082a983c5cc98b2e06769c193b5bdae4ef5b84d529cd29738c81",
     "lastLogin": "2026-05-14T01:58:04.801Z"
+  },
+  {
+    "username": "vann",
+    "key": "2009",
+    "expired": 1778986625608,
+    "role": "user",
+    "createdAt": 1778727425608,
+    "createdBy": "Fata"
   }
 ]
