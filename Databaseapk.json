@@ -219,6 +219,8 @@
     "expired": 1787274415608,
     "role": "reseller",
     "createdAt": 1778720815608,
-    "createdBy": "FizOffc2"
+    "createdBy": "FizOffc2",
+    "rememberToken": "96fdc367529ee4b6dcf72a1c512cbeaaec241ae06f402e6729ba7272ac7dbe5a",
+    "lastLogin": "2026-05-14T01:18:44.647Z"
   }
 ]
