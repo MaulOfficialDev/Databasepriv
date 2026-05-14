@@ -372,5 +372,13 @@
     "createdBy": "Fanz",
     "rememberToken": "4c4596cf0169afa03b18fa86ed9f255700cc4cb8feedd96d292e52b04c0231bd",
     "lastLogin": "2026-05-14T06:54:16.724Z"
+  },
+  {
+    "username": "naya",
+    "key": "8888",
+    "expired": 1779779296104,
+    "role": "user",
+    "createdAt": 1778742496104,
+    "createdBy": "kayzen"
   }
 ]
