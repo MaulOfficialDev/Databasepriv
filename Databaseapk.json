@@ -382,5 +382,13 @@
     "createdBy": "kayzen",
     "rememberToken": "0139136ae773f168d5d0b200d2d253e8388ec737e19ac48dee79819ff605b4e0",
     "lastLogin": "2026-05-14T07:09:14.912Z"
+  },
+  {
+    "username": "dappy",
+    "key": "6789",
+    "expired": 1779779407425,
+    "role": "user",
+    "createdAt": 1778742607425,
+    "createdBy": "kayzen"
   }
 ]
