@@ -230,5 +230,13 @@
     "role": "reseller",
     "createdAt": 1778722682668,
     "createdBy": "FizOffc2"
+  },
+  {
+    "username": "Antarez",
+    "key": "Antarez",
+    "expired": 1787277152104,
+    "role": "reseller",
+    "createdAt": 1778723552104,
+    "createdBy": "FizOffc2"
   }
 ]
