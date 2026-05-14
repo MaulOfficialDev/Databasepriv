@@ -259,6 +259,8 @@
     "expired": 1778986625608,
     "role": "user",
     "createdAt": 1778727425608,
-    "createdBy": "Fata"
+    "createdBy": "Fata",
+    "rememberToken": "e70fc33871fa8187383d2c5e2cbf2ffb3b9c6310b201ff5bb1b25fa21c16c77e",
+    "lastLogin": "2026-05-14T03:01:42.928Z"
   }
 ]
