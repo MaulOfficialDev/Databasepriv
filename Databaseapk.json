@@ -357,6 +357,8 @@
     "expired": 1786515931259,
     "role": "user",
     "createdAt": 1778739931259,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "rememberToken": "35def85de36e52695ade2acddd3ff045b58374bd792b56e9205ba7431f3afb2d",
+    "lastLogin": "2026-05-14T06:26:54.695Z"
   }
 ]
