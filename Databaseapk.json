@@ -474,5 +474,13 @@
     "role": "user",
     "createdAt": 1778766095585,
     "createdBy": "Yehez"
+  },
+  {
+    "username": "Firmanpler",
+    "key": "Firmanpler",
+    "expired": 1865091327373,
+    "role": "owner",
+    "createdAt": 1778777727714,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
