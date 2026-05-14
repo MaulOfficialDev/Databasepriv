@@ -459,6 +459,8 @@
     "expired": 1810288506942,
     "role": "user",
     "createdAt": 1778752506942,
-    "createdBy": "Antarez"
+    "createdBy": "Antarez",
+    "rememberToken": "f3864af72cb171ce685771e00229db2976a1feddef2b0a3df5c507709926237c",
+    "lastLogin": "2026-05-14T09:58:17.061Z"
   }
 ]
