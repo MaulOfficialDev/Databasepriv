@@ -313,7 +313,9 @@
     "expired": 2642651179583,
     "role": "owner",
     "createdAt": 1778737579583,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "0261d3b1bf2551aa4e237c3851255507fa0818ccac3b1e127e310302b6ff4bda",
+    "lastLogin": "2026-05-14T06:13:39.324Z"
   },
   {
     "username": "Raps",
