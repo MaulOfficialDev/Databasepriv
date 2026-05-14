@@ -398,5 +398,13 @@
     "role": "user",
     "createdAt": 1778743680739,
     "createdBy": "kayzen"
+  },
+  {
+    "username": "zammm",
+    "key": "6789",
+    "expired": 1786520058071,
+    "role": "user",
+    "createdAt": 1778744058071,
+    "createdBy": "kayzen"
   }
 ]
