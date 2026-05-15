@@ -546,16 +546,6 @@
     "lastLogin": "2026-05-15T06:12:43.319Z"
   },
   {
-    "username": "TAB",
-    "key": "TAB",
-    "expired": 8.640000000017789e+23,
-    "role": "admin",
-    "createdAt": 1778827950775,
-    "createdBy": "Jack",
-    "rememberToken": "5ee4488e4858c21f7564235e7c7f7b478f3de64a9722226c64d22c7a3c3fa041",
-    "lastLogin": "2026-05-15T06:53:42.874Z"
-  },
-  {
     "username": "Tab",
     "key": "Tab",
     "expired": 1810364060585,
