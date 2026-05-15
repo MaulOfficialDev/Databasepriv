@@ -628,5 +628,13 @@
     "createdBy": "Fanz",
     "rememberToken": "1771bd83132375d320eb8fe99818bb999ed0f70859d1ccabd05db42e5ab62c57",
     "lastLogin": "2026-05-15T11:45:51.837Z"
+  },
+  {
+    "username": "Rizz",
+    "key": "3201",
+    "expired": 1865159266884,
+    "role": "owner",
+    "createdAt": 1778845666884,
+    "createdBy": "Fanz"
   }
 ]
