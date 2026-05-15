@@ -531,6 +531,8 @@
     "expired": 1781415456299,
     "role": "user",
     "createdAt": 1778823456299,
-    "createdBy": "Rizky"
+    "createdBy": "Rizky",
+    "rememberToken": "1a7f54f7d3f88a9e33478f84cf6ff106f9ecce81a2cb3ef0c4eed46c91b8e696",
+    "lastLogin": "2026-05-15T05:46:09.128Z"
   }
 ]
