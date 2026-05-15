@@ -544,5 +544,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "8efa09edd4033c1116461b18380915855dd3c2b986d6a45af925064a12d54c3e",
     "lastLogin": "2026-05-15T06:12:43.319Z"
+  },
+  {
+    "username": "TAB",
+    "key": "TAB",
+    "expired": 8.640000000017789e+23,
+    "role": "admin",
+    "createdAt": 1778827950775,
+    "createdBy": "Jack"
   }
 ]
