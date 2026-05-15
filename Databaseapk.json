@@ -623,6 +623,8 @@
     "expired": 1811500949938,
     "role": "user",
     "createdAt": 1778841749938,
-    "createdBy": "Fata"
+    "createdBy": "Fata",
+    "rememberToken": "860dfb033f034dd0a5abca6b54e85beaf4bae37a4c97aceca714edf2770296ac",
+    "lastLogin": "2026-05-15T10:44:04.271Z"
   }
 ]
