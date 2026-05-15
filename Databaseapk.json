@@ -564,5 +564,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "be8f91cdee2d1f611da9957067cc0279f565824a99dfe88b9abfa9f3fe9c7689",
     "lastLogin": "2026-05-15T07:20:17.985Z"
+  },
+  {
+    "username": "alstar",
+    "key": "alstar amanah",
+    "expired": 1779698356056,
+    "role": "user",
+    "createdAt": 1778834356056,
+    "createdBy": "Yehez"
   }
 ]
