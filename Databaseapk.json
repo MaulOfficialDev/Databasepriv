@@ -491,6 +491,8 @@
     "expired": 1781578337915,
     "role": "user",
     "createdAt": 1778813537915,
-    "createdBy": "Xreally"
+    "createdBy": "Xreally",
+    "rememberToken": "9d4d9881c88b934f8baf1bf1862e09e5c4c58e5b2e09a1e2e5ec5689fa29403d",
+    "lastLogin": "2026-05-15T02:54:50.442Z"
   }
 ]
