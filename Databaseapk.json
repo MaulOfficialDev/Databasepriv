@@ -437,7 +437,9 @@
     "expired": 2642661708831,
     "role": "owner",
     "createdAt": 1778748108831,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "02214a0c394826fb6275a2099aae1e15f11aa4637f4994641d447f77f10e55ed",
+    "lastLogin": "2026-05-15T09:23:51.791Z"
   },
   {
     "username": "Ikoxyz",
