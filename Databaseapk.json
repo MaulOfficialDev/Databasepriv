@@ -603,6 +603,8 @@
     "expired": 1865154242249,
     "role": "reseller",
     "createdAt": 1778840642249,
-    "createdBy": "Reyyz"
+    "createdBy": "Reyyz",
+    "rememberToken": "7507676dec9244a751f99a5ccb470214e910e1579e83f4d1f73aa2f4fb0928c0",
+    "lastLogin": "2026-05-15T10:27:18.511Z"
   }
 ]
