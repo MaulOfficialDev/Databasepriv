@@ -541,6 +541,8 @@
     "expired": 1865138855010,
     "role": "user",
     "createdAt": 1778825255173,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "1a5cdc4e6971eb9142e6abc66120d9462adf9314a9977d7facba102355b3a478",
+    "lastLogin": "2026-05-15T06:10:08.272Z"
   }
 ]
