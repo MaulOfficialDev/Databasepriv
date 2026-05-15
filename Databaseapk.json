@@ -583,7 +583,9 @@
     "expired": 1865152443753,
     "role": "user",
     "createdAt": 1778838843944,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "rememberToken": "f5aa5ee69a1cf8d5eb9700bce005da6fcd74aea8ce4349295334e818b2310ae7",
+    "lastLogin": "2026-05-15T10:00:29.016Z"
   },
   {
     "username": "Nugii",
