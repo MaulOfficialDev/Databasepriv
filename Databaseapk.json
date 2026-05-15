@@ -686,5 +686,13 @@
     "createdBy": "FizOffc2",
     "rememberToken": "07e49312091f694d7050f961320cef19da51a5152e88c419ef76c620ce7d8e8a",
     "lastLogin": "2026-05-15T12:56:51.518Z"
+  },
+  {
+    "username": "Ryu",
+    "key": "3269",
+    "expired": 1781480041016,
+    "role": "owner",
+    "createdAt": 1778888041016,
+    "createdBy": "Fanz"
   }
 ]
