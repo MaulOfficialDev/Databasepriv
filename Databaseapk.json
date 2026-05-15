@@ -534,5 +534,13 @@
     "createdBy": "Rizky",
     "rememberToken": "1a7f54f7d3f88a9e33478f84cf6ff106f9ecce81a2cb3ef0c4eed46c91b8e696",
     "lastLogin": "2026-05-15T05:46:09.128Z"
+  },
+  {
+    "username": "messi",
+    "key": "messi",
+    "expired": 1865138855010,
+    "role": "user",
+    "createdAt": 1778825255173,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
