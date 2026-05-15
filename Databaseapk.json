@@ -561,6 +561,8 @@
     "expired": 1810364060585,
     "role": "admin",
     "createdAt": 1778828060585,
-    "createdBy": "Jack"
+    "createdBy": "Jack",
+    "rememberToken": "36a88064698322a8450bec6b068777c0afa98d281ab3e602d0cc804930283e3f",
+    "lastLogin": "2026-05-15T06:54:31.588Z"
   }
 ]
