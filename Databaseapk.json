@@ -653,6 +653,8 @@
     "expired": 2642760964254,
     "role": "user",
     "createdAt": 1778847364254,
-    "createdBy": "Alpin"
+    "createdBy": "Alpin",
+    "rememberToken": "ee91d6607c0bc155f6b323a901db454e35d836186ca69be8bd0d5c07a50f96af",
+    "lastLogin": "2026-05-15T12:23:15.097Z"
   }
 ]
