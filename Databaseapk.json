@@ -656,5 +656,13 @@
     "createdBy": "Alpin",
     "rememberToken": "ee91d6607c0bc155f6b323a901db454e35d836186ca69be8bd0d5c07a50f96af",
     "lastLogin": "2026-05-15T12:23:15.097Z"
+  },
+  {
+    "username": "ciel",
+    "key": "9876",
+    "expired": 1786623802250,
+    "role": "user",
+    "createdAt": 1778847802250,
+    "createdBy": "kayzen"
   }
 ]
