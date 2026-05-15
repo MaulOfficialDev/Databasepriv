@@ -484,5 +484,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "18ec598a5929a177d894e68facd89f9330073b61994f295aecb8c03832ad5fcd",
     "lastLogin": "2026-05-14T17:01:03.346Z"
+  },
+  {
+    "username": "Zarjit",
+    "key": "1",
+    "expired": 1781578337915,
+    "role": "user",
+    "createdAt": 1778813537915,
+    "createdBy": "Xreally"
   }
 ]
