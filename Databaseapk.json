@@ -591,6 +591,8 @@
     "expired": 1865152545275,
     "role": "user",
     "createdAt": 1778838945275,
-    "createdBy": "Reyyz"
+    "createdBy": "Reyyz",
+    "rememberToken": "f085e0c29adaff6922ecf0d823fcf28657f2553060df305e7dd2f7516719df55",
+    "lastLogin": "2026-05-15T09:57:51.565Z"
   }
 ]
