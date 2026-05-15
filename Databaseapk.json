@@ -676,5 +676,13 @@
     "createdBy": "FizOffc2",
     "rememberToken": "627a4a5562c575c15ab13468ca88b3a3f4ef5abfc99a7bd1e1f5172ca2fcc06f",
     "lastLogin": "2026-05-15T12:51:13.305Z"
+  },
+  {
+    "username": "Gill",
+    "key": "Gill",
+    "expired": 2642763225568,
+    "role": "reseller",
+    "createdAt": 1778849625568,
+    "createdBy": "FizOffc2"
   }
 ]
