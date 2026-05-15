@@ -554,5 +554,13 @@
     "createdBy": "Jack",
     "rememberToken": "1ffe9dcfd1cd623228823be170c06cfa01ed9c79b07e10dc69a8561913a7aacf",
     "lastLogin": "2026-05-15T06:54:33.206Z"
+  },
+  {
+    "username": "Fann",
+    "key": "Fann",
+    "expired": 1865143070633,
+    "role": "owner",
+    "createdAt": 1778829470774,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
