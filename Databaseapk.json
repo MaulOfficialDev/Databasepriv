@@ -521,7 +521,9 @@
     "expired": 1810357596599,
     "role": "user",
     "createdAt": 1778821596599,
-    "createdBy": "Yehez"
+    "createdBy": "Yehez",
+    "rememberToken": "e52dfb22453c7107749e35258b7176fca937a54ccef42cf57f3055b20acddb94",
+    "lastLogin": "2026-05-15T05:42:47.034Z"
   },
   {
     "username": "Alip",
