@@ -819,6 +819,8 @@
     "expired": 1810478675140,
     "role": "pt",
     "createdAt": 1778942675140,
-    "createdBy": "Fann"
+    "createdBy": "Fann",
+    "rememberToken": "80e6eb5bd73656e40a03be03433d624d2e168d0f5f67dd66f4c52f61db45ff59",
+    "lastLogin": "2026-05-16T14:45:47.368Z"
   }
 ]
