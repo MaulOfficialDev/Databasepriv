@@ -439,7 +439,9 @@
     "expired": 2642662033669,
     "role": "reseller",
     "createdAt": 1778748433669,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "02c3e2effd37109dc0708f15e6c60d7373197616f34e2aed82ec65a615ee1c0b",
+    "lastLogin": "2026-05-16T00:56:12.540Z"
   },
   {
     "username": "Jee",
