@@ -637,7 +637,9 @@
     "expired": 1865159266884,
     "role": "owner",
     "createdAt": 1778845666884,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "dc15423cedda16dd2751cd25f1e7831262692074068f2526affecc1653b17e1e",
+    "lastLogin": "2026-05-16T06:01:25.357Z"
   },
   {
     "username": "pira",
