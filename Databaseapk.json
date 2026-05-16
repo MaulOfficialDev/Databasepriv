@@ -748,5 +748,13 @@
     "createdBy": "kayzen",
     "rememberToken": "272583c2d66e25785187fa1561b4f9d288e7c5fefd2ac45e796eb896e1f031bb",
     "lastLogin": "2026-05-16T06:38:54.528Z"
+  },
+  {
+    "username": "batitong",
+    "key": "7777",
+    "expired": 1781505809072,
+    "role": "user",
+    "createdAt": 1778913809072,
+    "createdBy": "kayzen"
   }
 ]
