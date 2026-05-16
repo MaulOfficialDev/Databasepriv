@@ -755,7 +755,9 @@
     "expired": 1781505809072,
     "role": "user",
     "createdAt": 1778913809072,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "rememberToken": "93c072ca6878c3adc51200fb010bd3df8af256f414e1e0ad377a79dffe16c63e",
+    "lastLogin": "2026-05-16T06:48:59.896Z"
   },
   {
     "username": "Nefa",
