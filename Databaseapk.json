@@ -726,5 +726,13 @@
     "createdBy": "Jack",
     "rememberToken": "06237016975ce01193bf27b09c2c60f3f3b15b8c6ff6e7fd5edba9f87e2a5d86",
     "lastLogin": "2026-05-16T05:58:08.510Z"
+  },
+  {
+    "username": "bian",
+    "key": "1209",
+    "expired": 2642824747996,
+    "role": "reseller",
+    "createdAt": 1778911147996,
+    "createdBy": "Fanz"
   }
 ]
