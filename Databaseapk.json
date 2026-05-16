@@ -822,5 +822,13 @@
     "createdBy": "Fann",
     "rememberToken": "8a2717c918c28bbe218b7dcc21d1cd45bba9f7d021d4556293c11834aa568fc4",
     "lastLogin": "2026-05-16T14:47:45.347Z"
+  },
+  {
+    "username": "bielofc",
+    "key": "2801",
+    "expired": 2642864100075,
+    "role": "reseller",
+    "createdAt": 1778950500075,
+    "createdBy": "Fanz"
   }
 ]
