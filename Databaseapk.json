@@ -845,6 +845,8 @@
     "expired": 2642864242059,
     "role": "owner",
     "createdAt": 1778950642059,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "a90a7fff80a5289f7d41c813af1c98d670f3a98f131ef62a1258f19ec2bc211d",
+    "lastLogin": "2026-05-16T16:58:34.495Z"
   }
 ]
