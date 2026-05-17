@@ -887,6 +887,8 @@
     "expired": 1780289850432,
     "role": "user",
     "createdAt": 1778993850432,
-    "createdBy": "bielofc"
+    "createdBy": "bielofc",
+    "rememberToken": "a16642e878274aaef101ded4228a2cc0eae64c72b7d649c801d1b0f062b8deda",
+    "lastLogin": "2026-05-17T04:58:42.822Z"
   }
 ]
