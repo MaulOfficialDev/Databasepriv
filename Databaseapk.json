@@ -852,5 +852,13 @@
     "createdBy": "Fanz",
     "rememberToken": "6220526adb1bab19d837c83b3f68bf6f7437368d13933ca6a7da2f8f30277fec",
     "lastLogin": "2026-05-16T17:01:11.083Z"
+  },
+  {
+    "username": "faizz",
+    "key": "7778",
+    "expired": 1779769086290,
+    "role": "user",
+    "createdAt": 1778991486290,
+    "createdBy": "kayzen"
   }
 ]
