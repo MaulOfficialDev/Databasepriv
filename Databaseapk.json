@@ -880,5 +880,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "835198c536da1bb23b51f575940383def6c87f486605b4ec862df3379b69a8a7",
     "lastLogin": "2026-05-17T04:31:20.142Z"
+  },
+  {
+    "username": "lyongkacung",
+    "key": "1122",
+    "expired": 1780289850432,
+    "role": "user",
+    "createdAt": 1778993850432,
+    "createdBy": "bielofc"
   }
 ]
