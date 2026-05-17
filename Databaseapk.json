@@ -919,6 +919,8 @@
     "expired": 2642939317794,
     "role": "reseller",
     "createdAt": 1779025717794,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "f4b9745b6339bf131278d2b6484430f686c104168cc3aea61ee5df1439dcbd23",
+    "lastLogin": "2026-05-17T13:59:12.206Z"
   }
 ]
