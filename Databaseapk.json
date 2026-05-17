@@ -870,5 +870,13 @@
     "role": "user",
     "createdAt": 1778991529611,
     "createdBy": "kayzen"
+  },
+  {
+    "username": "Andre",
+    "key": "Andre",
+    "expired": 1865305655067,
+    "role": "pt",
+    "createdAt": 1778992055190,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
