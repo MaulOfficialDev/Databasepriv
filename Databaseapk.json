@@ -912,5 +912,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "d257643041797eeb1c26e7f6cea8f5ca630a07748069ff43845bc8566ec92764",
     "lastLogin": "2026-05-17T10:39:04.838Z"
+  },
+  {
+    "username": "Lory",
+    "key": "9020",
+    "expired": 2642939317794,
+    "role": "reseller",
+    "createdAt": 1779025717794,
+    "createdBy": "Fanz"
   }
 ]
