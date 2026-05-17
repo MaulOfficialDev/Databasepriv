@@ -837,7 +837,9 @@
     "expired": 2642864141155,
     "role": "user",
     "createdAt": 1778950541155,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "rememberToken": "b1774b87ca78967bd8e339eea5ad98d22e3aa4336a67ccf280fd2d5d828a6c3f",
+    "lastLogin": "2026-05-17T00:26:47.817Z"
   },
   {
     "username": "LaseXZebua",
