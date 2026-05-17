@@ -860,5 +860,13 @@
     "role": "user",
     "createdAt": 1778991486290,
     "createdBy": "kayzen"
+  },
+  {
+    "username": "medina",
+    "key": "9999",
+    "expired": 1781583529611,
+    "role": "user",
+    "createdAt": 1778991529611,
+    "createdBy": "kayzen"
   }
 ]
