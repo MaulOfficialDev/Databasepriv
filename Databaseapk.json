@@ -869,7 +869,9 @@
     "expired": 1781583529611,
     "role": "user",
     "createdAt": 1778991529611,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "rememberToken": "6c0cece413fcfc86fe3056b8bab10727bcd975ed5f6bbfaeedbc93140acaf204",
+    "lastLogin": "2026-05-17T06:48:45.852Z"
   },
   {
     "username": "Andre",
