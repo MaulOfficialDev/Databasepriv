@@ -899,6 +899,8 @@
     "expired": 1779097269243,
     "role": "user",
     "createdAt": 1779010869243,
-    "createdBy": "Nizam"
+    "createdBy": "Nizam",
+    "rememberToken": "0887aeb5d58a24babdfee85fc1cc43697e96d88796b998124c24822c78bcabb0",
+    "lastLogin": "2026-05-17T09:48:07.028Z"
   }
 ]
