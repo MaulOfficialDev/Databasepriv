@@ -9,6 +9,11 @@
       "username": "Fanz",
       "password": "Ceonull",
       "role": "admin"
+    },
+    {
+      "username": "pino",
+      "phone": "+6288242460935",
+      "role": "user"
     }
   ]
 }
