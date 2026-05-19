@@ -972,5 +972,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "c2f4598bf6f6d4a3f104728dda4e4ee7fc0ad7a3e94cb742219854d2dba79698",
     "lastLogin": "2026-05-18T10:49:46.093Z"
+  },
+  {
+    "username": "BIBU PT2",
+    "key": "BIBU PT2",
+    "expired": 1850957511096,
+    "role": "pt",
+    "createdAt": 1779159111097,
+    "createdBy": "Jack"
   }
 ]
