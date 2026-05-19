@@ -982,5 +982,13 @@
     "createdBy": "Jack",
     "rememberToken": "109b5de50069e05007d89dd55b0a244202b5951093adbba6b7adcc52c305d019",
     "lastLogin": "2026-05-19T02:51:59.175Z"
+  },
+  {
+    "username": "Mecca",
+    "key": "Mecca",
+    "expired": 1865501181298,
+    "role": "user",
+    "createdAt": 1779187581470,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
