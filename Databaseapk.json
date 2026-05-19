@@ -1004,16 +1004,6 @@
     "lastLogin": "2026-05-19T13:08:08.758Z"
   },
   {
-    "username": "boyjembot",
-    "key": "boyjembot",
-    "expired": 1780495441920,
-    "role": "user",
-    "createdAt": 1779199441920,
-    "createdBy": "opalldev",
-    "rememberToken": "2c5fac13ffc8e8c5d49aaa308917220a4c5bf72f8d224cc717451d4657760198",
-    "lastLogin": "2026-05-19T14:43:10.775Z"
-  },
-  {
     "username": "boyjembot#23",
     "key": "boyjembot",
     "expired": 1780583673197,
