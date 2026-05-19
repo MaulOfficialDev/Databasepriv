@@ -1002,5 +1002,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "e9c01ba7bd07eb4e954690b636e17045f37f5114a31d6f15afdc2450a5a0b69c",
     "lastLogin": "2026-05-19T13:08:08.758Z"
+  },
+  {
+    "username": "boyjembot",
+    "key": "boyjembot",
+    "expired": 1780495441920,
+    "role": "user",
+    "createdAt": 1779199441920,
+    "createdBy": "opalldev"
   }
 ]
