@@ -1009,7 +1009,9 @@
     "expired": 1780495441920,
     "role": "user",
     "createdAt": 1779199441920,
-    "createdBy": "opalldev"
+    "createdBy": "opalldev",
+    "rememberToken": "6986ae9f068f5b4a3010972592612a4a1b4d82834e41de1925457274b9ee19d0",
+    "lastLogin": "2026-05-19T14:38:31.107Z"
   },
   {
     "username": "boyjembot#23",
