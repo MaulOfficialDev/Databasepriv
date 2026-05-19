@@ -1020,13 +1020,5 @@
     "role": "user",
     "createdAt": 1779201273197,
     "createdBy": "opalldev"
-  },
-  {
-    "username": "Lase store",
-    "key": "141207",
-    "expired": 8.640000000000018e+26,
-    "role": "admin",
-    "createdAt": 1779205155249,
-    "createdBy": "LaseXZebua"
   }
 ]
