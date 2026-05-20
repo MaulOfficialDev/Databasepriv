@@ -1020,5 +1020,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "de25ec7dfa3d2bfd58c6c9219a72e59714dfbb4e781c98f5237eb05d34d9f118",
     "lastLogin": "2026-05-20T04:44:52.291Z"
+  },
+  {
+    "username": "kacung",
+    "key": "3030",
+    "expired": 1780136825665,
+    "role": "user",
+    "createdAt": 1779272825665,
+    "createdBy": "Raps"
   }
 ]
