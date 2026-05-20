@@ -1022,5 +1022,13 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "de25ec7dfa3d2bfd58c6c9219a72e59714dfbb4e781c98f5237eb05d34d9f118",
     "lastLogin": "2026-05-20T04:44:52.291Z"
+  },
+  {
+    "username": "BandrakShop",
+    "key": "BandrakShop",
+    "expired": 1865600348342,
+    "role": "reseller",
+    "createdAt": 1779286748556,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
