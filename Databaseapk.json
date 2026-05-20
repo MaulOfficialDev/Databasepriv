@@ -1027,6 +1027,8 @@
     "expired": 1781853935953,
     "role": "user",
     "createdAt": 1779261935953,
-    "createdBy": "Raps"
+    "createdBy": "Raps",
+    "rememberToken": "512865294b65eb71194ff21db1b53f0d508dd3dd8b393a97a5fcae2d044dea51",
+    "lastLogin": "2026-05-20T07:26:41.736Z"
   }
 ]
