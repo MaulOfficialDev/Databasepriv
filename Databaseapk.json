@@ -1049,6 +1049,8 @@
     "expired": 1781448523745,
     "role": "user",
     "createdAt": 1779288523745,
-    "createdBy": "Nefa"
+    "createdBy": "Nefa",
+    "rememberToken": "d80db9f1c60b45cf509c25e64d5376f6eef1b1d809be93201413ffe3009475ac",
+    "lastLogin": "2026-05-20T14:49:22.030Z"
   }
 ]
