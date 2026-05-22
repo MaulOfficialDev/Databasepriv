@@ -1002,5 +1002,13 @@
     "role": "user",
     "createdAt": 1779336152169,
     "createdBy": "opalldev"
+  },
+  {
+    "username": "davin",
+    "key": "davin",
+    "expired": 1865760288842,
+    "role": "user",
+    "createdAt": 1779446690119,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
