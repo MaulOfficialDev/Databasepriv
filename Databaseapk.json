@@ -148,16 +148,6 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env"
   },
   {
-    "username": "WILI PT2",
-    "key": "WILI PT2",
-    "expired": 1778751690881,
-    "role": "user",
-    "createdAt": 1778578890881,
-    "createdBy": "Jack",
-    "rememberToken": "36cada952e9c7616cc4c9d8c03b01b4de17ed05ae629637acc2aa64d41656583",
-    "lastLogin": "2026-05-15T03:19:42.418Z"
-  },
-  {
     "username": "Wann",
     "key": "Wann",
     "expired": 865778493755994,
@@ -246,16 +236,6 @@
     "createdBy": "FizOffc2",
     "rememberToken": "ff016996ebdf927f408672339f2c1402a793568da24e3c295f4ee6008c614be1",
     "lastLogin": "2026-05-14T14:51:57.141Z"
-  },
-  {
-    "username": "vann",
-    "key": "2009",
-    "expired": 1778986625608,
-    "role": "user",
-    "createdAt": 1778727425608,
-    "createdBy": "Fata",
-    "rememberToken": "e70fc33871fa8187383d2c5e2cbf2ffb3b9c6310b201ff5bb1b25fa21c16c77e",
-    "lastLogin": "2026-05-14T03:01:42.928Z"
   },
   {
     "username": "Padil",
@@ -604,16 +584,6 @@
     "lastLogin": "2026-05-15T10:27:18.511Z"
   },
   {
-    "username": "Alfaruq",
-    "key": "Alfaruq",
-    "expired": 1778927446092,
-    "role": "user",
-    "createdAt": 1778841046092,
-    "createdBy": "Ryuu",
-    "rememberToken": "345319cd183452a85d7f663b3fc883e6fc4015aaa0b4115da429207d31cf4f4b",
-    "lastLogin": "2026-05-15T10:36:25.863Z"
-  },
-  {
     "username": "ramm",
     "key": "xzv5",
     "expired": 1811500949938,
@@ -722,16 +692,6 @@
     "createdBy": "Yehez"
   },
   {
-    "username": "BIBU USR",
-    "key": "BIBU USR",
-    "expired": 1778997402502,
-    "role": "user",
-    "createdAt": 1778911002502,
-    "createdBy": "Jack",
-    "rememberToken": "37eafd857ee395348a53a579bb68cb6cf973d2c278430d94feb38592da1d5f24",
-    "lastLogin": "2026-05-20T08:03:15.864Z"
-  },
-  {
     "username": "bian",
     "key": "1209",
     "expired": 2642824747996,
@@ -770,14 +730,6 @@
     "createdBy": "Fanz",
     "rememberToken": "3bda7d13f6ff4075a27b881023152ad130db040487d42dd131faccd4f7488a80",
     "lastLogin": "2026-05-17T05:28:06.578Z"
-  },
-  {
-    "username": "alpin2k09",
-    "key": "120129",
-    "expired": 1779007013225,
-    "role": "user",
-    "createdAt": 1778920613225,
-    "createdBy": "Alpin"
   },
   {
     "username": "wilkogamang",
@@ -894,16 +846,6 @@
     "createdBy": "bielofc",
     "rememberToken": "4374ea6d27cfe570f38017e54389e20c49df8746e521bf52cd10d04051f00cda",
     "lastLogin": "2026-05-18T01:31:31.312Z"
-  },
-  {
-    "username": "Riox",
-    "key": "8809",
-    "expired": 1779097269243,
-    "role": "user",
-    "createdAt": 1779010869243,
-    "createdBy": "Nizam",
-    "rememberToken": "f2df07a0eb35919f1078de1bd84272a67d394bbab68511349c38ae184d37bcea",
-    "lastLogin": "2026-05-17T09:53:10.166Z"
   },
   {
     "username": "Lenoxtech",
