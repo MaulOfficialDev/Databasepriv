@@ -1019,6 +1019,8 @@
     "expired": 2643369525391,
     "role": "pt",
     "createdAt": 1779455925391,
-    "createdBy": "Mauldev"
+    "createdBy": "Mauldev",
+    "rememberToken": "c451c49b51a347eb0127fb8076394bf2ca2c88342a86889147f2eda8106e5864",
+    "lastLogin": "2026-05-22T13:20:30.375Z"
   }
 ]
