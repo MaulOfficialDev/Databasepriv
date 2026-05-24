@@ -1034,5 +1034,15 @@
     "createdBy": "Fann",
     "rememberToken": "412250effce2dce4a58ddad88a615189574e19b993221f3d9f2dc46865168a78",
     "lastLogin": "2026-05-24T01:56:21.298Z"
+  },
+  {
+    "username": "Dave",
+    "key": "Dave",
+    "expired": 2643535535924,
+    "expiredDate": "2053-10-08",
+    "durationDays": 9999,
+    "role": "reseller",
+    "createdAt": 1779621937172,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
