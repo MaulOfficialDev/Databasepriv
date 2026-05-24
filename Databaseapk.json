@@ -1058,5 +1058,15 @@
     "createdBy": "Dave",
     "rememberToken": "061547f1873d25f1a924157b009f86aec4b8e0ed737056480cf6385e70eb6f92",
     "lastLogin": "2026-05-24T13:09:40.665Z"
+  },
+  {
+    "username": "Rohan",
+    "key": "Rohan",
+    "expired": 2643543113102,
+    "expiredDate": "2053-10-08",
+    "durationDays": 9999,
+    "role": "user",
+    "createdAt": 1779629513103,
+    "createdBy": "Dave"
   }
 ]
