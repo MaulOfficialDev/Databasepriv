@@ -1031,6 +1031,8 @@
     "durationDays": 9999,
     "role": "user",
     "createdAt": 1779587308199,
-    "createdBy": "Fann"
+    "createdBy": "Fann",
+    "rememberToken": "7195ef58eeabec909c053b7fdfd62df88e7388a6ca602bbf3ae2d67ac009377d",
+    "lastLogin": "2026-05-24T01:49:37.148Z"
   }
 ]
