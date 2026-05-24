@@ -1055,6 +1055,8 @@
     "durationDays": 9999,
     "role": "user",
     "createdAt": 1779627788155,
-    "createdBy": "Dave"
+    "createdBy": "Dave",
+    "rememberToken": "85e14eee676cb1bfd665df459bfcba268fee36915d20dfec4ca6f97d00d53b5d",
+    "lastLogin": "2026-05-24T13:05:58.930Z"
   }
 ]
