@@ -1046,5 +1046,15 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "448c85108e3add9c396c49ffecc0be3d4fc645d488d88e8f46cc1914a6c498ab",
     "lastLogin": "2026-05-24T12:26:33.763Z"
+  },
+  {
+    "username": "Hunter",
+    "key": "12",
+    "expired": 2643541388128,
+    "expiredDate": "2053-10-08",
+    "durationDays": 9999,
+    "role": "user",
+    "createdAt": 1779627788155,
+    "createdBy": "Dave"
   }
 ]
