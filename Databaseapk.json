@@ -1070,5 +1070,15 @@
     "createdBy": "Dave",
     "rememberToken": "39a0319e9a32aac2a2352d36eaaf44c742276141a96f709c1f0e5e60ab5c1269",
     "lastLogin": "2026-05-24T16:53:39.334Z"
+  },
+  {
+    "username": "Alfanz",
+    "key": "Alfanz",
+    "expired": 2643598698793,
+    "expiredDate": "2053-10-09",
+    "durationDays": 9999,
+    "role": "user",
+    "createdAt": 1779685100820,
+    "createdBy": "𝖬𝖺𝗎𝗅.env"
   }
 ]
