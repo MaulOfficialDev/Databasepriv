@@ -1082,5 +1082,15 @@
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "0d614a2463b4b147d9869d9562d7489bcb049a418d161838698c6cea6fbd7cde",
     "lastLogin": "2026-05-25T05:32:26.484Z"
+  },
+  {
+    "username": "Nitafute",
+    "key": "Nitafute",
+    "expired": 2643600763975,
+    "expiredDate": "2053-10-09",
+    "durationDays": 9999,
+    "role": "user",
+    "createdAt": 1779687164112,
+    "createdBy": "Dave"
   }
 ]
