@@ -7,7 +7,9 @@
     "createdAt": 1778567363561,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "bcd10bb81c213cbee4ad84179afedef7399a1eb1762a23edbce897f655b65477",
-    "lastLogin": "2026-05-22T20:53:00.548Z"
+    "lastLogin": "2026-05-22T20:53:00.548Z",
+    "password": "25",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Fanz",
@@ -17,7 +19,9 @@
     "createdAt": 1778567418163,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "85821e0af609043f919fc9744cc9a2086eb0fb1326641f2096b7848cf2e51461",
-    "lastLogin": "2026-05-23T03:45:53.960Z"
+    "lastLogin": "2026-05-23T03:45:53.960Z",
+    "password": "Ceo",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Well",
@@ -25,7 +29,9 @@
     "expired": 1779431759765,
     "role": "user",
     "createdAt": 1778567759899,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "Well",
+    "expiredDate": "2026-05-22"
   },
   {
     "username": "KJNEWERAV1",
@@ -35,7 +41,9 @@
     "createdAt": 1778567765387,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "0e1405a8c509a6117461f6a2c9df7a97d69acf8e9a42529ee4c8919340891f49",
-    "lastLogin": "2026-05-19T17:04:14.501Z"
+    "lastLogin": "2026-05-19T17:04:14.501Z",
+    "password": "KJNEWERAV1",
+    "expiredDate": "2026-06-10"
   },
   {
     "username": "reza",
@@ -45,7 +53,9 @@
     "createdAt": 1778567774066,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "2bde9b5366c94bf5dbcce9f70097b1d2cf2e2767ea76f3f52924b19ee451b9fd",
-    "lastLogin": "2026-05-13T08:43:22.716Z"
+    "lastLogin": "2026-05-13T08:43:22.716Z",
+    "password": "reza",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Lihzz",
@@ -53,7 +63,9 @@
     "expired": 1780295781805,
     "role": "user",
     "createdAt": 1778567781973,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "Lihzz",
+    "expiredDate": "2026-06-01"
   },
   {
     "username": "Ast",
@@ -63,7 +75,9 @@
     "createdAt": 1778567789151,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "5f4ffbebdc3ba152c983a4e85c3c0ea03438c45b2e29564de39515dfebde7a32",
-    "lastLogin": "2026-05-23T15:53:34.867Z"
+    "lastLogin": "2026-05-23T15:53:34.867Z",
+    "password": "Ast",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Dilzx",
@@ -71,7 +85,9 @@
     "expired": 1864881396545,
     "role": "user",
     "createdAt": 1778567796694,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "Dilzx",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "mango",
@@ -79,7 +95,9 @@
     "expired": 1779431804190,
     "role": "user",
     "createdAt": 1778567804349,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "mango",
+    "expiredDate": "2026-05-22"
   },
   {
     "username": "kjnewera",
@@ -89,7 +107,9 @@
     "createdAt": 1778567811741,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "fe18d5ed7f6c7fc63e322126c89ecb3dab2a239320bf6c0ab8d1347a922d88e8",
-    "lastLogin": "2026-05-20T18:16:29.390Z"
+    "lastLogin": "2026-05-20T18:16:29.390Z",
+    "password": "kjnewera",
+    "expiredDate": "2026-05-27"
   },
   {
     "username": "Misaki",
@@ -97,7 +117,9 @@
     "expired": 1779863820491,
     "role": "user",
     "createdAt": 1778567820648,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "Misaki",
+    "expiredDate": "2026-05-27"
   },
   {
     "username": "raska",
@@ -107,7 +129,9 @@
     "createdAt": 1778567839934,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "042b03fbf283d75f49720c69226ac88d35d8c6909584308343dc47b35e530d76",
-    "lastLogin": "2026-05-20T10:34:07.755Z"
+    "lastLogin": "2026-05-20T10:34:07.755Z",
+    "password": "raska",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Naufal",
@@ -117,7 +141,9 @@
     "createdAt": 1778567848743,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "fe350ecb94c742f3340eb3303b2c9b41bca9aef7312e9640bd0b69e6fa49d8a5",
-    "lastLogin": "2026-05-13T10:29:29.682Z"
+    "lastLogin": "2026-05-13T10:29:29.682Z",
+    "password": "Naufal",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Jack",
@@ -127,7 +153,9 @@
     "createdAt": 1778567864535,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "edf98065cef20594fbbe65e83945a3c928aaae17234fa60f34139b4011c89b16",
-    "lastLogin": "2026-05-13T14:33:55.047Z"
+    "lastLogin": "2026-05-13T14:33:55.047Z",
+    "password": "Jack",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Ryuu",
@@ -137,7 +165,9 @@
     "createdAt": 1778567867109,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "1df785e5f9922b2cd3fcb79f2da607616c57def821fb9ea262ea860072d0388f",
-    "lastLogin": "2026-05-22T11:36:11.049Z"
+    "lastLogin": "2026-05-22T11:36:11.049Z",
+    "password": "Ryuu",
+    "expiredDate": "2029-02-04"
   },
   {
     "username": "Raldz",
@@ -145,7 +175,9 @@
     "expired": 1781159870954,
     "role": "user",
     "createdAt": 1778567871050,
-    "createdBy": "𝖬𝖺𝗎𝗅.env"
+    "createdBy": "𝖬𝖺𝗎𝗅.env",
+    "password": "Raldz",
+    "expiredDate": "2026-06-11"
   },
   {
     "username": "Wann",
@@ -155,7 +187,9 @@
     "createdAt": 1778580155994,
     "createdBy": "Jack",
     "rememberToken": "3098764adbc93fd5e06330aeab687519fc3f1d6cdd2da3a9037a2400b28638b5",
-    "lastLogin": "2026-05-14T04:13:50.720Z"
+    "lastLogin": "2026-05-14T04:13:50.720Z",
+    "password": "Wann",
+    "expiredDate": "+029405-06-06"
   },
   {
     "username": "FizOffc2",
@@ -165,7 +199,9 @@
     "createdAt": 1778680864020,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "a6b507a9cd9f8a94c3d4956fcec1d6e3763be455d2713b27b8f03915975fc27f",
-    "lastLogin": "2026-05-15T12:29:20.047Z"
+    "lastLogin": "2026-05-15T12:29:20.047Z",
+    "password": "FizOffc2",
+    "expiredDate": "2029-02-05"
   },
   {
     "username": "Tanic",
@@ -175,7 +211,9 @@
     "createdAt": 1778682197845,
     "createdBy": "Fanz",
     "rememberToken": "c6ed487bdc0ed0d02e10cd22bf90a90e13ea594714f678b6223605be3b762f6f",
-    "lastLogin": "2026-05-13T14:25:41.394Z"
+    "lastLogin": "2026-05-13T14:25:41.394Z",
+    "password": "3408",
+    "expiredDate": "2029-02-05"
   },
   {
     "username": "chintia",
@@ -185,7 +223,9 @@
     "createdAt": 1778700971039,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "8cc0edda673ab75881f645f57b2935d1c7474f6abd74351d28b6b00f8d91f79c",
-    "lastLogin": "2026-05-13T22:00:22.786Z"
+    "lastLogin": "2026-05-13T22:00:22.786Z",
+    "password": "chintia",
+    "expiredDate": "2029-02-05"
   },
   {
     "username": "Zovy",
@@ -195,7 +235,9 @@
     "createdAt": 1778702597694,
     "createdBy": "Fanz",
     "rememberToken": "06f3f7acdb94c612a773ea8c1eb84d1e4a9ccf66a24b0f7a378808949b033cdb",
-    "lastLogin": "2026-05-21T13:29:27.934Z"
+    "lastLogin": "2026-05-21T13:29:27.934Z",
+    "password": "4791",
+    "expiredDate": "2053-09-27"
   },
   {
     "username": "Fata",
@@ -205,7 +247,9 @@
     "createdAt": 1778720815608,
     "createdBy": "FizOffc2",
     "rememberToken": "96fdc367529ee4b6dcf72a1c512cbeaaec241ae06f402e6729ba7272ac7dbe5a",
-    "lastLogin": "2026-05-14T01:18:44.647Z"
+    "lastLogin": "2026-05-14T01:18:44.647Z",
+    "password": "Fata",
+    "expiredDate": "2026-08-21"
   },
   {
     "username": "Ryykaze",
@@ -215,7 +259,9 @@
     "createdAt": 1778722682668,
     "createdBy": "FizOffc2",
     "rememberToken": "f15009c354771d9f5965cfddf936d7f70d4420a34f55a6198943795c2f50ce0f",
-    "lastLogin": "2026-05-16T04:50:17.607Z"
+    "lastLogin": "2026-05-16T04:50:17.607Z",
+    "password": "Ryykaze",
+    "expiredDate": "2026-08-21"
   },
   {
     "username": "Antarez",
@@ -225,7 +271,9 @@
     "createdAt": 1778723552104,
     "createdBy": "FizOffc2",
     "rememberToken": "2b6e0c39a673720e75332bedb863ad0643d57f2b33e1d4036ab5523ff8887b3a",
-    "lastLogin": "2026-05-23T01:47:42.369Z"
+    "lastLogin": "2026-05-23T01:47:42.369Z",
+    "password": "Antarez",
+    "expiredDate": "2026-08-21"
   },
   {
     "username": "Alil",
@@ -235,7 +283,9 @@
     "createdAt": 1778723627687,
     "createdBy": "FizOffc2",
     "rememberToken": "ff016996ebdf927f408672339f2c1402a793568da24e3c295f4ee6008c614be1",
-    "lastLogin": "2026-05-14T14:51:57.141Z"
+    "lastLogin": "2026-05-14T14:51:57.141Z",
+    "password": "Alil",
+    "expiredDate": "2026-08-21"
   },
   {
     "username": "Padil",
@@ -245,7 +295,9 @@
     "createdAt": 1778728256430,
     "createdBy": "FizOffc2",
     "rememberToken": "dc1412ce7abdbea15b1c2a4c50a28d744507190fee7c2ac47ef2e1c471aac995",
-    "lastLogin": "2026-05-14T03:15:32.542Z"
+    "lastLogin": "2026-05-14T03:15:32.542Z",
+    "password": "Padil",
+    "expiredDate": "2300-02-26"
   },
   {
     "username": "BKY",
@@ -253,7 +305,9 @@
     "expired": 1779597045325,
     "role": "pt",
     "createdAt": 1778733045325,
-    "createdBy": "Jack"
+    "createdBy": "Jack",
+    "password": "BKY",
+    "expiredDate": "2026-05-24"
   },
   {
     "username": "Xreally",
@@ -263,7 +317,9 @@
     "createdAt": 1778737207667,
     "createdBy": "Fanz",
     "rememberToken": "156d939d2d34bbf71a669b2e62be30cfb18574686ab6d6b7fb3df9d756b0ee71",
-    "lastLogin": "2026-05-15T02:48:55.542Z"
+    "lastLogin": "2026-05-15T02:48:55.542Z",
+    "password": "4790",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "Yehez",
@@ -273,7 +329,9 @@
     "createdAt": 1778737376798,
     "createdBy": "Fanz",
     "rememberToken": "c320c9f326473623d2c983755fd935525160b724dddf1e4710ca9e9114cfca76",
-    "lastLogin": "2026-05-16T06:56:29.092Z"
+    "lastLogin": "2026-05-16T06:56:29.092Z",
+    "password": "8029",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "Firman",
@@ -281,7 +339,9 @@
     "expired": 2642651036733,
     "role": "owner",
     "createdAt": 1778737436733,
-    "createdBy": "Fanz"
+    "createdBy": "Fanz",
+    "password": "9021",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "kayzen",
@@ -291,7 +351,9 @@
     "createdAt": 1778737579583,
     "createdBy": "Fanz",
     "rememberToken": "8b9f1c88c1b4a623e730135dc79519a0bcfece897aef4caf8ffe5f65a3eb39e5",
-    "lastLogin": "2026-05-14T06:14:51.264Z"
+    "lastLogin": "2026-05-14T06:14:51.264Z",
+    "password": "8902",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "Raps",
@@ -301,7 +363,9 @@
     "createdAt": 1778737734101,
     "createdBy": "Fanz",
     "rememberToken": "2670d548ccdb6691a6af0fb49d430ab82512cac138fd8c0ee28313858d700e38",
-    "lastLogin": "2026-05-14T05:53:48.271Z"
+    "lastLogin": "2026-05-14T05:53:48.271Z",
+    "password": "9023",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "bagas",
@@ -309,7 +373,9 @@
     "expired": 1786515765790,
     "role": "user",
     "createdAt": 1778739765790,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "password": "2578",
+    "expiredDate": "2026-08-12"
   },
   {
     "username": "baggas",
@@ -317,7 +383,9 @@
     "expired": 1786515834992,
     "role": "user",
     "createdAt": 1778739834992,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "password": "2789",
+    "expiredDate": "2026-08-12"
   },
   {
     "username": "bagasz",
@@ -327,7 +395,9 @@
     "createdAt": 1778739864645,
     "createdBy": "kayzen",
     "rememberToken": "605f3389ee9dc46caac087678794c2140ea4f5b9a1734b1cc6daf0d81bef8c5e",
-    "lastLogin": "2026-05-14T06:37:13.143Z"
+    "lastLogin": "2026-05-14T06:37:13.143Z",
+    "password": "1922",
+    "expiredDate": "2026-08-12"
   },
   {
     "username": "leooo",
@@ -337,7 +407,9 @@
     "createdAt": 1778739931259,
     "createdBy": "kayzen",
     "rememberToken": "7ad8bcfe2385bae4f5f9a1becf90618499d968dea30c12fefe822389982bacba",
-    "lastLogin": "2026-05-14T07:51:31.663Z"
+    "lastLogin": "2026-05-14T07:51:31.663Z",
+    "password": "6789",
+    "expiredDate": "2026-08-12"
   },
   {
     "username": "Ryukii",
@@ -347,7 +419,9 @@
     "createdAt": 1778740392335,
     "createdBy": "Fanz",
     "rememberToken": "adc0d9a95f00814aa7796e26df99815ad943809b375899c153c6cbe5f8081188",
-    "lastLogin": "2026-05-22T15:09:47.477Z"
+    "lastLogin": "2026-05-22T15:09:47.477Z",
+    "password": "2301",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "naya",
@@ -357,7 +431,9 @@
     "createdAt": 1778742496104,
     "createdBy": "kayzen",
     "rememberToken": "0139136ae773f168d5d0b200d2d253e8388ec737e19ac48dee79819ff605b4e0",
-    "lastLogin": "2026-05-14T07:09:14.912Z"
+    "lastLogin": "2026-05-14T07:09:14.912Z",
+    "password": "8888",
+    "expiredDate": "2026-05-26"
   },
   {
     "username": "dappy",
@@ -367,7 +443,9 @@
     "createdAt": 1778742607425,
     "createdBy": "kayzen",
     "rememberToken": "6d612379f870b33826c7a5ae715f986221e0fd5490f7e7a1ca806c120242a567",
-    "lastLogin": "2026-05-14T11:54:40.434Z"
+    "lastLogin": "2026-05-14T11:54:40.434Z",
+    "password": "6789",
+    "expiredDate": "2026-05-26"
   },
   {
     "username": "zams",
@@ -375,7 +453,9 @@
     "expired": 1781335680739,
     "role": "user",
     "createdAt": 1778743680739,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "password": "9999",
+    "expiredDate": "2026-06-13"
   },
   {
     "username": "zammm",
@@ -383,7 +463,9 @@
     "expired": 1786520058071,
     "role": "user",
     "createdAt": 1778744058071,
-    "createdBy": "kayzen"
+    "createdBy": "kayzen",
+    "password": "6789",
+    "expiredDate": "2026-08-12"
   },
   {
     "username": "monnn",
@@ -393,7 +475,9 @@
     "createdAt": 1778747169965,
     "createdBy": "kayzen",
     "rememberToken": "b7e5a59c07db0865348516a82000b29d5e150d8a852957a6edfb27bd531af2a5",
-    "lastLogin": "2026-05-14T08:27:36.291Z"
+    "lastLogin": "2026-05-14T08:27:36.291Z",
+    "password": "7667",
+    "expiredDate": "2026-06-13"
   },
   {
     "username": "Aby",
@@ -403,7 +487,9 @@
     "createdAt": 1778747814390,
     "createdBy": "FizOffc2",
     "rememberToken": "8902a00feb33db3c1d045e062b665402401699e4cfc0cebe0a9a529ba16afbbd",
-    "lastLogin": "2026-05-14T08:41:40.445Z"
+    "lastLogin": "2026-05-14T08:41:40.445Z",
+    "password": "Aby99",
+    "expiredDate": "2300-02-26"
   },
   {
     "username": "Nizam",
@@ -413,7 +499,9 @@
     "createdAt": 1778748108831,
     "createdBy": "Fanz",
     "rememberToken": "63c492d8938e910c2f2510989f86620e3ab46f26b62a5ec19cd643d863bf238c",
-    "lastLogin": "2026-05-15T22:24:08.791Z"
+    "lastLogin": "2026-05-15T22:24:08.791Z",
+    "password": "9802",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "Ikoxyz",
@@ -423,7 +511,9 @@
     "createdAt": 1778748433669,
     "createdBy": "Fanz",
     "rememberToken": "28b4f444617b2c6ae11f5134136a60483495bfea32f86633c837f6ace7f83793",
-    "lastLogin": "2026-05-16T00:56:13.763Z"
+    "lastLogin": "2026-05-16T00:56:13.763Z",
+    "password": "3250",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "Jee",
@@ -433,7 +523,9 @@
     "createdAt": 1778748533493,
     "createdBy": "Fanz",
     "rememberToken": "3bed8085ad30f2ec0317d3af3bce40b5be7bd6285134b793e805a79a0ebbfc94",
-    "lastLogin": "2026-05-25T05:18:38.052Z"
+    "lastLogin": "2026-05-25T05:18:38.052Z",
+    "password": "2089",
+    "expiredDate": "2053-09-28"
   },
   {
     "username": "saraseostur",
@@ -443,7 +535,9 @@
     "createdAt": 1778752506942,
     "createdBy": "Antarez",
     "rememberToken": "b847ad1e9761a04f63589467c511f3b07c512273a4ef15c7c0f8ab95e3ae5e80",
-    "lastLogin": "2026-05-23T23:06:08.467Z"
+    "lastLogin": "2026-05-23T23:06:08.467Z",
+    "password": "saraseostur",
+    "expiredDate": "2027-05-14"
   },
   {
     "username": "kiyz",
@@ -451,7 +545,9 @@
     "expired": 1810302095585,
     "role": "user",
     "createdAt": 1778766095585,
-    "createdBy": "Yehez"
+    "createdBy": "Yehez",
+    "password": "#quen era",
+    "expiredDate": "2027-05-14"
   },
   {
     "username": "Firmanpler",
@@ -461,7 +557,9 @@
     "createdAt": 1778777727714,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "18ec598a5929a177d894e68facd89f9330073b61994f295aecb8c03832ad5fcd",
-    "lastLogin": "2026-05-14T17:01:03.346Z"
+    "lastLogin": "2026-05-14T17:01:03.346Z",
+    "password": "Firmanpler",
+    "expiredDate": "2029-02-06"
   },
   {
     "username": "Zarjit",
@@ -471,7 +569,9 @@
     "createdAt": 1778813537915,
     "createdBy": "Xreally",
     "rememberToken": "9d4d9881c88b934f8baf1bf1862e09e5c4c58e5b2e09a1e2e5ec5689fa29403d",
-    "lastLogin": "2026-05-15T02:54:50.442Z"
+    "lastLogin": "2026-05-15T02:54:50.442Z",
+    "password": "1",
+    "expiredDate": "2026-06-16"
   },
   {
     "username": "Rizky",
@@ -481,7 +581,9 @@
     "createdAt": 1778815468214,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "120bd791deccaaa0ba4fef66fa2e8dacb5f1c6e7b1f136b5cf1492ba68ef1c8e",
-    "lastLogin": "2026-05-22T08:53:43.819Z"
+    "lastLogin": "2026-05-22T08:53:43.819Z",
+    "password": "Rizky",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Reyyz",
@@ -491,7 +593,9 @@
     "createdAt": 1778820358377,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "0a1ea7852d51a86f3f361acbb19e782ef87e486c369e34902f484b407e37ad6a",
-    "lastLogin": "2026-05-15T04:46:35.775Z"
+    "lastLogin": "2026-05-15T04:46:35.775Z",
+    "password": "Reyyz",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Suprb",
@@ -501,7 +605,9 @@
     "createdAt": 1778821596599,
     "createdBy": "Yehez",
     "rememberToken": "e52dfb22453c7107749e35258b7176fca937a54ccef42cf57f3055b20acddb94",
-    "lastLogin": "2026-05-15T05:42:47.034Z"
+    "lastLogin": "2026-05-15T05:42:47.034Z",
+    "password": "qwnsrv1",
+    "expiredDate": "2027-05-15"
   },
   {
     "username": "Alip",
@@ -511,7 +617,9 @@
     "createdAt": 1778823456299,
     "createdBy": "Rizky",
     "rememberToken": "12d59526c578a6ab3b7c090027056fb3cba36a51d83926ae9fafc7baffe91ab8",
-    "lastLogin": "2026-05-17T02:14:51.837Z"
+    "lastLogin": "2026-05-17T02:14:51.837Z",
+    "password": "Alip123",
+    "expiredDate": "2026-06-14"
   },
   {
     "username": "messi",
@@ -521,7 +629,9 @@
     "createdAt": 1778825255173,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "63dabdde4a96f56dfc0e7fab506dae66d061c5ba2a791149f2738a0eff42f1c4",
-    "lastLogin": "2026-05-22T11:31:56.176Z"
+    "lastLogin": "2026-05-22T11:31:56.176Z",
+    "password": "messi",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Tab",
@@ -531,7 +641,9 @@
     "createdAt": 1778828060585,
     "createdBy": "Jack",
     "rememberToken": "1ffe9dcfd1cd623228823be170c06cfa01ed9c79b07e10dc69a8561913a7aacf",
-    "lastLogin": "2026-05-15T06:54:33.206Z"
+    "lastLogin": "2026-05-15T06:54:33.206Z",
+    "password": "Tab",
+    "expiredDate": "2027-05-15"
   },
   {
     "username": "Fann",
@@ -541,7 +653,9 @@
     "createdAt": 1778829470774,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "e6bf84b34b26f0a003b07eb8fa679b670ffcb0fc3d8efe30aa8ae6aa8c244ac6",
-    "lastLogin": "2026-05-22T09:40:10.920Z"
+    "lastLogin": "2026-05-22T09:40:10.920Z",
+    "password": "Fann",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "alstar",
@@ -551,7 +665,9 @@
     "createdAt": 1778834356056,
     "createdBy": "Yehez",
     "rememberToken": "0b77ea0b07daa47ec9aaeacd81cbafcf9a4dc9ab99494e13940edafc3eaced71",
-    "lastLogin": "2026-05-15T09:05:22.574Z"
+    "lastLogin": "2026-05-15T09:05:22.574Z",
+    "password": "alstar amanah",
+    "expiredDate": "2026-05-25"
   },
   {
     "username": "SYAWAL_ALS025",
@@ -561,7 +677,9 @@
     "createdAt": 1778838843944,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "6a077b9501c866b3e9132d2e29ebaed56d333912c8a95b52dab8081c59884be1",
-    "lastLogin": "2026-05-15T10:00:34.514Z"
+    "lastLogin": "2026-05-15T10:00:34.514Z",
+    "password": "SYAWAL_ALS025",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Nugii",
@@ -571,7 +689,9 @@
     "createdAt": 1778838945275,
     "createdBy": "Reyyz",
     "rememberToken": "8a202beb07ec037480c9854360dea2127b986694dc483f61589c9e882b65fe13",
-    "lastLogin": "2026-05-24T23:08:28.775Z"
+    "lastLogin": "2026-05-24T23:08:28.775Z",
+    "password": "111",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Alpin",
@@ -581,7 +701,9 @@
     "createdAt": 1778840642249,
     "createdBy": "Reyyz",
     "rememberToken": "e0cc49b4617f12cc1de11187d4c07dd186eff5ec2b9235a2a3d57955185e06a0",
-    "lastLogin": "2026-05-22T21:57:06.440Z"
+    "lastLogin": "2026-05-22T21:57:06.440Z",
+    "password": "111",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "ramm",
@@ -591,7 +713,9 @@
     "createdAt": 1778841749938,
     "createdBy": "Fata",
     "rememberToken": "860dfb033f034dd0a5abca6b54e85beaf4bae37a4c97aceca714edf2770296ac",
-    "lastLogin": "2026-05-15T10:44:04.271Z"
+    "lastLogin": "2026-05-15T10:44:04.271Z",
+    "password": "xzv5",
+    "expiredDate": "2027-05-28"
   },
   {
     "username": "Lifz",
@@ -601,7 +725,9 @@
     "createdAt": 1778845425062,
     "createdBy": "Fanz",
     "rememberToken": "c8934e7a417387725605175f380207b8fc90de68df527992d3b90329c0a383f3",
-    "lastLogin": "2026-05-15T11:53:29.099Z"
+    "lastLogin": "2026-05-15T11:53:29.099Z",
+    "password": "2329",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "Rizz",
@@ -611,7 +737,9 @@
     "createdAt": 1778845666884,
     "createdBy": "Fanz",
     "rememberToken": "ecf40fda805bec320c2c85b6823e6aae443c79c5169be7fcbffa28062427c796",
-    "lastLogin": "2026-05-22T14:18:04.307Z"
+    "lastLogin": "2026-05-22T14:18:04.307Z",
+    "password": "3201",
+    "expiredDate": "2029-02-07"
   },
   {
     "username": "pira",
@@ -621,7 +749,8 @@
     "createdAt": 1778845874563,
     "createdBy": "Alpin",
     "rememberToken": "1115c67311202fe24187c8fc57d3ecb2a01e106da804b715990b2d99e2895a39",
-    "lastLogin": "2026-05-15T12:10:45.295Z"
+    "lastLogin": "2026-05-15T12:10:45.295Z",
+    "password": "122"
   },
   {
     "username": "Pira12",
@@ -631,7 +760,9 @@
     "createdAt": 1778847364254,
     "createdBy": "Alpin",
     "rememberToken": "00819b0a4c1bbe702e58d5866442282563690c33ab7e9668c4181e5f03e94452",
-    "lastLogin": "2026-05-25T05:13:59.514Z"
+    "lastLogin": "2026-05-25T05:13:59.514Z",
+    "password": "112233",
+    "expiredDate": "2053-09-29"
   },
   {
     "username": "ciel",
@@ -641,7 +772,9 @@
     "createdAt": 1778847802250,
     "createdBy": "kayzen",
     "rememberToken": "0649dd7a612c62fcdc0343a11dc1893b45234789aa76ba40823f5a7326fa0c22",
-    "lastLogin": "2026-05-15T12:24:07.874Z"
+    "lastLogin": "2026-05-15T12:24:07.874Z",
+    "password": "9876",
+    "expiredDate": "2026-08-13"
   },
   {
     "username": "luthfianzz",
@@ -651,7 +784,9 @@
     "createdAt": 1778849341189,
     "createdBy": "FizOffc2",
     "rememberToken": "80c3e85b52a4ef3c5e865b28e0181f86f8791eb4385fced91494222ac68001f5",
-    "lastLogin": "2026-05-24T11:29:21.435Z"
+    "lastLogin": "2026-05-24T11:29:21.435Z",
+    "password": "luthfianzz",
+    "expiredDate": "+029405-06-09"
   },
   {
     "username": "Gill",
@@ -661,7 +796,9 @@
     "createdAt": 1778849625568,
     "createdBy": "FizOffc2",
     "rememberToken": "983f1abba8a52ed2475c5c42fa65c7b6bee469fc2c838873b9b8fa4ed6f6b98d",
-    "lastLogin": "2026-05-18T09:12:44.736Z"
+    "lastLogin": "2026-05-18T09:12:44.736Z",
+    "password": "Gill",
+    "expiredDate": "2053-09-29"
   },
   {
     "username": "Ryu",
@@ -671,7 +808,9 @@
     "createdAt": 1778888041016,
     "createdBy": "Fanz",
     "rememberToken": "e8ae9cf846b4e970f1edca718b7617b892e0c3d3eaddfa1d81453c011e9fcbc6",
-    "lastLogin": "2026-05-15T23:37:48.317Z"
+    "lastLogin": "2026-05-15T23:37:48.317Z",
+    "password": "3269",
+    "expiredDate": "2026-06-14"
   },
   {
     "username": "felix",
@@ -681,7 +820,9 @@
     "createdAt": 1778908829838,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "dd0d49d2137b595a414e10183cab45e8577ef5e58422f80e2c8042333610e0bd",
-    "lastLogin": "2026-05-24T23:00:56.147Z"
+    "lastLogin": "2026-05-24T23:00:56.147Z",
+    "password": "felix",
+    "expiredDate": "2029-02-08"
   },
   {
     "username": "Daffa",
@@ -689,7 +830,9 @@
     "expired": 1780205489011,
     "role": "user",
     "createdAt": 1778909489011,
-    "createdBy": "Yehez"
+    "createdBy": "Yehez",
+    "password": "XIVORX",
+    "expiredDate": "2026-05-31"
   },
   {
     "username": "bian",
@@ -699,7 +842,9 @@
     "createdAt": 1778911147996,
     "createdBy": "Fanz",
     "rememberToken": "14200fb912b5324177c82640b128d8e12e654fe4c906be91b97f6faded4011fe",
-    "lastLogin": "2026-05-16T07:31:04.650Z"
+    "lastLogin": "2026-05-16T07:31:04.650Z",
+    "password": "1209",
+    "expiredDate": "2053-09-30"
   },
   {
     "username": "kontol",
@@ -709,7 +854,9 @@
     "createdAt": 1778913227734,
     "createdBy": "kayzen",
     "rememberToken": "c167cd8e5ebe34611987b74107f0b409e3e8bb20a8c82996fd59c5df5ef029c1",
-    "lastLogin": "2026-05-16T08:55:45.852Z"
+    "lastLogin": "2026-05-16T08:55:45.852Z",
+    "password": "5555",
+    "expiredDate": "2026-08-14"
   },
   {
     "username": "batitong",
@@ -719,7 +866,9 @@
     "createdAt": 1778913809072,
     "createdBy": "kayzen",
     "rememberToken": "bb9b48516414adcd3befab23ab3dd1e150ef8867b494e3dca06d5ffa694f836d",
-    "lastLogin": "2026-05-16T06:51:38.934Z"
+    "lastLogin": "2026-05-16T06:51:38.934Z",
+    "password": "7777",
+    "expiredDate": "2026-06-15"
   },
   {
     "username": "Nefa",
@@ -729,7 +878,9 @@
     "createdAt": 1778914133372,
     "createdBy": "Fanz",
     "rememberToken": "3bda7d13f6ff4075a27b881023152ad130db040487d42dd131faccd4f7488a80",
-    "lastLogin": "2026-05-17T05:28:06.578Z"
+    "lastLogin": "2026-05-17T05:28:06.578Z",
+    "password": "1927",
+    "expiredDate": "2053-09-30"
   },
   {
     "username": "wilkogamang",
@@ -737,7 +888,8 @@
     "expired": 8.640000000177882e+22,
     "role": "user",
     "createdAt": 1778928646778,
-    "createdBy": "Alpin"
+    "createdBy": "Alpin",
+    "password": "151617"
   },
   {
     "username": "wilkogamang2",
@@ -745,7 +897,8 @@
     "expired": 8.640000000177882e+22,
     "role": "user",
     "createdAt": 1778928680417,
-    "createdBy": "Alpin"
+    "createdBy": "Alpin",
+    "password": "121314"
   },
   {
     "username": "BIBU",
@@ -755,7 +908,9 @@
     "createdAt": 1778929884306,
     "createdBy": "Jack",
     "rememberToken": "038ab0f9e5ee89bd5d5c5f3a03b201d2d6eeda3ac3a1afef3d3d8444e67ecf04",
-    "lastLogin": "2026-05-20T09:50:05.450Z"
+    "lastLogin": "2026-05-20T09:50:05.450Z",
+    "password": "TONTI",
+    "expiredDate": "2027-05-16"
   },
   {
     "username": "Dochi",
@@ -765,7 +920,9 @@
     "createdAt": 1778936808078,
     "createdBy": "Nefa",
     "rememberToken": "e5057de32189a191b6aadc45b99c8f5673d5fb458829413645a68a07cdaf8bd5",
-    "lastLogin": "2026-05-16T13:16:23.646Z"
+    "lastLogin": "2026-05-16T13:16:23.646Z",
+    "password": "9090",
+    "expiredDate": "2026-06-15"
   },
   {
     "username": "Jeff",
@@ -775,7 +932,9 @@
     "createdAt": 1778942675140,
     "createdBy": "Fann",
     "rememberToken": "8a2717c918c28bbe218b7dcc21d1cd45bba9f7d021d4556293c11834aa568fc4",
-    "lastLogin": "2026-05-16T14:47:45.347Z"
+    "lastLogin": "2026-05-16T14:47:45.347Z",
+    "password": "123",
+    "expiredDate": "2027-05-16"
   },
   {
     "username": "bielofc",
@@ -785,7 +944,9 @@
     "createdAt": 1778950500075,
     "createdBy": "Fanz",
     "rememberToken": "a4296f55b7e965d2cae125b6f1a2491faa37bcd4b29b73250fb17838efc47709",
-    "lastLogin": "2026-05-17T04:13:23.819Z"
+    "lastLogin": "2026-05-17T04:13:23.819Z",
+    "password": "2801",
+    "expiredDate": "2053-09-30"
   },
   {
     "username": "ijai",
@@ -795,7 +956,9 @@
     "createdAt": 1778950541155,
     "createdBy": "Fanz",
     "rememberToken": "792f80b5e5c6bf821365e91e3f588c56799b90050f53dead9a2f15855ee48ea5",
-    "lastLogin": "2026-05-17T00:43:39.231Z"
+    "lastLogin": "2026-05-17T00:43:39.231Z",
+    "password": "3201",
+    "expiredDate": "2053-09-30"
   },
   {
     "username": "LaseXZebua",
@@ -805,7 +968,9 @@
     "createdAt": 1778950642059,
     "createdBy": "Fanz",
     "rememberToken": "6220526adb1bab19d837c83b3f68bf6f7437368d13933ca6a7da2f8f30277fec",
-    "lastLogin": "2026-05-16T17:01:11.083Z"
+    "lastLogin": "2026-05-16T17:01:11.083Z",
+    "password": "2358",
+    "expiredDate": "2053-09-30"
   },
   {
     "username": "faizz",
@@ -815,7 +980,9 @@
     "createdAt": 1778991486290,
     "createdBy": "kayzen",
     "rememberToken": "ea3d47de32493f9ecf0b5600d9ee7603a1c2eb4bf78b04a081ebe03e323fa054",
-    "lastLogin": "2026-05-17T05:09:58.611Z"
+    "lastLogin": "2026-05-17T05:09:58.611Z",
+    "password": "7778",
+    "expiredDate": "2026-05-26"
   },
   {
     "username": "medina",
@@ -825,7 +992,9 @@
     "createdAt": 1778991529611,
     "createdBy": "kayzen",
     "rememberToken": "ac51a2c27ea87b11a5e88238aadcf61cf5715db0cbb03bb0658cf47428b0b524",
-    "lastLogin": "2026-05-17T07:48:38.505Z"
+    "lastLogin": "2026-05-17T07:48:38.505Z",
+    "password": "9999",
+    "expiredDate": "2026-06-16"
   },
   {
     "username": "Andre",
@@ -835,7 +1004,9 @@
     "createdAt": 1778992055190,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "d337fdca377cd17048b7c324ba367df31e7b7cc66ed64e9a6c30427414f2d808",
-    "lastLogin": "2026-05-24T07:19:03.644Z"
+    "lastLogin": "2026-05-24T07:19:03.644Z",
+    "password": "Andre",
+    "expiredDate": "2029-02-09"
   },
   {
     "username": "lyongkacung",
@@ -845,7 +1016,9 @@
     "createdAt": 1778993850432,
     "createdBy": "bielofc",
     "rememberToken": "4374ea6d27cfe570f38017e54389e20c49df8746e521bf52cd10d04051f00cda",
-    "lastLogin": "2026-05-18T01:31:31.312Z"
+    "lastLogin": "2026-05-18T01:31:31.312Z",
+    "password": "1122",
+    "expiredDate": "2026-06-01"
   },
   {
     "username": "Lenoxtech",
@@ -855,7 +1028,9 @@
     "createdAt": 1779012809444,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "d257643041797eeb1c26e7f6cea8f5ca630a07748069ff43845bc8566ec92764",
-    "lastLogin": "2026-05-17T10:39:04.838Z"
+    "lastLogin": "2026-05-17T10:39:04.838Z",
+    "password": "Lenoxtech",
+    "expiredDate": "2029-02-09"
   },
   {
     "username": "Lory",
@@ -865,7 +1040,9 @@
     "createdAt": 1779025717794,
     "createdBy": "Fanz",
     "rememberToken": "19224d24082e7fe0106a565f82884eb40faba59f6feab35f33816511df1c714a",
-    "lastLogin": "2026-05-23T11:38:39.300Z"
+    "lastLogin": "2026-05-23T11:38:39.300Z",
+    "password": "9020",
+    "expiredDate": "2053-10-01"
   },
   {
     "username": "Kpiiyy",
@@ -875,7 +1052,9 @@
     "createdAt": 1779036444943,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "807b108334a5eb33f401959d203fb6fff081b46f8a9995dd4c4f4d2985bc9317",
-    "lastLogin": "2026-05-17T16:55:23.226Z"
+    "lastLogin": "2026-05-17T16:55:23.226Z",
+    "password": "Kpiiyy",
+    "expiredDate": "2029-02-09"
   },
   {
     "username": "dapzz26",
@@ -885,7 +1064,9 @@
     "createdAt": 1779090926261,
     "createdBy": "Fann",
     "rememberToken": "25592c8f589cff10ffba4da3ef28923b182e166b88ce37e448af5b2aaadbe485",
-    "lastLogin": "2026-05-18T07:57:21.418Z"
+    "lastLogin": "2026-05-18T07:57:21.418Z",
+    "password": "11",
+    "expiredDate": "2026-06-17"
   },
   {
     "username": "Lanzoffc",
@@ -895,7 +1076,9 @@
     "createdAt": 1779097285265,
     "createdBy": "Fanz",
     "rememberToken": "70462900642eec485c73e40e706433ddb38cedb68a543ccefb2c170499618058",
-    "lastLogin": "2026-05-18T09:42:14.749Z"
+    "lastLogin": "2026-05-18T09:42:14.749Z",
+    "password": "9207",
+    "expiredDate": "2053-10-02"
   },
   {
     "username": "Aufar",
@@ -905,7 +1088,9 @@
     "createdAt": 1779099908362,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "005ae4e425f2fbcf0d8f5f5b08502c6c45a052a72c65b91d9b5edcfac563e100",
-    "lastLogin": "2026-05-23T15:52:46.185Z"
+    "lastLogin": "2026-05-23T15:52:46.185Z",
+    "password": "Aufar",
+    "expiredDate": "2029-02-10"
   },
   {
     "username": "BIBU PT2",
@@ -915,7 +1100,9 @@
     "createdAt": 1779159111097,
     "createdBy": "Jack",
     "rememberToken": "92dce6f3d75bff5860fff586719b928e61b46f90c9fd2818c614684bb86d9262",
-    "lastLogin": "2026-05-25T12:04:12.845Z"
+    "lastLogin": "2026-05-25T12:04:12.845Z",
+    "password": "BIBU PT2",
+    "expiredDate": "2028-08-27"
   },
   {
     "username": "Mecca",
@@ -925,7 +1112,9 @@
     "createdAt": 1779187581470,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "58525ca55f6cb3adec04d0d4cb5dfed5480ba8f86111ae136d74721d615f8327",
-    "lastLogin": "2026-05-19T11:50:42.616Z"
+    "lastLogin": "2026-05-19T11:50:42.616Z",
+    "password": "Mecca",
+    "expiredDate": "2029-02-11"
   },
   {
     "username": "opalldev",
@@ -935,7 +1124,9 @@
     "createdAt": 1779195914509,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "4270f21c7007e6519987dadf7d7ebf09c1f111e9d0b6f6ce86cddcb41f6b9c83",
-    "lastLogin": "2026-05-22T11:19:43.597Z"
+    "lastLogin": "2026-05-22T11:19:43.597Z",
+    "password": "opalldev",
+    "expiredDate": "2029-02-11"
   },
   {
     "username": "boyjembot#23",
@@ -943,7 +1134,9 @@
     "expired": 1780583673197,
     "role": "user",
     "createdAt": 1779201273197,
-    "createdBy": "opalldev"
+    "createdBy": "opalldev",
+    "password": "boyjembot",
+    "expiredDate": "2026-06-04"
   },
   {
     "username": "Jeka",
@@ -953,7 +1146,9 @@
     "createdAt": 1779251931159,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "de25ec7dfa3d2bfd58c6c9219a72e59714dfbb4e781c98f5237eb05d34d9f118",
-    "lastLogin": "2026-05-20T04:44:52.291Z"
+    "lastLogin": "2026-05-20T04:44:52.291Z",
+    "password": "Jeka",
+    "expiredDate": "2029-02-12"
   },
   {
     "username": "BandrakShop",
@@ -963,7 +1158,9 @@
     "createdAt": 1779286748556,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "2331ee8da5e93821cbf56a2c385365cd3f0214e928882b63819a46e63c847790",
-    "lastLogin": "2026-05-21T14:17:59.630Z"
+    "lastLogin": "2026-05-21T14:17:59.630Z",
+    "password": "BandrakShop",
+    "expiredDate": "2029-02-12"
   },
   {
     "username": "all",
@@ -973,7 +1170,9 @@
     "createdAt": 1779288047143,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "2f46321296b13777ecc527d737a2d5cad0cafa7e1557a2b3309645c1eed5284f",
-    "lastLogin": "2026-05-21T15:34:02.517Z"
+    "lastLogin": "2026-05-21T15:34:02.517Z",
+    "password": "all",
+    "expiredDate": "2029-02-12"
   },
   {
     "username": "Jep",
@@ -983,7 +1182,9 @@
     "createdAt": 1779288523745,
     "createdBy": "Nefa",
     "rememberToken": "c2002e880042b547aa40b15c14040b7df41bb9f16adefc6b9b3075938482c078",
-    "lastLogin": "2026-05-20T14:51:44.870Z"
+    "lastLogin": "2026-05-20T14:51:44.870Z",
+    "password": "Jep",
+    "expiredDate": "2026-06-14"
   },
   {
     "username": "sukiboy$",
@@ -991,7 +1192,9 @@
     "expired": 1779940952169,
     "role": "user",
     "createdAt": 1779336152169,
-    "createdBy": "opalldev"
+    "createdBy": "opalldev",
+    "password": "sukiboy$",
+    "expiredDate": "2026-05-28"
   },
   {
     "username": "davin",
@@ -1001,7 +1204,9 @@
     "createdAt": 1779446690119,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "9a979e84b0f11167cb86760901edfa8d678f23950815f85243b05c6d14a00139",
-    "lastLogin": "2026-05-23T03:05:27.992Z"
+    "lastLogin": "2026-05-23T03:05:27.992Z",
+    "password": "davin",
+    "expiredDate": "2029-02-14"
   },
   {
     "username": "Lutbot",
@@ -1011,7 +1216,9 @@
     "createdAt": 1779448289916,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "f7ebea2a782df0dd5f78fb3f585f52ff1bcd560cdabfbbe1d0ff5e371b56a8e2",
-    "lastLogin": "2026-05-22T11:21:00.539Z"
+    "lastLogin": "2026-05-22T11:21:00.539Z",
+    "password": "Lutbot",
+    "expiredDate": "2029-02-14"
   },
   {
     "username": "Valen222",
@@ -1021,7 +1228,9 @@
     "createdAt": 1779455925391,
     "createdBy": "Mauldev",
     "rememberToken": "1e0862f128694d98861d34cda4fbf27c941e71b7a19b19cda2ca38b7b3908df2",
-    "lastLogin": "2026-05-22T13:59:18.815Z"
+    "lastLogin": "2026-05-22T13:59:18.815Z",
+    "password": "Valen222",
+    "expiredDate": "2053-10-06"
   },
   {
     "username": "iky",
@@ -1033,7 +1242,8 @@
     "createdAt": 1779587308199,
     "createdBy": "Fann",
     "rememberToken": "412250effce2dce4a58ddad88a615189574e19b993221f3d9f2dc46865168a78",
-    "lastLogin": "2026-05-24T01:56:21.298Z"
+    "lastLogin": "2026-05-24T01:56:21.298Z",
+    "password": "123"
   },
   {
     "username": "Dave",
@@ -1045,7 +1255,8 @@
     "createdAt": 1779621937172,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "2543aba69a69d3c9003e1cbea0c40d61941d3fcf57458b550ed78607b7001b0b",
-    "lastLogin": "2026-05-24T14:57:05.842Z"
+    "lastLogin": "2026-05-24T14:57:05.842Z",
+    "password": "Dave"
   },
   {
     "username": "Hunter",
@@ -1057,7 +1268,8 @@
     "createdAt": 1779627788155,
     "createdBy": "Dave",
     "rememberToken": "061547f1873d25f1a924157b009f86aec4b8e0ed737056480cf6385e70eb6f92",
-    "lastLogin": "2026-05-24T13:09:40.665Z"
+    "lastLogin": "2026-05-24T13:09:40.665Z",
+    "password": "12"
   },
   {
     "username": "Rohan",
@@ -1069,7 +1281,8 @@
     "createdAt": 1779629513103,
     "createdBy": "Dave",
     "rememberToken": "39a0319e9a32aac2a2352d36eaaf44c742276141a96f709c1f0e5e60ab5c1269",
-    "lastLogin": "2026-05-24T16:53:39.334Z"
+    "lastLogin": "2026-05-24T16:53:39.334Z",
+    "password": "Rohan"
   },
   {
     "username": "Alfanz",
@@ -1081,7 +1294,8 @@
     "createdAt": 1779685100820,
     "createdBy": "𝖬𝖺𝗎𝗅.env",
     "rememberToken": "377d662b5b7d1f0e3977294af6ba9525145526a7805a73fb886e0bea8eb0b946",
-    "lastLogin": "2026-05-25T07:40:32.523Z"
+    "lastLogin": "2026-05-25T07:40:32.523Z",
+    "password": "Alfanz"
   },
   {
     "username": "Nitafute",
@@ -1093,6 +1307,13 @@
     "createdAt": 1779687164112,
     "createdBy": "Dave",
     "rememberToken": "46934352cee6f0b2ef19939621d33c99f1999f11625c0ef3835642fb2d08272f",
-    "lastLogin": "2026-05-25T05:36:32.058Z"
+    "lastLogin": "2026-05-25T05:36:32.058Z",
+    "password": "Nitafute"
+  },
+  {
+    "username": "Maul",
+    "password": "2225",
+    "role": "developer",
+    "expiredDate": "2053-10-09"
   }
 ]
