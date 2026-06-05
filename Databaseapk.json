@@ -1337,11 +1337,5 @@
     "password": "mektesen",
     "role": "Moderator",
     "expiredDate": "2300-03-20"
-  },
-  {
-    "username": "p",
-    "password": "ppp",
-    "role": "reseller",
-    "expiredDate": "2053-10-20"
   }
 ]
