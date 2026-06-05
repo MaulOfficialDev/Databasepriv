@@ -1330,11 +1330,5 @@
     "password": "Zimm",
     "role": "Reseller",
     "expiredDate": "2300-03-20"
-  },
-  {
-    "username": "mektesen",
-    "password": "mektesen",
-    "role": "Patner",
-    "expiredDate": "2300-03-20"
   }
 ]
