@@ -1318,5 +1318,11 @@
     "password": "2e",
     "role": "user",
     "expiredDate": "2053-10-12"
+  },
+  {
+    "username": "Aril",
+    "password": "Aril",
+    "role": "Reseller",
+    "expiredDate": "2300-03-20"
   }
 ]
