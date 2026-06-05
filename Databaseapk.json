@@ -35,18 +35,6 @@
     "expiredDate": "2026-05-22"
   },
   {
-    "username": "KJNEWERAV1",
-    "key": "KJNEWERAV1",
-    "expired": 1781073365285,
-    "role": "user",
-    "createdAt": 1778567765387,
-    "createdBy": "𝖬𝖺𝗎𝗅.env",
-    "rememberToken": "0e1405a8c509a6117461f6a2c9df7a97d69acf8e9a42529ee4c8919340891f49",
-    "lastLogin": "2026-05-19T17:04:14.501Z",
-    "password": "KJNEWERAV1",
-    "expiredDate": "2026-06-10"
-  },
-  {
     "username": "reza",
     "key": "reza",
     "expired": 1864881373910,
