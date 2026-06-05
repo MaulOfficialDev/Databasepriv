@@ -1324,5 +1324,11 @@
     "password": "Aril",
     "role": "Reseller",
     "expiredDate": "2300-03-20"
+  },
+  {
+    "username": "Zimm",
+    "password": "Zimm",
+    "role": "Reseller",
+    "expiredDate": "2300-03-20"
   }
 ]
