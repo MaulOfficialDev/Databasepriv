@@ -1338,5 +1338,11 @@
     "password": "mektesen",
     "role": "Moderator",
     "expiredDate": "2300-03-20"
+  },
+  {
+    "username": "renz02",
+    "password": "8902",
+    "role": "user",
+    "expiredDate": "2053-10-20"
   }
 ]
