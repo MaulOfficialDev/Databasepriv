@@ -1325,5 +1325,11 @@
     "role": "user",
     "expiredDate": "2053-10-20",
     "lastSend": 1780678217220
+  },
+  {
+    "username": "Biel",
+    "password": "9900",
+    "role": "reseller",
+    "expiredDate": "2053-10-22"
   }
 ]
