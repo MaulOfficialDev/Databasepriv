@@ -1331,5 +1331,11 @@
     "password": "9900",
     "role": "reseller",
     "expiredDate": "2053-10-22"
+  },
+  {
+    "username": "leoo",
+    "password": "leoo99",
+    "role": "user",
+    "expiredDate": "2053-10-22"
   }
 ]
