@@ -1345,5 +1345,11 @@
     "role": "user",
     "expiredDate": "2053-10-22",
     "lastSend": 1780822874654
+  },
+  {
+    "username": "Renz",
+    "password": "111",
+    "role": "partner",
+    "expiredDate": "2053-10-22"
   }
 ]
