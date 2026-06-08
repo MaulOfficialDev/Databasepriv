@@ -1392,5 +1392,11 @@
     "password": "230",
     "role": "partner",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "BIEL",
+    "password": "321",
+    "role": "reseller",
+    "expiredDate": "2053-10-23"
   }
 ]
