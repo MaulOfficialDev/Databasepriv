@@ -1431,5 +1431,11 @@
     "password": "659",
     "role": "reseller",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "fann",
+    "password": "453",
+    "role": "owner",
+    "expiredDate": "2053-10-23"
   }
 ]
