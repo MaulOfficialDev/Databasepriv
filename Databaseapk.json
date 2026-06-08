@@ -1378,5 +1378,11 @@
     "password": "WIZAH",
     "role": "partner",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "Ghost",
+    "password": "Ghost",
+    "role": "Reseller",
+    "expiredDate": "2300-03-23"
   }
 ]
