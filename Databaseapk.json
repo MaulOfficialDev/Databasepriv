@@ -1399,5 +1399,11 @@
     "password": "321",
     "role": "reseller",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "vino",
+    "password": "355",
+    "role": "reseller",
+    "expiredDate": "2053-10-23"
   }
 ]
