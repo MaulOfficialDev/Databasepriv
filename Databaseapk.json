@@ -1418,5 +1418,11 @@
     "password": "208",
     "role": "owner",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "alpin",
+    "password": "190",
+    "role": "reseller",
+    "expiredDate": "2053-10-23"
   }
 ]
