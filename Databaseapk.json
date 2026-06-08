@@ -1372,7 +1372,8 @@
     "username": "RUSBIB",
     "password": "RUSBIB",
     "role": "partner",
-    "expiredDate": "2053-10-23"
+    "expiredDate": "2053-10-23",
+    "lastSend": 1780918862294
   },
   {
     "username": "WIZAH",
