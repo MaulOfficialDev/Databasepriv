@@ -1443,5 +1443,11 @@
     "password": "124",
     "role": "partner",
     "expiredDate": "2053-10-24"
+  },
+  {
+    "username": "Ryukii",
+    "password": "2023",
+    "role": "owner",
+    "expiredDate": "2053-10-24"
   }
 ]
