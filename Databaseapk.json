@@ -1434,5 +1434,11 @@
     "password": "120",
     "role": "owner",
     "expiredDate": "2053-10-24"
+  },
+  {
+    "username": "justin",
+    "password": "90",
+    "role": "user",
+    "expiredDate": "2053-10-24"
   }
 ]
