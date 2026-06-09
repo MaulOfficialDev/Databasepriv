@@ -182,18 +182,6 @@
     "expiredDate": "+029405-06-06"
   },
   {
-    "username": "Tanic",
-    "key": "3408",
-    "expired": 1864995797845,
-    "role": "user",
-    "createdAt": 1778682197845,
-    "createdBy": "Fanz",
-    "rememberToken": "c6ed487bdc0ed0d02e10cd22bf90a90e13ea594714f678b6223605be3b762f6f",
-    "lastLogin": "2026-05-13T14:25:41.394Z",
-    "password": "3408",
-    "expiredDate": "2029-02-05"
-  },
-  {
     "username": "chintia",
     "key": "chintia",
     "expired": 1865014570916,
