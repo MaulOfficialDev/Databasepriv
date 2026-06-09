@@ -144,7 +144,8 @@
     "rememberToken": "edf98065cef20594fbbe65e83945a3c928aaae17234fa60f34139b4011c89b16",
     "lastLogin": "2026-05-13T14:33:55.047Z",
     "password": "Jack",
-    "expiredDate": "2029-02-04"
+    "expiredDate": "2029-02-04",
+    "lastSend": 1780970703567
   },
   {
     "username": "Ryuu",
