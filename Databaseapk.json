@@ -1449,5 +1449,11 @@
     "password": "dapa",
     "role": "moderator",
     "expiredDate": "2053-10-23"
+  },
+  {
+    "username": "Lucazxx",
+    "password": "124",
+    "role": "partner",
+    "expiredDate": "2053-10-24"
   }
 ]
