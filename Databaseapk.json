@@ -391,18 +391,6 @@
     "expiredDate": "2026-08-12"
   },
   {
-    "username": "Ryukii",
-    "key": "2301",
-    "expired": 2642653992335,
-    "role": "owner",
-    "createdAt": 1778740392335,
-    "createdBy": "Fanz",
-    "rememberToken": "adc0d9a95f00814aa7796e26df99815ad943809b375899c153c6cbe5f8081188",
-    "lastLogin": "2026-05-22T15:09:47.477Z",
-    "password": "2301",
-    "expiredDate": "2053-09-28"
-  },
-  {
     "username": "naya",
     "key": "8888",
     "expired": 1779779296104,
