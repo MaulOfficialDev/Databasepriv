@@ -1473,5 +1473,11 @@
     "password": "leoo23",
     "role": "user",
     "expiredDate": "2053-10-25"
+  },
+  {
+    "username": "bagas3",
+    "password": "bagas33",
+    "role": "user",
+    "expiredDate": "2053-10-25"
   }
 ]
