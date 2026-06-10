@@ -1449,5 +1449,11 @@
     "password": "90",
     "role": "user",
     "expiredDate": "2053-10-24"
+  },
+  {
+    "username": "jeff",
+    "password": "11",
+    "role": "partner",
+    "expiredDate": "2053-10-25"
   }
 ]
