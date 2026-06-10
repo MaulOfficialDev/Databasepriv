@@ -1461,5 +1461,11 @@
     "password": "luxor",
     "expiredDate": "2053-10-25",
     "role": "user"
+  },
+  {
+    "username": "dappy21",
+    "password": "dappy26",
+    "role": "user",
+    "expiredDate": "2053-10-25"
   }
 ]
