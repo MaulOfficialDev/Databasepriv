@@ -1467,5 +1467,11 @@
     "password": "dappy26",
     "role": "user",
     "expiredDate": "2053-10-25"
+  },
+  {
+    "username": "leoo1",
+    "password": "leoo23",
+    "role": "user",
+    "expiredDate": "2053-10-25"
   }
 ]
