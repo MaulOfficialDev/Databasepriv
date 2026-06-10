@@ -1479,5 +1479,11 @@
     "password": "bagas33",
     "role": "user",
     "expiredDate": "2053-10-25"
+  },
+  {
+    "username": "celloz",
+    "password": "9988",
+    "role": "user",
+    "expiredDate": "2053-10-25"
   }
 ]
