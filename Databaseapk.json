@@ -1455,5 +1455,11 @@
     "password": "11",
     "role": "partner",
     "expiredDate": "2053-10-25"
+  },
+  {
+    "username": "luxor21",
+    "password": "luxor",
+    "expiredDate": "2053-10-25",
+    "role": "user"
   }
 ]
