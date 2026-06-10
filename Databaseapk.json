@@ -1485,11 +1485,5 @@
     "password": "9988",
     "role": "user",
     "expiredDate": "2053-10-25"
-  },
-  {
-    "username": "test",
-    "password": "1",
-    "role": "user",
-    "expiredDate": "2053-10-25"
   }
 ]
