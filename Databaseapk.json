@@ -1501,5 +1501,11 @@
     "expiredDate": "2053-10-26",
     "role": "user",
     "lastSend": 1781175009567
+  },
+  {
+    "username": "Generali",
+    "password": "Generali",
+    "expiredDate": "2053-10-26",
+    "role": "user"
   }
 ]
