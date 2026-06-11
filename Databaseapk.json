@@ -1486,5 +1486,11 @@
     "password": "9988",
     "role": "user",
     "expiredDate": "2053-10-25"
+  },
+  {
+    "username": "rapi",
+    "password": "makdin",
+    "expiredDate": "2053-10-26",
+    "role": "user"
   }
 ]
