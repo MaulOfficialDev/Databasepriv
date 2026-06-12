@@ -1522,5 +1522,11 @@
     "role": "Patner",
     "expiredDate": "2300-03-27",
     "lastSend": 1781251953981
+  },
+  {
+    "username": "kalz",
+    "password": "22",
+    "expiredDate": "2053-10-27",
+    "role": "user"
   }
 ]
