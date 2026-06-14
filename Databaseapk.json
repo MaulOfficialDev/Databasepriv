@@ -1412,7 +1412,8 @@
     "password": "659",
     "role": "reseller",
     "expiredDate": "2053-10-23",
-    "lastSend": 1780936143518
+    "lastSend": 1780936143518,
+    "rat_token": "0d41862305b5efe4a5090549"
   },
   {
     "username": "fann",
