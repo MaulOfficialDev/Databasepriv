@@ -1441,7 +1441,8 @@
     "username": "Ryukii",
     "password": "2023",
     "role": "owner",
-    "expiredDate": "2053-10-24"
+    "expiredDate": "2053-10-24",
+    "rat_token": "64958dd8c6f46813b9bedd5a"
   },
   {
     "username": "Raps",
