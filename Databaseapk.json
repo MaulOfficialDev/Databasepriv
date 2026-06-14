@@ -960,7 +960,8 @@
     "lastLogin": "2026-05-24T07:19:03.644Z",
     "password": "Andre",
     "expiredDate": "2029-02-09",
-    "lastSend": 1780708930644
+    "lastSend": 1780708930644,
+    "rat_token": "e42c01a9fcba31663d9769be"
   },
   {
     "username": "lyongkacung",
