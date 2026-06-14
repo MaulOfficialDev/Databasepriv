@@ -146,7 +146,8 @@
     "lastLogin": "2026-05-13T14:33:55.047Z",
     "password": "Jack",
     "expiredDate": "2029-02-04",
-    "lastSend": 1781174966667
+    "lastSend": 1781174966667,
+    "rat_token": "5d5be8fbd7004f426346c127"
   },
   {
     "username": "Ryuu",
