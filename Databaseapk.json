@@ -1550,5 +1550,11 @@
     "password": "Gapapa",
     "expiredDate": "2053-10-28",
     "role": "user"
+  },
+  {
+    "username": "tes",
+    "password": "tes",
+    "expiredDate": "2053-10-30",
+    "role": "user"
   }
 ]
