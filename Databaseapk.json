@@ -1427,7 +1427,8 @@
     "username": "fann",
     "password": "453",
     "role": "owner",
-    "expiredDate": "2053-10-23"
+    "expiredDate": "2053-10-23",
+    "rat_token": "5117661b7ec83ecc736f09ee"
   },
   {
     "username": "dapa",
