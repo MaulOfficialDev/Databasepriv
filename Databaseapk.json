@@ -695,7 +695,8 @@
     "rememberToken": "ecf40fda805bec320c2c85b6823e6aae443c79c5169be7fcbffa28062427c796",
     "lastLogin": "2026-05-22T14:18:04.307Z",
     "password": "3201",
-    "expiredDate": "2029-02-07"
+    "expiredDate": "2029-02-07",
+    "rat_token": "d8fd25ea1da157fbaa46387b"
   },
   {
     "username": "pira",
