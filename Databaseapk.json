@@ -1561,5 +1561,11 @@
     "password": "tes",
     "expiredDate": "2053-10-30",
     "role": "user"
+  },
+  {
+    "username": "cellox",
+    "password": "9900",
+    "role": "user",
+    "expiredDate": "2053-10-30"
   }
 ]
