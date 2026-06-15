@@ -919,7 +919,8 @@
     "rememberToken": "792f80b5e5c6bf821365e91e3f588c56799b90050f53dead9a2f15855ee48ea5",
     "lastLogin": "2026-05-17T00:43:39.231Z",
     "password": "3201",
-    "expiredDate": "2053-09-30"
+    "expiredDate": "2053-09-30",
+    "rat_token": "5de2769de4872c26447a09d3"
   },
   {
     "username": "LaseXZebua",
@@ -1441,7 +1442,7 @@
     "password": "Lucazxx17",
     "role": "partner",
     "expiredDate": "2053-10-24",
-    "lastSend": 1781448417858,
+    "lastSend": 1781519946442,
     "rat_token": "775117afac25cdbca766b2ac"
   },
   {
