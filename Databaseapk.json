@@ -454,7 +454,8 @@
     "lastLogin": "2026-05-15T22:24:08.791Z",
     "password": "9802",
     "expiredDate": "2053-09-28",
-    "lastSend": 1780817112946
+    "lastSend": 1780817112946,
+    "rat_token": "0b86dc9ce2990c974ccac1e7"
   },
   {
     "username": "Ikoxyz",
