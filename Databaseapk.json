@@ -1130,7 +1130,8 @@
     "lastLogin": "2026-05-21T14:17:59.630Z",
     "password": "BandrakShop",
     "expiredDate": "2029-02-12",
-    "lastSend": 1781160817909
+    "lastSend": 1781160817909,
+    "rat_token": "348d56f4e3bc784cfdd5a860"
   },
   {
     "username": "all",
