@@ -1578,6 +1578,7 @@
     "username": "Marcell",
     "password": "112",
     "expiredDate": "2053-10-31",
-    "role": "user"
+    "role": "user",
+    "rat_token": "311c9cb54f8472014778fe70"
   }
 ]
