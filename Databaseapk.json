@@ -1566,6 +1566,7 @@
     "username": "cellox",
     "password": "9900",
     "role": "user",
-    "expiredDate": "2053-10-30"
+    "expiredDate": "2053-10-30",
+    "rat_token": "2b543074d47e1e095ba6e268"
   }
 ]
