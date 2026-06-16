@@ -1573,5 +1573,11 @@
     "expiredDate": "2053-10-30",
     "rat_token": "2b543074d47e1e095ba6e268",
     "lastSend": 1781575243757
+  },
+  {
+    "username": "Marcell",
+    "password": "112",
+    "expiredDate": "2053-10-31",
+    "role": "user"
   }
 ]
