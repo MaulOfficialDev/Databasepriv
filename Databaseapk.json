@@ -1585,6 +1585,7 @@
     "username": "Putra14",
     "password": "112",
     "expiredDate": "2053-11-01",
-    "role": "user"
+    "role": "user",
+    "rat_token": "a9acb4e46558b542bdbbc9ea"
   }
 ]
