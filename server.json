@@ -1,4 +1,4 @@
 {
-  "api_url": "http://papi.queen-official.com:5155,
+  "api_url": "http://papi.queen-official.com:5155",
   "ws_url": "ws://papi.queen-official.com:5155"
 }
