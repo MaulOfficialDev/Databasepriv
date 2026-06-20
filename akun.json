@@ -11,6 +11,18 @@
       "approvedBy": 7106738671,
       "approvedAt": "2026-06-20T04:01:34.434Z",
       "expiresAt": "2026-06-21T04:01:34.434Z"
+    },
+    {
+      "username": "Memek",
+      "password": "Asu",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "selfOwner": 7106738671,
+      "createdBy": 7106738671,
+      "approvedBy": 7106738671,
+      "approvedAt": "2026-06-20T04:01:45.501Z",
+      "expiresAt": null
     }
   ]
 }
