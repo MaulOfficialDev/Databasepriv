@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "username": "Mauldev",
+      "password": "25",
+      "role": "developer",
+      "fotoFileId": null,
+      "duration": 999,
+      "selfOwner": 1348415353,
+      "createdBy": 1348415353,
+      "approvedBy": 1348415353,
+      "approvedAt": "2026-06-20T05:12:04.297Z",
+      "expiresAt": null
+    }
+  ]
+}
