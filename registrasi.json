@@ -1,35 +1,13 @@
 {
-  "8737371656": {
-    "telegramId": 8737371656,
-    "username": "@Akusayangallah",
-    "fotoFileId": "AgACAgUAAxkBAAICz2o3XnKh_D58fa5NG4U_qUtl_6u6AALZDmsbQJK5VSRiwEwbBvgfAQADAgADdwADPAQ",
-    "targetRole": "reseller",
+  "7106738671": {
+    "telegramId": 7106738671,
+    "username": "@Maulsys",
+    "fotoFileId": "AgACAgUAAxkBAAIDA2o3YzY-54sdVsg2n3KMksI9epFDAAI3EGsbv3G4Vde4W_CUmjdoAQADAgADdwADPAQ",
+    "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T03:45:54.431Z"
-  },
-  "7907782213": {
-    "telegramId": 7907782213,
-    "username": "@vortexmono",
-    "fotoFileId": "AgACAgUAAxkBAAIC1mo3XtuqCULVNCnOv7cLi2DOMGqXAAJOD2sb8WS5VYv6diTyvYsdAQADAgADeQADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T03:50:25.222Z"
-  },
-  "8144130663": {
-    "telegramId": 8144130663,
-    "username": "kaje OFFICIAL",
-    "fotoFileId": "AgACAgQAAxkBAAIC4Go3YGk4ZE5MIhykulI4QwVcudr_AAJtDmsbgGHBUU4kt58YsRtpAQADAgADdwADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T03:57:15.165Z"
+    "timestamp": "2026-06-21T04:06:14.742Z"
   }
 }
