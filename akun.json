@@ -25,6 +25,19 @@
       "approvedAt": "2026-06-21T02:36:56.297Z",
       "expiresAt": null,
       "rat_token": "3ebcbe8e6a1f5c0979c4b1d3"
+    },
+    {
+      "username": "Fanzy",
+      "password": "2109",
+      "role": "developer",
+      "fotoFileId": null,
+      "duration": 999,
+      "selfOwner": 1266058971,
+      "createdBy": 1266058971,
+      "approvedBy": 1266058971,
+      "approvedAt": "2026-06-21T02:37:10.934Z",
+      "expiresAt": null,
+      "rat_token": "67d005495f90903771d5489f"
     }
   ]
 }
