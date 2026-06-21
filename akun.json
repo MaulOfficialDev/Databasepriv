@@ -1,17 +1,17 @@
 {
   "accounts": [
     {
-      "username": "Mauldev",
-      "password": "25",
-      "role": "developer",
+      "username": "✅ Akun Reseller dibuat:\n👤 Username: Aril\n🔐 Password: Aril",
+      "password": "Aril",
+      "role": "reseller",
       "fotoFileId": null,
       "duration": 999,
-      "selfOwner": 1348415353,
-      "createdBy": 1348415353,
-      "approvedBy": 1348415353,
-      "approvedAt": "2026-06-20T05:12:04.297Z",
+      "selfOwner": 8191534265,
+      "createdBy": 8191534265,
+      "approvedBy": 8191534265,
+      "approvedAt": "2026-06-21T02:36:22.025Z",
       "expiresAt": null,
-      "rat_token": "c92afbf2c9cccf81eb3ef896"
+      "rat_token": "90650258c307623b0b6cae97"
     }
   ]
 }
