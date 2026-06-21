@@ -64,6 +64,19 @@
       "approvedAt": "2026-06-21T02:40:21.101Z",
       "expiresAt": null,
       "rat_token": "c21e0b5902c39e9cf54709c3"
+    },
+    {
+      "username": "all",
+      "password": "allx75",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "selfOwner": 8572890007,
+      "createdBy": 8572890007,
+      "approvedBy": 8572890007,
+      "approvedAt": "2026-06-21T03:16:39.708Z",
+      "expiresAt": null,
+      "rat_token": "91f01c41c7beec9e7eadec3c"
     }
   ]
 }
