@@ -265,6 +265,20 @@
       "approvedAt": "2026-06-21T13:55:18.055Z",
       "expiresAt": null,
       "rat_token": "78e69e85670df8f668849cb5"
+    },
+    {
+      "username": "RIZKY",
+      "password": "KIZZ110711",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8655482910,
+      "selfOwner": 8655482910,
+      "createdBy": 8655482910,
+      "approvedBy": 8655482910,
+      "approvedAt": "2026-06-21T14:24:23.465Z",
+      "expiresAt": null,
+      "rat_token": "40de8f4da32f8470a04d8553"
     }
   ]
 }
