@@ -153,6 +153,20 @@
       "approvedAt": "2026-06-21T08:15:11.441Z",
       "expiresAt": null,
       "rat_token": "a932068ec6ffb519ca75bc03"
+    },
+    {
+      "username": "Yanzz",
+      "password": "001",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7808915464,
+      "selfOwner": 7808915464,
+      "createdBy": 7808915464,
+      "approvedBy": 7808915464,
+      "approvedAt": "2026-06-21T12:14:00.066Z",
+      "expiresAt": null,
+      "rat_token": "f31f4c5624c8efd79576099b"
     }
   ]
 }
