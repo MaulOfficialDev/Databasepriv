@@ -41,6 +41,20 @@
       "approvedAt": "2026-06-21T04:41:58.367Z",
       "expiresAt": null,
       "rat_token": "a21ceca5d0b398630746aeae"
+    },
+    {
+      "username": "vemz3t",
+      "password": "1907",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 30,
+      "telegramId": 8194238848,
+      "selfOwner": null,
+      "createdBy": 8194238848,
+      "approvedBy": 8194238848,
+      "approvedAt": "2026-06-21T04:45:54.069Z",
+      "expiresAt": "2026-07-21T04:45:54.069Z",
+      "rat_token": "405c193045b8e4b661fd61c8"
     }
   ]
 }
