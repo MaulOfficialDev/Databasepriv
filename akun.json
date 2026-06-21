@@ -279,6 +279,20 @@
       "approvedAt": "2026-06-21T14:24:23.465Z",
       "expiresAt": null,
       "rat_token": "40de8f4da32f8470a04d8553"
+    },
+    {
+      "username": "Zeno",
+      "password": "zno",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 1,
+      "telegramId": 6923426449,
+      "selfOwner": null,
+      "createdBy": 6923426449,
+      "approvedBy": 6923426449,
+      "approvedAt": "2026-06-21T15:31:53.246Z",
+      "expiresAt": "2026-06-22T15:31:53.246Z",
+      "rat_token": "23caeda8c0a4ac652064d666"
     }
   ]
 }
