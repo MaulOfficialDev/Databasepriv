@@ -252,5 +252,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T16:12:38.926Z"
+  },
+  "8039559687": {
+    "telegramId": 8039559687,
+    "username": "@zansshopp",
+    "fotoFileId": "AgACAgUAAxkBAAIFYmo4O8bIJGnYqdKgAQiIhn8pODWVAALDEWsbjobBVVWnOoXbKPD3AQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T19:30:14.797Z"
   }
 }
