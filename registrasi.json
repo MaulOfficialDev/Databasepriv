@@ -22,5 +22,16 @@
     "timestamp": "2026-06-21T04:27:41.817Z",
     "approvedBy": 7106738671,
     "approvedAt": "2026-06-21T04:28:12.231Z"
+  },
+  "7907782213": {
+    "telegramId": 7907782213,
+    "username": "@vortexmono",
+    "fotoFileId": "AgACAgUAAxkBAAIDVGo3aLzZLeACEqJPCNU3hyrRD6laAAJWD2sb8WS5Vdo8iD4XLqlDAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T04:29:48.301Z"
   }
 }
