@@ -153,16 +153,14 @@
   },
   "7453243421": {
     "telegramId": 7453243421,
-    "username": "@ethan_7828",
-    "fotoFileId": "AgACAgUAAxkBAAIETWo3y2gQzYOtlhRVcZCcP_Kcyfr0AAKjD2sbh7jAVVQ274ZWWKg3AQADAgADeQADPAQ",
-    "targetRole": "patner",
+    "username": "P",
+    "fotoFileId": "AgACAgUAAxkBAAIEzWo34qqcC5NbQH-Wmq6jCaQnlRExAALPD2sbh7jAVWrAr9Ygg6j3AQADAgADeQADPAQ",
+    "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T11:30:48.445Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T11:32:00.700Z"
+    "approved": false,
+    "timestamp": "2026-06-21T13:10:02.689Z"
   },
   "7808915464": {
     "telegramId": 7808915464,
