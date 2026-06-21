@@ -196,8 +196,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T12:23:42.995Z"
+    "approved": true,
+    "timestamp": "2026-06-21T12:23:42.995Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T12:33:28.599Z"
   },
   "8216400167": {
     "telegramId": 8216400167,
@@ -211,5 +213,16 @@
     "timestamp": "2026-06-21T12:28:14.474Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-21T12:33:22.529Z"
+  },
+  "6663434560": {
+    "telegramId": 6663434560,
+    "username": "@Nizamnieee",
+    "fotoFileId": "AgACAgUAAxkBAAIEvmo34PibDFD8s0QkNBQ_LW4WYoo4AAJ5FGsbrgLAVaYokYrJlh_ZAQADAgADdwADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T13:02:48.940Z"
   }
 }
