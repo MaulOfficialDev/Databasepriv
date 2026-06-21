@@ -111,5 +111,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T05:53:13.606Z"
+  },
+  "6932619641": {
+    "telegramId": 6932619641,
+    "username": "@ALFAAOFFC",
+    "fotoFileId": "AgACAgUAAxkBAAID-Wo3gRqvMhdCHFy9Zfi956_tOlB4AAJkD2sbKTu4VVTSZyT2xXy4AQADAgADdwADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T06:13:47.115Z"
   }
 }
