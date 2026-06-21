@@ -181,6 +181,20 @@
       "approvedAt": "2026-06-21T12:39:23.816Z",
       "expiresAt": null,
       "rat_token": "fd9f9beea4b39f180e3a0b6c"
+    },
+    {
+      "username": "Ethan",
+      "password": "572810",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7453243421,
+      "selfOwner": 7453243421,
+      "createdBy": 7453243421,
+      "approvedBy": 7453243421,
+      "approvedAt": "2026-06-21T12:54:34.717Z",
+      "expiresAt": null,
+      "rat_token": "2303710560a0cd462f66c540"
     }
   ]
 }
