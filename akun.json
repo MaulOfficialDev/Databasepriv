@@ -55,6 +55,20 @@
       "approvedAt": "2026-06-21T04:45:54.069Z",
       "expiresAt": "2026-07-21T04:45:54.069Z",
       "rat_token": "405c193045b8e4b661fd61c8"
+    },
+    {
+      "username": "@Fataofiicial",
+      "password": "123",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8121694751,
+      "selfOwner": 8121694751,
+      "createdBy": 8121694751,
+      "approvedBy": 8121694751,
+      "approvedAt": "2026-06-21T04:46:17.213Z",
+      "expiresAt": null,
+      "rat_token": "55117fd325eb02d729e5c6f6"
     }
   ]
 }
