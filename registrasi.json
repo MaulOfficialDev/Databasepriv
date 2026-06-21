@@ -187,5 +187,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T12:12:37.504Z"
+  },
+  "8655482910": {
+    "telegramId": 8655482910,
+    "username": "@Rizkystore",
+    "fotoFileId": "AgACAgUAAxkBAAIEkmo3184CsoTrniaZyZIQjfoZVGr_AAJSDmsb_ybBVUDipLInAq0PAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T12:23:42.992Z"
   }
 }
