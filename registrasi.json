@@ -241,5 +241,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T15:41:34.006Z"
+  },
+  "8769211125": {
+    "telegramId": 8769211125,
+    "username": "@Hai ganteng",
+    "fotoFileId": "AgACAgUAAxkBAAIFUWo4DXbAh2ZkONYbl2ZedNdeG09dAAK3EGsbvOXBVb5kUeAP9WxvAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T16:12:38.926Z"
   }
 }
