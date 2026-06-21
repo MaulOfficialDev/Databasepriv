@@ -35,5 +35,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T02:34:33.581Z"
+  },
+  "6923426449": {
+    "telegramId": 6923426449,
+    "username": "@ykzzvtx",
+    "fotoFileId": "AgACAgUAAxkBAAIBfGo3RmorNI_WwqXly2vlWDjmgrwyAALOEWsbu-exVfh4xHFY1MRyAQADAgADdwADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T02:37:04.386Z"
   }
 }
