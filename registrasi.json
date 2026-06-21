@@ -85,5 +85,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T05:11:33.779Z"
+  },
+  "8424326799": {
+    "telegramId": 8424326799,
+    "username": "@xreallly",
+    "fotoFileId": "AgACAgUAAxkBAAIDyGo3c5EW8oZwqnDgkefwpYkzfVaQAAJcD2sbvtXAVWH6wU1T0iPCAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T05:16:01.382Z"
   }
 }
