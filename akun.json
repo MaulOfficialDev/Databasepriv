@@ -139,6 +139,20 @@
       "approvedAt": "2026-06-21T06:34:21.937Z",
       "expiresAt": null,
       "rat_token": "3d2d489900c267769b41d588"
+    },
+    {
+      "username": "AlfaaKemcee",
+      "password": "6464",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 6932619641,
+      "selfOwner": 6932619641,
+      "createdBy": 6932619641,
+      "approvedBy": 6932619641,
+      "approvedAt": "2026-06-21T08:15:11.441Z",
+      "expiresAt": null,
+      "rat_token": "a932068ec6ffb519ca75bc03"
     }
   ]
 }
