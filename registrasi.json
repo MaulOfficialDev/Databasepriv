@@ -44,8 +44,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T04:39:23.060Z"
+    "approved": true,
+    "timestamp": "2026-06-21T04:39:23.060Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T04:43:40.498Z"
   },
   "8121694751": {
     "telegramId": 8121694751,
@@ -55,8 +57,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T04:40:57.803Z"
+    "approved": true,
+    "timestamp": "2026-06-21T04:40:57.803Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T04:43:35.565Z"
   },
   "8194238848": {
     "telegramId": 8194238848,
@@ -66,7 +70,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-21T04:42:21.000Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T04:44:15.549Z"
+  },
+  "6532672277": {
+    "telegramId": 6532672277,
+    "username": "adhit",
+    "fotoFileId": "AgACAgUAAxkBAAIDt2o3coWBFsogf-0m9jxzuQYcU_vOAAKgD2sbK5_AVflkGVl3_xCxAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T04:42:21.000Z"
+    "timestamp": "2026-06-21T05:11:33.779Z"
   }
 }
