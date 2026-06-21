@@ -97,6 +97,20 @@
       "approvedAt": "2026-06-21T04:57:04.191Z",
       "expiresAt": null,
       "rat_token": "b024d18d9f37f06081c025da"
+    },
+    {
+      "username": "Fanzz",
+      "password": "2319",
+      "role": "developer",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 1266058971,
+      "selfOwner": 1266058971,
+      "createdBy": 1266058971,
+      "approvedBy": 1266058971,
+      "approvedAt": "2026-06-21T05:36:02.186Z",
+      "expiresAt": null,
+      "rat_token": "1587997837ae5f8d86853138"
     }
   ]
 }
