@@ -83,6 +83,20 @@
       "approvedAt": "2026-06-21T04:53:40.928Z",
       "expiresAt": null,
       "rat_token": "8a502dc6678cb94d4cc67d0e"
+    },
+    {
+      "username": "@Akusayangallah",
+      "password": "PHEXPLORE",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8737371656,
+      "selfOwner": 8737371656,
+      "createdBy": 8737371656,
+      "approvedBy": 8737371656,
+      "approvedAt": "2026-06-21T04:57:04.191Z",
+      "expiresAt": null,
+      "rat_token": "b024d18d9f37f06081c025da"
     }
   ]
 }
