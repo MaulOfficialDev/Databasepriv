@@ -172,7 +172,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-21T11:40:23.943Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T11:47:00.442Z"
+  },
+  "7866644787": {
+    "telegramId": 7866644787,
+    "username": "@vinnofficial",
+    "fotoFileId": "AgACAgUAAxkBAAIEbWo31QUzDoExB-44Y_c1QuiihCv4AAKcD2sbP0TAVbTIN0FT8gsiAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T11:40:23.943Z"
+    "timestamp": "2026-06-21T12:12:37.504Z"
   }
 }
