@@ -237,6 +237,20 @@
       "approvedAt": "2026-06-21T13:37:16.411Z",
       "expiresAt": null,
       "rat_token": "76dbffb8b1b62f6f1dd2ddc4"
+    },
+    {
+      "username": "Ryuu",
+      "password": "Ryuu",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8416036358,
+      "selfOwner": 8416036358,
+      "createdBy": 8416036358,
+      "approvedBy": 8416036358,
+      "approvedAt": "2026-06-21T13:41:58.468Z",
+      "expiresAt": null,
+      "rat_token": "d9ebcde6c66b5a76c3f47b84"
     }
   ]
 }
