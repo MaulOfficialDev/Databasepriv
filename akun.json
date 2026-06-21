@@ -111,6 +111,20 @@
       "approvedAt": "2026-06-21T05:36:02.186Z",
       "expiresAt": null,
       "rat_token": "1587997837ae5f8d86853138"
+    },
+    {
+      "username": "dhifnewera",
+      "password": "1123",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 6923426449,
+      "selfOwner": 6923426449,
+      "createdBy": 6923426449,
+      "approvedBy": 6923426449,
+      "approvedAt": "2026-06-21T05:46:05.839Z",
+      "expiresAt": null,
+      "rat_token": "107369c2c7660e321f751c8e"
     }
   ]
 }
