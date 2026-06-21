@@ -191,12 +191,23 @@
   "8655482910": {
     "telegramId": 8655482910,
     "username": "@Rizkystore",
-    "fotoFileId": "AgACAgUAAxkBAAIEkmo3184CsoTrniaZyZIQjfoZVGr_AAJSDmsb_ybBVUDipLInAq0PAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIEk2o3187FAycJT3UbgmRgTjqXOxrfAAJTDmsb_ybBVU9YwccwEBNXAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T12:23:42.992Z"
+    "timestamp": "2026-06-21T12:23:42.995Z"
+  },
+  "8216400167": {
+    "telegramId": 8216400167,
+    "username": "@sukamakan",
+    "fotoFileId": "AgACAgUAAxkBAAIEnWo32N7nPURq-t5uL-f8hDnlPTxRAAL2DmsbvSHAVUXwTxl9mWGjAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T12:28:14.474Z"
   }
 }
