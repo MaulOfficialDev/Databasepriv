@@ -150,5 +150,16 @@
     "timestamp": "2026-06-21T06:33:01.757Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-21T10:03:47.852Z"
+  },
+  "7453243421": {
+    "telegramId": 7453243421,
+    "username": "@ethan_7828",
+    "fotoFileId": "AgACAgUAAxkBAAIETWo3y2gQzYOtlhRVcZCcP_Kcyfr0AAKjD2sbh7jAVVQ274ZWWKg3AQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T11:30:48.445Z"
   }
 }
