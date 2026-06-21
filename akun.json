@@ -12,6 +12,19 @@
       "approvedAt": "2026-06-21T02:36:22.025Z",
       "expiresAt": null,
       "rat_token": "90650258c307623b0b6cae97"
+    },
+    {
+      "username": "dittajayaww",
+      "password": "3344",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "selfOwner": 843416715,
+      "createdBy": 843416715,
+      "approvedBy": 843416715,
+      "approvedAt": "2026-06-21T02:36:56.297Z",
+      "expiresAt": null,
+      "rat_token": "3ebcbe8e6a1f5c0979c4b1d3"
     }
   ]
 }
