@@ -9,5 +9,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T04:26:51.658Z"
+  },
+  "8144130663": {
+    "telegramId": 8144130663,
+    "username": "kaje OFFICIAL",
+    "fotoFileId": "AgACAgQAAxkBAAIC4Go3YGk4ZE5MIhykulI4QwVcudr_AAJtDmsbgGHBUU4kt58YsRtpAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T04:27:41.817Z"
   }
 }
