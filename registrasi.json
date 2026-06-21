@@ -1,115 +1,13 @@
 {
-  "843416715": {
-    "telegramId": 843416715,
-    "username": "@dittajayaww",
-    "fotoFileId": "AgACAgUAAxkBAAIBuGo3SYyMHc78f2exSyyYitwwJa3KAAK4DmsbqbS4VTAltoRca8isAQADAgADeQADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:35:44.114Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:36:01.348Z"
-  },
-  "8191534265": {
-    "telegramId": 8191534265,
-    "username": "@prradistyy",
-    "fotoFileId": "AgACAgUAAxkBAAICA2o3TXg1jDqrawonkn4ZiKy2r_X3AAJtEmsb8KS5VT0qhIq8bz2PAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:33:28.428Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:34:00.563Z"
-  },
-  "8121694751": {
-    "telegramId": 8121694751,
-    "username": "@Fataofiicial",
-    "fotoFileId": "AgACAgUAAxkBAAICBmo3Tbl7_Xqi7sg23fUmmtN_W-gwAAIgD2sbJxK5VU6gi2sJO_6dAQADAgADeQADPAQ",
+  "8737371656": {
+    "telegramId": 8737371656,
+    "username": "@Akusayangallah",
+    "fotoFileId": "AgACAgUAAxkBAAICz2o3XnKh_D58fa5NG4U_qUtl_6u6AALZDmsbQJK5VSRiwEwbBvgfAQADAgADdwADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T02:34:33.581Z"
-  },
-  "6923426449": {
-    "telegramId": 6923426449,
-    "username": "@ykzzvtx",
-    "fotoFileId": "AgACAgUAAxkBAAIBfGo3RmorNI_WwqXly2vlWDjmgrwyAALOEWsbu-exVfh4xHFY1MRyAQADAgADdwADPAQ",
-    "targetRole": "patner",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:37:04.386Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:38:39.481Z"
-  },
-  "8716790509": {
-    "telegramId": 8716790509,
-    "username": "@Axevlx",
-    "fotoFileId": "AgACAgUAAxkBAAICPWo3TrBYgbXebyoyRSOOi3KGk4QyAAKqDmsb1ja5VShlkjuYC5cBAQADAgADeQADPAQ",
-    "targetRole": "patner",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:38:40.940Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:38:50.722Z"
-  },
-  "8416036358": {
-    "telegramId": 8416036358,
-    "username": "@Ryuuantirip",
-    "fotoFileId": "AgACAgUAAxkBAAIBzWo3SiKSiYIXVMhJ6F1x1byPk0CyAAK-EGsbTfO5Vdr7EDF-cOzRAQADAgADeQADPAQ",
-    "targetRole": "patner",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:51:10.249Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:51:39.986Z"
-  },
-  "7106738671": {
-    "telegramId": 7106738671,
-    "username": "@Maulsys",
-    "fotoFileId": "AgACAgUAAxkBAAICdWo3U5_0k2E-xZ1l6VM-Q-Iv3zEsAAItEGsbv3G4VRr71UewjibHAQADAgADeQADPAQ",
-    "targetRole": "admin",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T02:59:43.295Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T02:59:49.127Z"
-  },
-  "8419973051": {
-    "telegramId": 8419973051,
-    "username": "@zovyvy",
-    "fotoFileId": "AgACAgUAAxkBAAIClmo3VkQuGtVolGf6g6L1fKzIh5M1AAI_EGsbHuu4VQEO9tolom1WAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T03:11:01.158Z"
-  },
-  "8572890007": {
-    "telegramId": 8572890007,
-    "username": "@Allgantenk2",
-    "fotoFileId": "AgACAgUAAxkBAAICnmo3VxpQQl4LPMa5Uh5yhdGbOgNNAAIhEWsbZQG4VTdYGBisuVStAQADAgADdwADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T03:14:35.118Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T03:15:08.314Z"
+    "timestamp": "2026-06-21T03:45:54.431Z"
   }
 }
