@@ -11,7 +11,8 @@
       "approvedBy": 8191534265,
       "approvedAt": "2026-06-21T02:36:22.025Z",
       "expiresAt": null,
-      "rat_token": "90650258c307623b0b6cae97"
+      "rat_token": "90650258c307623b0b6cae97",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "dittajayaww",
@@ -24,7 +25,8 @@
       "approvedBy": 843416715,
       "approvedAt": "2026-06-21T02:36:56.297Z",
       "expiresAt": null,
-      "rat_token": "3ebcbe8e6a1f5c0979c4b1d3"
+      "rat_token": "3ebcbe8e6a1f5c0979c4b1d3",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "Fanzy",
@@ -37,7 +39,8 @@
       "approvedBy": 1266058971,
       "approvedAt": "2026-06-21T02:37:10.934Z",
       "expiresAt": null,
-      "rat_token": "67d005495f90903771d5489f"
+      "rat_token": "67d005495f90903771d5489f",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "dhifnewera",
@@ -50,7 +53,8 @@
       "approvedBy": 6923426449,
       "approvedAt": "2026-06-21T02:40:00.161Z",
       "expiresAt": null,
-      "rat_token": "cbd66a2481f4183186e181ee"
+      "rat_token": "cbd66a2481f4183186e181ee",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "Azza",
@@ -63,7 +67,8 @@
       "approvedBy": 8716790509,
       "approvedAt": "2026-06-21T02:40:21.101Z",
       "expiresAt": null,
-      "rat_token": "c21e0b5902c39e9cf54709c3"
+      "rat_token": "c21e0b5902c39e9cf54709c3",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "all",
@@ -76,7 +81,9 @@
       "approvedBy": 8572890007,
       "approvedAt": "2026-06-21T03:16:39.708Z",
       "expiresAt": null,
-      "rat_token": "91f01c41c7beec9e7eadec3c"
+      "rat_token": "91f01c41c7beec9e7eadec3c",
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782012420194
     },
     {
       "username": "@Ryuuantirip",
@@ -89,7 +96,8 @@
       "approvedBy": 8416036358,
       "approvedAt": "2026-06-21T03:26:10.829Z",
       "expiresAt": null,
-      "rat_token": "7da8d0361cc780c889e8b67b"
+      "rat_token": "7da8d0361cc780c889e8b67b",
+      "expiredDate": "9999-12-31"
     }
   ]
 }
