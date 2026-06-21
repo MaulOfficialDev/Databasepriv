@@ -109,8 +109,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T05:53:13.606Z"
+    "approved": true,
+    "timestamp": "2026-06-21T05:53:13.606Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T13:26:19.059Z"
   },
   "6932619641": {
     "telegramId": 6932619641,
@@ -209,7 +211,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T13:02:48.940Z"
+    "approved": true,
+    "timestamp": "2026-06-21T13:02:48.940Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T13:10:42.083Z"
   }
 }
