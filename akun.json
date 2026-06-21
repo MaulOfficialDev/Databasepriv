@@ -223,6 +223,20 @@
       "approvedAt": "2026-06-21T13:28:16.208Z",
       "expiresAt": null,
       "rat_token": "de7fe055b887a2a234920cb8"
+    },
+    {
+      "username": "@pinalpin14",
+      "password": "120129",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8487271859,
+      "selfOwner": 8487271859,
+      "createdBy": 8487271859,
+      "approvedBy": 8487271859,
+      "approvedAt": "2026-06-21T13:37:16.411Z",
+      "expiresAt": null,
+      "rat_token": "76dbffb8b1b62f6f1dd2ddc4"
     }
   ]
 }
