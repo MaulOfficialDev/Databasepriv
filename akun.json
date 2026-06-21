@@ -27,6 +27,20 @@
       "approvedAt": "2026-06-21T04:36:24.208Z",
       "expiresAt": null,
       "rat_token": "11345323ed5d674ce60cb45a"
+    },
+    {
+      "username": "kaje OFFICIAL",
+      "password": "kaje ganteng",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8144130663,
+      "selfOwner": 8144130663,
+      "createdBy": 8144130663,
+      "approvedBy": 8144130663,
+      "approvedAt": "2026-06-21T04:41:58.367Z",
+      "expiresAt": null,
+      "rat_token": "a21ceca5d0b398630746aeae"
     }
   ]
 }
