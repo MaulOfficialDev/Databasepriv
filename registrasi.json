@@ -46,5 +46,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T04:39:23.060Z"
+  },
+  "8121694751": {
+    "telegramId": 8121694751,
+    "username": "@Fataofiicial",
+    "fotoFileId": "AgACAgUAAxkBAAICBmo3Tbl7_Xqi7sg23fUmmtN_W-gwAAIgD2sbJxK5VU6gi2sJO_6dAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T04:40:57.803Z"
   }
 }
