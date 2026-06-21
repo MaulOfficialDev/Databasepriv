@@ -226,7 +226,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-21T13:47:42.952Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T13:49:46.216Z"
+  },
+  "7415248625": {
+    "telegramId": 7415248625,
+    "username": "@Rzkyofficial",
+    "fotoFileId": "AgACAgUAAxkBAAIFO2o4Bi3cVoV_mHmuoXpa3j4mk2pLAALSD2sbDyzAVeQbp-LvAq27AQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T13:47:42.952Z"
+    "timestamp": "2026-06-21T15:41:34.006Z"
   }
 }
