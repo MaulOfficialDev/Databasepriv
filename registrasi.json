@@ -98,5 +98,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T03:11:01.158Z"
+  },
+  "8572890007": {
+    "telegramId": 8572890007,
+    "username": "@Allgantenk2",
+    "fotoFileId": "AgACAgUAAxkBAAICnmo3VxpQQl4LPMa5Uh5yhdGbOgNNAAIhEWsbZQG4VTdYGBisuVStAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T03:14:35.118Z"
   }
 }
