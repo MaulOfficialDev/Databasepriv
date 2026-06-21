@@ -13,6 +13,20 @@
       "approvedAt": "2026-06-21T04:24:51.895Z",
       "expiresAt": null,
       "rat_token": "03feee2325091416911f6bdd"
+    },
+    {
+      "username": "@vortexmono",
+      "password": "1926",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7907782213,
+      "selfOwner": 7907782213,
+      "createdBy": 7907782213,
+      "approvedBy": 7907782213,
+      "approvedAt": "2026-06-21T04:36:24.208Z",
+      "expiresAt": null,
+      "rat_token": "11345323ed5d674ce60cb45a"
     }
   ]
 }
