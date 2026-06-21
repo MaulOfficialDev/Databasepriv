@@ -125,6 +125,20 @@
       "approvedAt": "2026-06-21T05:46:05.839Z",
       "expiresAt": null,
       "rat_token": "107369c2c7660e321f751c8e"
+    },
+    {
+      "username": "Rizz",
+      "password": "Rizz123",
+      "role": "admin",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8169306763,
+      "selfOwner": 8169306763,
+      "createdBy": 8169306763,
+      "approvedBy": 8169306763,
+      "approvedAt": "2026-06-21T06:34:21.937Z",
+      "expiresAt": null,
+      "rat_token": "3d2d489900c267769b41d588"
     }
   ]
 }
