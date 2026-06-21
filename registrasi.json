@@ -124,5 +124,16 @@
     "timestamp": "2026-06-21T06:13:47.115Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-21T06:14:41.727Z"
+  },
+  "8169306763": {
+    "telegramId": 8169306763,
+    "username": "@CeoSawiytt",
+    "fotoFileId": "AgACAgUAAxkBAAIBnGo3R-_4Tkd3YKpcn4BALkngTESVAAK2D2sbcwTAVchSvtLbIA1xAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T06:26:46.072Z"
   }
 }
