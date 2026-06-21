@@ -57,5 +57,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-21T04:40:57.803Z"
+  },
+  "8194238848": {
+    "telegramId": 8194238848,
+    "username": "@vemz2t",
+    "fotoFileId": "AgACAgUAAxkBAAIC_Wo3YupvBGUnWHlTbPu_ArinQYHlAAJmEmsbqGrBVVEh7cfyv4pHAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-21T04:42:21.000Z"
   }
 }
