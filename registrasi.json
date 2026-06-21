@@ -44,7 +44,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-21T02:37:04.386Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-21T02:38:39.481Z"
+  },
+  "8716790509": {
+    "telegramId": 8716790509,
+    "username": "@Axevlx",
+    "fotoFileId": "AgACAgUAAxkBAAICPWo3TrBYgbXebyoyRSOOi3KGk4QyAAKqDmsb1ja5VShlkjuYC5cBAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-21T02:37:04.386Z"
+    "timestamp": "2026-06-21T02:38:40.940Z"
   }
 }
