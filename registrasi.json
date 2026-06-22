@@ -463,7 +463,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T12:43:38.537Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-22T13:00:10.989Z"
+  },
+  "5858585407": {
+    "telegramId": 5858585407,
+    "username": "@kkkk1945",
+    "fotoFileId": "AgACAgUAAxkBAAIHW2o5NxW7Wh13-rdipXPqBuz5LzDvAAIRE2sbVfjJVQvfY2ef33iEAQADAgADdwADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T12:43:38.537Z"
+    "timestamp": "2026-06-22T13:22:29.703Z"
   }
 }
