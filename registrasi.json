@@ -268,17 +268,6 @@
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-21T23:24:08.445Z"
   },
-  "6913572523": {
-    "telegramId": 6913572523,
-    "username": "@ryuuunvd",
-    "fotoFileId": "AgACAgUAAxkBAAIFeGo4aUGQVgiKz0GTXDzprhiMT8dhAAJoEGsbgQvAVTa2xfWB5LIoAQADAgADeQADPAQ",
-    "targetRole": "admin",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-21T22:44:17.692Z"
-  },
   "7511024958": {
     "telegramId": 7511024958,
     "username": "@zeeoffc2",
@@ -385,7 +374,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T06:18:05.560Z"
+    "approved": true,
+    "timestamp": "2026-06-22T06:18:05.560Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-06-22T06:33:00.051Z"
   }
 }
