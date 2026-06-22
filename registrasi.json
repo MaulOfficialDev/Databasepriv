@@ -389,5 +389,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T07:19:04.051Z"
+  },
+  "7577766836": {
+    "telegramId": 7577766836,
+    "username": "@RealBandrak",
+    "fotoFileId": "AgACAgUAAxkBAAIG1mo46zJ4k1ry3yuwLT1ZiKrXZtM4AAKkEWsbXxbJVddqf_hkcBp0AQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T07:58:42.482Z"
   }
 }
