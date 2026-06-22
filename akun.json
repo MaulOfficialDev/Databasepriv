@@ -447,6 +447,20 @@
       "approvedAt": "2026-06-22T08:01:33.460Z",
       "expiresAt": null,
       "rat_token": "77b429d9a3e9c03b8a5509cd"
+    },
+    {
+      "username": "@WAYANSTORE",
+      "password": "(GALUH)135090)11",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7475858516,
+      "selfOwner": 7475858516,
+      "createdBy": 7475858516,
+      "approvedBy": 7475858516,
+      "approvedAt": "2026-06-22T08:07:47.493Z",
+      "expiresAt": null,
+      "rat_token": "b920f93372c6192c41b59956"
     }
   ]
 }
