@@ -478,5 +478,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T13:22:29.703Z"
+  },
+  "7938325967": {
+    "telegramId": 7938325967,
+    "username": "@padillstr",
+    "fotoFileId": "AgACAgUAAxkBAAIHf2o5Rmtyep--MC-NMC-hKfcu2S4IAAL2EGsb4O7IVbssPcPnCU41AQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T14:27:55.944Z"
   }
 }
