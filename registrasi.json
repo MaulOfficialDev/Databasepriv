@@ -376,5 +376,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T05:14:35.696Z"
+  },
+  "8051906389": {
+    "telegramId": 8051906389,
+    "username": "@triodevv",
+    "fotoFileId": "AgACAgUAAxkBAAIGWGo4xYhbDEojZ-afXJqe3glgLHfsAAISEGsbozjIVfi4DrR8uZpOAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T05:18:00.885Z"
   }
 }
