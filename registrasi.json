@@ -328,5 +328,16 @@
     "timestamp": "2026-06-22T03:28:49.643Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-22T03:29:16.230Z"
+  },
+  "8719457796": {
+    "telegramId": 8719457796,
+    "username": "@vin",
+    "fotoFileId": "AgACAgUAAxkBAAIF5Go4sAWkNNVMhE6Jz6KgXEOvqD-UAAJTDmsbr_fIVegmapgRgr23AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T03:46:13.668Z"
   }
 }
