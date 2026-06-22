@@ -526,5 +526,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T14:35:55.356Z"
+  },
+  "6692800344": {
+    "telegramId": 6692800344,
+    "username": "@ZeroTwoZy",
+    "fotoFileId": "AgACAgUAAxkBAAIHzWo5gwGn6Nqo9rY2D-l1gjAtZncUAALCEmsbgSrIVT9rVVTzLdB-AQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T18:46:26.279Z"
   }
 }
