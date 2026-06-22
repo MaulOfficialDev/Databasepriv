@@ -487,7 +487,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T14:27:55.944Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-22T14:30:23.552Z"
+  },
+  "7371590287": {
+    "telegramId": 7371590287,
+    "username": "@Rindoumieayam",
+    "fotoFileId": "AgACAgUAAxkBAAIHlmo5R_Cam2ax2w81IBMP8BJBK46mAALgDmsbKqjRVftx-1FCkvgCAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T14:27:55.944Z"
+    "timestamp": "2026-06-22T14:34:25.585Z"
   }
 }
