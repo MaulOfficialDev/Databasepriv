@@ -289,5 +289,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T00:01:30.423Z"
+  },
+  "8118689689": {
+    "telegramId": 8118689689,
+    "username": "@Ikooxz",
+    "fotoFileId": "AgACAgUAAxkBAAIFo2o4j5Dj8G6e_Rx6GfcChs3rkkKmAAK5DmsbUDrIVce0u-7-TLsIAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T01:27:44.469Z"
   }
 }
