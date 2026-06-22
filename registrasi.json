@@ -424,7 +424,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T08:04:28.825Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-22T08:06:27.314Z"
+  },
+  "8419973051": {
+    "telegramId": 8419973051,
+    "username": "@zovyvy",
+    "fotoFileId": "AgACAgUAAxkBAAIClmo3VkQuGtVolGf6g6L1fKzIh5M1AAI_EGsbHuu4VQEO9tolom1WAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T08:04:28.825Z"
+    "timestamp": "2026-06-22T09:26:16.825Z"
   }
 }
