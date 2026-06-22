@@ -450,7 +450,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T09:57:17.309Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-06-22T10:41:40.080Z"
+  },
+  "6342000502": {
+    "telegramId": 6342000502,
+    "username": "@nandanew",
+    "fotoFileId": "AgACAgUAAxkBAAIHR2o5Lfq-KnGZ-V6NrSirFaDAubhDAAKWD2sbZIHQVR7io7NG2PktAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T09:57:17.309Z"
+    "timestamp": "2026-06-22T12:43:38.537Z"
   }
 }
