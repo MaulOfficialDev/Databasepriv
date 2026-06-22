@@ -437,7 +437,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T09:26:16.825Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-22T09:26:52.226Z"
+  },
+  "8176685537": {
+    "telegramId": 8176685537,
+    "username": "@SkyzenV1",
+    "fotoFileId": "AgACAgUAAxkBAAIHKWo5Bvy7UM_ZB3gCHL7zggqzmz70AAJjEWsb0YLIVTUAAWq2REw0nAEAAwIAA3kAAzwE",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T09:26:16.825Z"
+    "timestamp": "2026-06-22T09:57:17.309Z"
   }
 }
