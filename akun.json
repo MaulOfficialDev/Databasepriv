@@ -307,6 +307,20 @@
       "approvedAt": "2026-06-22T03:40:27.623Z",
       "expiresAt": null,
       "rat_token": "d460de7f92b406a6323854fd"
+    },
+    {
+      "username": "@xreallly",
+      "password": "1",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8424326799,
+      "selfOwner": 8424326799,
+      "createdBy": 8424326799,
+      "approvedBy": 8424326799,
+      "approvedAt": "2026-06-22T03:47:04.194Z",
+      "expiresAt": null,
+      "rat_token": "d10acbd423b4754bc45e5b91"
     }
   ]
 }
