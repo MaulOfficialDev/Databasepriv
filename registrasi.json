@@ -354,5 +354,16 @@
     "timestamp": "2026-06-22T04:11:12.064Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-22T04:14:53.398Z"
+  },
+  "8572890007": {
+    "telegramId": 8572890007,
+    "username": "@Allgantenk2",
+    "fotoFileId": "AgACAgUAAxkBAAICnmo3VxpQQl4LPMa5Uh5yhdGbOgNNAAIhEWsbZQG4VTdYGBisuVStAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T05:03:14.069Z"
   }
 }
