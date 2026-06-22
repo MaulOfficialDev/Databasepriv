@@ -378,5 +378,16 @@
     "timestamp": "2026-06-22T06:18:05.560Z",
     "approvedBy": 7907433870,
     "approvedAt": "2026-06-22T06:33:00.051Z"
+  },
+  "8170050525": {
+    "telegramId": 8170050525,
+    "username": "@Genz_id",
+    "fotoFileId": "AgACAgUAAxkBAAIGoGo44efKIlwl6bijMOluGt9fDpkkAAIEEmsbgmDAVaISZzo_m6c4AQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T07:19:04.051Z"
   }
 }
