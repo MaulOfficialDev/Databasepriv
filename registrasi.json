@@ -500,7 +500,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-22T14:34:25.585Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-22T14:34:36.570Z"
+  },
+  "6822413848": {
+    "telegramId": 6822413848,
+    "username": "@alghaisan",
+    "fotoFileId": "AgACAgUAAxkBAAIHm2o5SEtLg6K7MCOb0SfG3PdUnetyAAL9FWsbgT3JVfX4eMjWSXnPAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T14:34:25.585Z"
+    "timestamp": "2026-06-22T14:35:55.356Z"
   }
 }
