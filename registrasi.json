@@ -200,8 +200,10 @@
     "registeredBy": 8216400167,
     "registeredByName": "suka makan",
     "registeredByRole": "fullupdate",
-    "approved": false,
-    "timestamp": "2026-06-22T04:42:46.606Z"
+    "approved": true,
+    "timestamp": "2026-06-22T04:42:46.606Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-22T04:44:37.244Z"
   },
   "6663434560": {
     "telegramId": 6663434560,
