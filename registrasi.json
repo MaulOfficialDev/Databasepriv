@@ -352,5 +352,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T04:01:35.666Z"
+  },
+  "8213518197": {
+    "telegramId": 8213518197,
+    "username": "@Farhansopan",
+    "fotoFileId": "AgACAgUAAxkBAAIGC2o4td_AmPMZtF4SRICJuDgtprMvAAIpEGsb-j3IVcc-CEoJcgIFAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T04:11:12.064Z"
   }
 }
