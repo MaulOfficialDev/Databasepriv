@@ -7,8 +7,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T15:03:43.217Z"
+    "approved": true,
+    "timestamp": "2026-06-22T15:03:43.217Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-22T15:05:29.083Z"
   },
   "1921699808": {
     "telegramId": 1921699808,
@@ -392,16 +394,14 @@
   },
   "6541701591": {
     "telegramId": 6541701591,
-    "username": "@damidriller",
-    "fotoFileId": "AgACAgQAAxkBAAIGh2o4053l_nw_xlwZqUO9qH64_wTqAAL0DWsbYifIUaGciyYcP8T6AQADAgADeQADPAQ",
+    "username": "Nitafute",
+    "fotoFileId": "AgACAgQAAxkBAAIHu2o5ZYFaWeG2-FjgRFPpoHW6AAHEXgACbQ5rG0SoyVG89RM7jBzd8AEAAwIAA3kAAzwE",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-22T06:18:05.560Z",
-    "approvedBy": 7907433870,
-    "approvedAt": "2026-06-22T06:33:00.051Z"
+    "approved": false,
+    "timestamp": "2026-06-22T16:40:34.261Z"
   },
   "8170050525": {
     "telegramId": 8170050525,
