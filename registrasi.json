@@ -347,13 +347,11 @@
     "username": "@belerick",
     "fotoFileId": "AgACAgUAAxkBAAIF-2o4s59G0d5dOmEg93HWwVxVgFOJAAI4D2sbwM_JVWhikGk3V8KQAQADAgADeQADPAQ",
     "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-22T04:01:35.666Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-22T04:14:47.524Z"
+    "registeredBy": 7712212991,
+    "registeredByName": "belerick",
+    "registeredByRole": "fullupdate",
+    "approved": false,
+    "timestamp": "2026-06-22T04:20:42.472Z"
   },
   "8213518197": {
     "telegramId": 8213518197,
@@ -363,7 +361,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T04:11:12.064Z"
+    "approved": true,
+    "timestamp": "2026-06-22T04:11:12.064Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-22T04:14:53.398Z"
   }
 }
