@@ -300,5 +300,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-22T01:27:44.469Z"
+  },
+  "8526418944": {
+    "telegramId": 8526418944,
+    "username": "@cspremioreal",
+    "fotoFileId": "AgACAgUAAxkBAAIFsGo4lHfkWb_xZvB5AdCinkZugIAmAAL9Dmsbh33BVQJF5DS0YmAqAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-22T01:48:39.904Z"
   }
 }
