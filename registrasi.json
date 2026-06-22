@@ -7,8 +7,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T08:00:25.962Z"
+    "approved": true,
+    "timestamp": "2026-06-22T08:00:25.962Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-22T08:00:45.685Z"
   },
   "6923426449": {
     "telegramId": 6923426449,
