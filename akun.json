@@ -335,6 +335,20 @@
       "approvedAt": "2026-06-22T03:58:29.757Z",
       "expiresAt": null,
       "rat_token": "f0972f14fcb167a6269afa78"
+    },
+    {
+      "username": "nizam",
+      "password": "9802",
+      "role": "admin",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 6663434560,
+      "selfOwner": 6663434560,
+      "createdBy": 6663434560,
+      "approvedBy": 6663434560,
+      "approvedAt": "2026-06-22T04:14:58.522Z",
+      "expiresAt": null,
+      "rat_token": "7d831eb6f8422dd705148c72"
     }
   ]
 }
