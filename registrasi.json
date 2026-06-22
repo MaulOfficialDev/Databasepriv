@@ -350,8 +350,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T04:01:35.666Z"
+    "approved": true,
+    "timestamp": "2026-06-22T04:01:35.666Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-22T04:14:47.524Z"
   },
   "8213518197": {
     "telegramId": 8213518197,
