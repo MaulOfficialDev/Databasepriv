@@ -530,13 +530,13 @@
   "6692800344": {
     "telegramId": 6692800344,
     "username": "@ZeroTwoZy",
-    "fotoFileId": "AgACAgUAAxkBAAIIVGo59fFLijGKURpefeanD8aCVtdxAAIlEWsbRsjQVdHNcMUIFb99AQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAII4Wo6Kf-HRnFaQhUK22KcKtskB_hFAAKEEGsbRsjYVUoH8qnFQiopAQADAgADeQADPAQ",
     "targetRole": "patner",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T06:40:05.423Z"
+    "timestamp": "2026-06-23T06:40:05.428Z"
   },
   "8451719873": {
     "telegramId": 8451719873,
@@ -624,5 +624,16 @@
     "registeredByRole": "fullupdate",
     "approved": false,
     "timestamp": "2026-06-23T06:10:25.886Z"
+  },
+  "8663854407": {
+    "telegramId": 8663854407,
+    "username": "@Opexxycc",
+    "fotoFileId": "AgACAgUAAxkBAAIJEmo6LyUaeoU0o9vJwO5Fi5mx-V5fAAL-D2sbTK_QVV6qHIQNdwK2AQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T07:00:53.534Z"
   }
 }
