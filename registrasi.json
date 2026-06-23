@@ -757,5 +757,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T14:19:10.842Z"
+  },
+  "7166709491": {
+    "telegramId": 7166709491,
+    "username": "@thekingsr",
+    "fotoFileId": "AgACAgUAAxkBAAIKTWo6nZsnmUXJYJp3Ul-3Xzp2qsAkAALlD2sbvDHQVbXvIZ3YJAABigEAAwIAA3kAAzwE",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T14:52:11.878Z"
   }
 }
