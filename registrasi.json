@@ -746,5 +746,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T13:14:00.957Z"
+  },
+  "7453445712": {
+    "telegramId": 7453445712,
+    "username": "@zailordxx",
+    "fotoFileId": "AgACAgUAAxkBAAIKL2o6ld5dKdu9dPlJy7lWTURGFvHyAALLD2sbMZTQVR5ZwCrn6VsyAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T14:19:10.842Z"
   }
 }
