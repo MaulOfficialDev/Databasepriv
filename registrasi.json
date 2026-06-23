@@ -580,12 +580,14 @@
   "8719472321": {
     "telegramId": 8719472321,
     "username": "@Jackcytrus",
-    "fotoFileId": "AgACAgUAAxkBAAIINGo55hQwBaTqHJxZr3t8CG_2g4NtAAI8EGsbQrnQVYhAY4khUGLqAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIINWo55hTrjIcO5owC6-lp7Q9aXEgNAAI9EGsbQrnQVfeg2jo5B6wVAQADAgADeQADPAQ",
     "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T01:49:08.747Z"
+    "approved": true,
+    "timestamp": "2026-06-23T01:49:08.922Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T02:20:57.902Z"
   }
 }
