@@ -633,8 +633,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T07:00:53.534Z"
+    "approved": true,
+    "timestamp": "2026-06-23T07:00:53.534Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T07:16:15.532Z"
   },
   "8676519960": {
     "telegramId": 8676519960,
@@ -646,5 +648,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T07:05:40.725Z"
+  },
+  "8184253370": {
+    "telegramId": 8184253370,
+    "username": "@yanzdev",
+    "fotoFileId": "AgACAgUAAxkBAAIJTGo6QRtFbyfCK9jf98Z2ARXWE3ZuAAJqD2sbkGfYVY8T3Y7jm6FXAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T08:17:32.036Z"
   }
 }
