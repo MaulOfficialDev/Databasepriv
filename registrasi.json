@@ -530,15 +530,13 @@
   "6692800344": {
     "telegramId": 6692800344,
     "username": "@ZeroTwoZy",
-    "fotoFileId": "AgACAgUAAxkBAAIHzWo5gwGn6Nqo9rY2D-l1gjAtZncUAALCEmsbgSrIVT9rVVTzLdB-AQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIIVGo59fFLijGKURpefeanD8aCVtdxAAIlEWsbRsjQVdHNcMUIFb99AQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-22T18:46:26.279Z",
-    "approvedBy": 1266058971,
-    "approvedAt": "2026-06-22T20:41:17.117Z"
+    "approved": false,
+    "timestamp": "2026-06-23T02:56:49.397Z"
   },
   "8451719873": {
     "telegramId": 8451719873,
