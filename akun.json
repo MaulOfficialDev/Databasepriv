@@ -685,6 +685,20 @@
       "approvedAt": "2026-06-23T11:36:32.612Z",
       "expiresAt": null,
       "rat_token": "f4c3e079002daaa6be2d2a0d"
+    },
+    {
+      "username": "@inocyxcryptocurrencyexchange",
+      "password": "20111",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 1497667429,
+      "selfOwner": 1497667429,
+      "createdBy": 1497667429,
+      "approvedBy": 1497667429,
+      "approvedAt": "2026-06-23T11:46:32.698Z",
+      "expiresAt": null,
+      "rat_token": "7a6a80a2d112d76348a5fb3b"
     }
   ]
 }
