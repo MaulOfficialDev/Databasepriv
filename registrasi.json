@@ -20,8 +20,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T11:06:38.880Z"
+    "approved": true,
+    "timestamp": "2026-06-23T11:06:38.880Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-23T11:06:58.218Z"
   },
   "1921699808": {
     "telegramId": 1921699808,
@@ -709,5 +711,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T10:21:18.328Z"
+  },
+  "7960748153": {
+    "telegramId": 7960748153,
+    "username": "@rapsLyora",
+    "fotoFileId": "AgACAgUAAxkBAAIJzWo6baybx5C6bX_B1KBROXu4iFUkAALiDmsbXY3ZVeFH9DGOv1o4AQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T11:27:41.199Z"
   }
 }
