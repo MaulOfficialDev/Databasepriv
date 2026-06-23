@@ -255,7 +255,8 @@
       "approvedAt": "2026-06-21T13:37:16.411Z",
       "expiresAt": null,
       "rat_token": "76dbffb8b1b62f6f1dd2ddc4",
-      "expiredDate": "9999-12-31"
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782194757134
     },
     {
       "username": "Ryuu",
