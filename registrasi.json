@@ -715,12 +715,25 @@
   "7960748153": {
     "telegramId": 7960748153,
     "username": "@rapsLyora",
-    "fotoFileId": "AgACAgUAAxkBAAIJzWo6baybx5C6bX_B1KBROXu4iFUkAALiDmsbXY3ZVeFH9DGOv1o4AQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIJzmo6bax3oczvamHji1CKTVz5AlyGAALjDmsbXY3ZVY2VrOcIx_CsAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-23T11:27:41.367Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T11:30:11.593Z"
+  },
+  "7820410494": {
+    "telegramId": 7820410494,
+    "username": "@mpruysz",
+    "fotoFileId": "AgACAgUAAxkBAAIJ-mo6f9fdXNJOA6XykY8yRFfSArvoAAI3DmsbM3rYVUmuFun2gSOCAQADAgADeQADPAQ",
     "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T11:27:41.199Z"
+    "timestamp": "2026-06-23T12:45:11.978Z"
   }
 }
