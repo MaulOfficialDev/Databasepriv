@@ -615,6 +615,20 @@
       "approvedAt": "2026-06-23T09:03:01.764Z",
       "expiresAt": null,
       "rat_token": "1fa18a6164ea723c1a56a03a"
+    },
+    {
+      "username": "@DARKPORTALSMP",
+      "password": "ADMINGANTENG",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7417130976,
+      "selfOwner": 7417130976,
+      "createdBy": 7417130976,
+      "approvedBy": 7417130976,
+      "approvedAt": "2026-06-23T09:16:46.421Z",
+      "expiresAt": null,
+      "rat_token": "163c5797066fbfb464b5bd9d"
     }
   ]
 }
