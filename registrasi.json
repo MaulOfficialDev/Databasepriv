@@ -698,16 +698,5 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T10:21:18.328Z"
-  },
-  "8411474927": {
-    "telegramId": 8411474927,
-    "username": "@GhostCrashxerRealz",
-    "fotoFileId": "AgACAgUAAxkBAAIJr2o6ZOeDfnfnCENCVI4y7XS5MDA5AAKBD2sbV6k4VT_UMtabinnQAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T10:51:49.344Z"
   }
 }
