@@ -663,12 +663,23 @@
   "7707361182": {
     "telegramId": 7707361182,
     "username": "@vino_store00",
-    "fotoFileId": "AgACAgUAAxkBAAIJWWo6SwnLNlefP0l7L5zEHjwgXQhuAAJMD2sb_oPYVYhlTROabQleAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIJW2o6SwmrnUuoUB6HNhBOjFfC4zy_AAJOD2sb_oPYVYo_IsrKLjDAAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T08:59:53.991Z"
+    "timestamp": "2026-06-23T08:59:54.164Z"
+  },
+  "5327228770": {
+    "telegramId": 5327228770,
+    "username": "@vlnzoficiall",
+    "fotoFileId": "AgACAgUAAxkBAAIJcmo6TOo4l55Z0ay3KuB6IJ7ho3ZuAAJ7EmsbzcTRVWLhbNmy0OYdAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T09:07:55.007Z"
   }
 }
