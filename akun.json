@@ -629,6 +629,20 @@
       "approvedAt": "2026-06-23T09:16:46.421Z",
       "expiresAt": null,
       "rat_token": "163c5797066fbfb464b5bd9d"
+    },
+    {
+      "username": "yanzdev",
+      "password": "yanzdev12334",
+      "role": "admin",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8184253370,
+      "selfOwner": 8184253370,
+      "createdBy": 8184253370,
+      "approvedBy": 8184253370,
+      "approvedAt": "2026-06-23T09:36:02.710Z",
+      "expiresAt": null,
+      "rat_token": "ca17d1ba73640b1691b4bd92"
     }
   ]
 }
