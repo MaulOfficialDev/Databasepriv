@@ -408,13 +408,13 @@
   "6541701591": {
     "telegramId": 6541701591,
     "username": "Nitafute",
-    "fotoFileId": "AgACAgQAAxkBAAIHu2o5ZYFaWeG2-FjgRFPpoHW6AAHEXgACbQ5rG0SoyVG89RM7jBzd8AEAAwIAA3kAAzwE",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
+    "fotoFileId": "AgACAgQAAxkBAAIKX2o6tUZWIDW-lcvhM_TVvStpxCK4AAJdDmsbRKjZUZWr9rQMLPz1AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 6541701591,
+    "registeredByName": "🩸⃟⃨〫⃰‣Dave🥷",
+    "registeredByRole": "reseller",
     "approved": false,
-    "timestamp": "2026-06-22T16:40:34.261Z"
+    "timestamp": "2026-06-23T16:33:10.644Z"
   },
   "8170050525": {
     "telegramId": 8170050525,
