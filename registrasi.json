@@ -619,12 +619,12 @@
   "7417130976": {
     "telegramId": 7417130976,
     "username": "@DARKPORTALSMP",
-    "fotoFileId": "AgACAgUAAyEFAATuYbJdAAIgKWo6ERATRu4oXEkTt2j5lowpyieGAAJ4E2sbFzrQVZr8x2O4fS2lAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIIlWo6D2bgs6M7yK92-nI-sTZHmAVlAALQEGsbLj_QVSI6Ijohbx8BAQADAgADeQADPAQ",
     "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
+    "registeredBy": 7417130976,
+    "registeredByName": "DPS SERVER",
+    "registeredByRole": "fullupdate",
     "approved": false,
-    "timestamp": "2026-06-23T05:08:34.071Z"
+    "timestamp": "2026-06-23T06:10:25.886Z"
   }
 }
