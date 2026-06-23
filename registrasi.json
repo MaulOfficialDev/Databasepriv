@@ -406,13 +406,13 @@
   "8170050525": {
     "telegramId": 8170050525,
     "username": "@Genz_id",
-    "fotoFileId": "AgACAgUAAxkBAAIGoGo44efKIlwl6bijMOluGt9fDpkkAAIEEmsbgmDAVaISZzo_m6c4AQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIH8Go53PFPDwXqbp5VAAH312akH6nEqQACFQ9rG4TA0FUiZ_Xz7qEzIgEAAwIAA3kAAzwE",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-22T07:19:04.051Z"
+    "timestamp": "2026-06-23T01:10:09.269Z"
   },
   "7577766836": {
     "telegramId": 7577766836,
@@ -548,7 +548,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-22T22:33:11.183Z"
+    "approved": true,
+    "timestamp": "2026-06-22T22:33:11.183Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T00:08:31.129Z"
   }
 }
