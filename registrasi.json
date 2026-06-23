@@ -576,5 +576,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T01:29:17.035Z"
+  },
+  "8719472321": {
+    "telegramId": 8719472321,
+    "username": "@Jackcytrus",
+    "fotoFileId": "AgACAgUAAxkBAAIINGo55hQwBaTqHJxZr3t8CG_2g4NtAAI8EGsbQrnQVYhAY4khUGLqAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T01:49:08.747Z"
   }
 }
