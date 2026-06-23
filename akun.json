@@ -699,6 +699,20 @@
       "approvedAt": "2026-06-23T11:46:32.698Z",
       "expiresAt": null,
       "rat_token": "7a6a80a2d112d76348a5fb3b"
+    },
+    {
+      "username": "Valen",
+      "password": "24",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 5327228770,
+      "selfOwner": 5327228770,
+      "createdBy": 5327228770,
+      "approvedBy": 5327228770,
+      "approvedAt": "2026-06-23T11:50:48.409Z",
+      "expiresAt": null,
+      "rat_token": "b0dfcd33b3ebd469b19faad1"
     }
   ]
 }
