@@ -603,16 +603,14 @@
   },
   "6037887037": {
     "telegramId": 6037887037,
-    "username": "@VoldiGolz",
-    "fotoFileId": "AgACAgUAAxkBAAIIYmo5_OzfVyMihJiczHYdrygn88rJAAKMEGsbGn3RVUxxYF4jBXHsAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-23T03:26:37.008Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-23T04:19:32.528Z"
+    "username": "VoldiGolz",
+    "fotoFileId": "AgACAgUAAxkBAAIKHmo6lQABrIh-UdQpR2OmG1puC1fqcgAClRJrGxp90VUJrxy8XUIypwEAAwIAA3kAAzwE",
+    "targetRole": "fullupdate",
+    "registeredBy": 6037887037,
+    "registeredByName": "𝐃𝐢𝐦𝐳 卐 𝐏𝐍𝐏 卐",
+    "registeredByRole": "reseller",
+    "approved": false,
+    "timestamp": "2026-06-23T14:15:28.468Z"
   },
   "6320222759": {
     "telegramId": 6320222759,
@@ -741,12 +739,12 @@
   "7210278846": {
     "telegramId": 7210278846,
     "username": "cangzganteng",
-    "fotoFileId": "AgACAgUAAxkBAAIKDGo6hpj345_IQDym2xOr-I5oEg94AAJ_EGsbESrRVeFtSRM2fhwJAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIKDWo6hphjVfzMdiWpvhYWK5heOOBiAAKAEGsbESrRVZIpzOOir5DGAQADAgADeQADPAQ",
     "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T13:14:00.787Z"
+    "timestamp": "2026-06-23T13:14:00.957Z"
   }
 }
