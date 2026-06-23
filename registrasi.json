@@ -591,12 +591,23 @@
   "6037887037": {
     "telegramId": 6037887037,
     "username": "@VoldiGolz",
-    "fotoFileId": "AgACAgUAAxkBAAIIYWo5_OwKdj4vNlCRgatqr5mBni-KAAKLEGsbGn3RVbxX1CAuu5xhAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIIYmo5_OzfVyMihJiczHYdrygn88rJAAKMEGsbGn3RVUxxYF4jBXHsAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T03:26:36.832Z"
+    "timestamp": "2026-06-23T03:26:37.008Z"
+  },
+  "6320222759": {
+    "telegramId": 6320222759,
+    "username": "@Edzx",
+    "fotoFileId": "AgACAgUAAxkBAAIIhGo6BTO94jOufIXBtrqLE2uKEJPcAAKaEWsbhWHQVYLA7ShGubKTAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-23T04:01:55.480Z"
   }
 }
