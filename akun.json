@@ -671,6 +671,20 @@
       "approvedAt": "2026-06-23T11:35:18.395Z",
       "expiresAt": "2026-07-23T11:35:18.395Z",
       "rat_token": "9105fabc4e425584698022d5"
+    },
+    {
+      "username": "raps",
+      "password": "1",
+      "role": "admin",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7960748153,
+      "selfOwner": 7960748153,
+      "createdBy": 7960748153,
+      "approvedBy": 7960748153,
+      "approvedAt": "2026-06-23T11:36:32.612Z",
+      "expiresAt": null,
+      "rat_token": "f4c3e079002daaa6be2d2a0d"
     }
   ]
 }
