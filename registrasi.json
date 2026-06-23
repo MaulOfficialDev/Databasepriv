@@ -657,8 +657,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T08:17:32.036Z"
+    "approved": true,
+    "timestamp": "2026-06-23T08:17:32.036Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-23T09:28:02.850Z"
   },
   "7707361182": {
     "telegramId": 7707361182,
@@ -668,8 +670,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T08:59:54.164Z"
+    "approved": true,
+    "timestamp": "2026-06-23T08:59:54.164Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-06-23T09:14:59.530Z"
   },
   "5327228770": {
     "telegramId": 5327228770,
@@ -679,7 +683,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-23T09:07:55.007Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T09:40:18.350Z"
+  },
+  "7798968784": {
+    "telegramId": 7798968784,
+    "username": "@firmanxdmo",
+    "fotoFileId": "AgACAgUAAxkBAAIJm2o6Xh0XnFdIohZmcsWrCUyUFeo-AAL8EGsbAAFZ0FUFIQ3yfJg9CAEAAwIAA3kAAzwE",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T09:07:55.007Z"
+    "timestamp": "2026-06-23T10:21:18.328Z"
   }
 }
