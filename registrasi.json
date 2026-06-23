@@ -596,8 +596,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-23T03:26:37.008Z"
+    "approved": true,
+    "timestamp": "2026-06-23T03:26:37.008Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T04:19:32.528Z"
   },
   "6320222759": {
     "telegramId": 6320222759,
@@ -607,7 +609,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-23T04:01:55.480Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-23T04:19:29.889Z"
+  },
+  "7417130976": {
+    "telegramId": 7417130976,
+    "username": "@DARKPORTALSMP",
+    "fotoFileId": "AgACAgUAAxkBAAIIlWo6D2bgs6M7yK92-nI-sTZHmAVlAALQEGsbLj_QVSI6Ijohbx8BAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T04:01:55.480Z"
+    "timestamp": "2026-06-23T04:45:26.776Z"
   }
 }
