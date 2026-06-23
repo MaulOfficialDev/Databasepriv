@@ -545,6 +545,20 @@
       "approvedAt": "2026-06-23T01:28:09.378Z",
       "expiresAt": null,
       "rat_token": "6a1b45bdbbf133da7b7df59f"
+    },
+    {
+      "username": "xynozdep",
+      "password": "xynozganteng",
+      "role": "reseller",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 1462961563,
+      "selfOwner": 1462961563,
+      "createdBy": 1462961563,
+      "approvedBy": 1462961563,
+      "approvedAt": "2026-06-23T01:33:37.173Z",
+      "expiresAt": null,
+      "rat_token": "1775964b821370a1e8304b75"
     }
   ]
 }
