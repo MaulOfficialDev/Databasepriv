@@ -494,7 +494,8 @@
       "approvedAt": "2026-06-22T08:27:16.204Z",
       "expiresAt": null,
       "rat_token": "18c4fca10ea1961bd89556ed",
-      "expiredDate": "9999-12-31"
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782218017126
     },
     {
       "username": "@RealBandrak",
