@@ -809,5 +809,16 @@
     "registeredByRole": "admin",
     "approved": false,
     "timestamp": "2026-06-24T14:17:08.256Z"
+  },
+  "8425799900": {
+    "telegramId": 8425799900,
+    "username": "@zyandd",
+    "fotoFileId": "AgACAgUAAxkBAAILOmo7-KgsNezgKVgwg1wi8ucHwvuqAAJoEGsb8ffhVSlBVEaL0P5MAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-24T15:32:56.452Z"
   }
 }
