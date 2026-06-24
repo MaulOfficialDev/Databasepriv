@@ -329,7 +329,8 @@
       "approvedAt": "2026-06-22T03:47:04.194Z",
       "expiresAt": null,
       "rat_token": "d10acbd423b4754bc45e5b91",
-      "expiredDate": "9999-12-31"
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782299618098
     },
     {
       "username": "@vin",
