@@ -770,5 +770,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T14:52:11.878Z"
+  },
+  "6648754591": {
+    "telegramId": 6648754591,
+    "username": "@yandoll_real",
+    "fotoFileId": "AgACAgUAAxkBAAIKuWo7Zlv57jS5lLqmjgxL6Cy9CdcmAAKGEGsbFHbhVYJhRVASbGO4AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-24T05:08:43.866Z"
   }
 }
