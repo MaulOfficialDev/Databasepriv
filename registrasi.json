@@ -794,7 +794,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-24T14:12:01.213Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-24T14:12:04.397Z"
+  },
+  "7289547252": {
+    "telegramId": 7289547252,
+    "username": "@saraseostur",
+    "fotoFileId": "AgACAgUAAxkBAAILG2o75uPN1q74T4gkfly_3HL_lJGRAAJWFGsbme3YVZrNEiou_O9HAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": 8176685537,
+    "registeredByName": "– !`𝚂𝚔𝚢𝚣𝚎𝚗 (rehat 2 Minggu)",
+    "registeredByRole": "admin",
     "approved": false,
-    "timestamp": "2026-06-24T14:12:01.213Z"
+    "timestamp": "2026-06-24T14:17:08.256Z"
   }
 }
