@@ -833,5 +833,16 @@
     "timestamp": "2026-06-24T15:32:56.452Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-24T15:33:40.922Z"
+  },
+  "8416565884": {
+    "telegramId": 8416565884,
+    "username": "@Xidzzi",
+    "fotoFileId": "AgACAgUAAxkBAAILT2o8EO3nn5S5vF8bLFD9t3LuXrjJAALLFGsbfK3hVQAB0fQol3h-FQEAAwIAA3kAAzwE",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-24T17:16:30.586Z"
   }
 }
