@@ -770,5 +770,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-23T14:52:11.878Z"
+  },
+  "8468632826": {
+    "telegramId": 8468632826,
+    "username": "iky",
+    "fotoFileId": "AgACAgUAAxkBAAIKgWo7OUKk9ZxyZn79_frnnxQycnGhAAI3D2sbVmngVTF2b7P62qtPAQADAgADeAADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 8451719873,
+    "registeredByName": "Bintang",
+    "registeredByRole": "patner",
+    "approved": false,
+    "timestamp": "2026-06-24T01:56:18.471Z"
   }
 }
