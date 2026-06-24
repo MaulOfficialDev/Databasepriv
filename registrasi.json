@@ -1,4 +1,15 @@
 {
+  "1263": {
+    "telegramId": 1263,
+    "username": "Hai ganteng",
+    "fotoFileId": "AgACAgUAAxkBAAILTWo8BIONT6VYLjB9yxFeaMp7Akv_AAIBFGsbpa7hVRHWq3FTv6fjAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 8769211125,
+    "registeredByName": "Hai ganteng",
+    "registeredByRole": "fullupdate",
+    "approved": false,
+    "timestamp": "2026-06-24T16:23:31.361Z"
+  },
   "1462961563": {
     "telegramId": 1462961563,
     "username": "@bpklohmatik",
