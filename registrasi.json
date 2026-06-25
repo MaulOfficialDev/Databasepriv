@@ -91,15 +91,13 @@
   "8737371656": {
     "telegramId": 8737371656,
     "username": "@Akusayangallah",
-    "fotoFileId": "AgACAgUAAxkBAAICz2o3XnKh_D58fa5NG4U_qUtl_6u6AALZDmsbQJK5VSRiwEwbBvgfAQADAgADdwADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAILbWo8ciTSmwkyAAGWNX_NO1aUXbNvgwACuA9rGyHQgVUaSnFwmcqvXAEAAwIAA3cAAzwE",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-21T04:39:23.060Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-21T04:43:40.498Z"
+    "approved": false,
+    "timestamp": "2026-06-25T00:11:16.353Z"
   },
   "8121694751": {
     "telegramId": 8121694751,
