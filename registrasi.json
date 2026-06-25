@@ -855,7 +855,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-25T08:29:28.515Z"
+    "approved": true,
+    "timestamp": "2026-06-25T08:29:28.515Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-25T08:33:12.582Z"
   }
 }
