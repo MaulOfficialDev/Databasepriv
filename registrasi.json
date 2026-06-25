@@ -419,13 +419,15 @@
   "8170050525": {
     "telegramId": 8170050525,
     "username": "@Genz_id",
-    "fotoFileId": "AgACAgUAAxkBAAIL8Wo9Dez_tz6QncEDBjqT5cseiK7FAALND2sbiJvoVVXl4QUvhrDRAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIL8mo9DexHf262yUvtdVaV-YpKctWpAALOD2sbiJvoVbxuMTJXHJZIAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-25T11:15:56.805Z"
+    "approved": true,
+    "timestamp": "2026-06-25T11:15:57.034Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-25T11:16:24.397Z"
   },
   "7577766836": {
     "telegramId": 7577766836,
@@ -872,5 +874,16 @@
     "timestamp": "2026-06-25T09:19:39.015Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-25T09:26:09.567Z"
+  },
+  "7916741226": {
+    "telegramId": 7916741226,
+    "username": "@Arkaanfreyanibrahim",
+    "fotoFileId": "AgACAgUAAxkBAAIMEGo9OubVUFtGWVYguOduKEIeUDaLAAJvD2sba9HoVTFAZNA1z-j3AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-25T14:27:51.070Z"
   }
 }
