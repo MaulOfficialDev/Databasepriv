@@ -831,5 +831,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-24T17:16:30.586Z"
+  },
+  "8484670660": {
+    "telegramId": 8484670660,
+    "username": "Nitafute",
+    "fotoFileId": "AgACAgQAAxkBAAILgWo8o94rFgABG1KjKrdF-JOoo6OfHwACMw5rG-aQ4VF1gl3w36uzPgEAAwIAA3kAAzwE",
+    "targetRole": "fullupdate",
+    "registeredBy": 6541701591,
+    "registeredByName": "🩸⃟⃨〫⃰‣Dave🥷",
+    "registeredByRole": "reseller",
+    "approved": false,
+    "timestamp": "2026-06-25T03:43:26.660Z"
   }
 }
