@@ -419,13 +419,13 @@
   "8170050525": {
     "telegramId": 8170050525,
     "username": "@Genz_id",
-    "fotoFileId": "AgACAgUAAxkBAAIH8Wo53PF50ZBd9P5sP5VuvkSAgocyAAIWD2sbhMDQVdh_BuhVxnONAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIL8Wo9Dez_tz6QncEDBjqT5cseiK7FAALND2sbiJvoVVXl4QUvhrDRAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-23T01:10:09.449Z"
+    "timestamp": "2026-06-25T11:15:56.805Z"
   },
   "7577766836": {
     "telegramId": 7577766836,
@@ -863,12 +863,14 @@
   "7622065417": {
     "telegramId": 7622065417,
     "username": "@elsawit_jir",
-    "fotoFileId": "AgACAgUAAxkBAAIL3Go88qqHMetv0G9qqTZfM1ehGgt6AAL5EGsb8YzpVeL0vaZKOYOCAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIL3Wo88qp2to3PSD2R8sCudnAIgXrSAAL6EGsb8YzpVZgmzjp5Z3WYAQADAgADeQADPAQ",
     "targetRole": "patner",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-25T09:19:38.840Z"
+    "approved": true,
+    "timestamp": "2026-06-25T09:19:39.015Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-25T09:26:09.567Z"
   }
 }
