@@ -846,5 +846,16 @@
     "registeredByRole": "reseller",
     "approved": false,
     "timestamp": "2026-06-25T03:43:26.660Z"
+  },
+  "7731317144": {
+    "telegramId": 7731317144,
+    "username": "@IkyyRowr",
+    "fotoFileId": "AgACAgUAAxkBAAILtmo85ughIVCPOwXDhYJW9VfBJO73AAIZEGsbZfToVeuq35Vc-Cg7AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-25T08:29:28.515Z"
   }
 }
