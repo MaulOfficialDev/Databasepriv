@@ -883,7 +883,9 @@
     "registeredBy": 7916741226,
     "registeredByName": "Arkan Freyan Ibrahim",
     "registeredByRole": "fullupdate",
-    "approved": false,
-    "timestamp": "2026-06-25T14:36:05.844Z"
+    "approved": true,
+    "timestamp": "2026-06-25T14:36:05.844Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-06-25T17:27:46.266Z"
   }
 }
