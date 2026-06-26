@@ -1045,20 +1045,6 @@
       "rat_token": "074c53376a24347ac3e901c0"
     },
     {
-      "username": "Mike Rebelion",
-      "password": "kaje",
-      "role": "fullupdate",
-      "fotoFileId": null,
-      "duration": 1,
-      "telegramId": 1348415353,
-      "selfOwner": null,
-      "createdBy": 1348415353,
-      "approvedBy": 1348415353,
-      "approvedAt": "2026-06-26T07:33:51.008Z",
-      "expiresAt": "2026-06-27T07:33:51.008Z",
-      "rat_token": "9d80242464fe9219000a113f"
-    },
-    {
       "username": "MikeRebelion",
       "password": "kaje",
       "role": "fullupdate",
