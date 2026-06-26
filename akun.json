@@ -28,8 +28,7 @@
       "approvedAt": "2026-06-21T04:36:24.208Z",
       "expiresAt": null,
       "rat_token": "11345323ed5d674ce60cb45a",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782459818614
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "kaje OFFICIAL",
@@ -938,7 +937,7 @@
       "expiresAt": null,
       "rat_token": "4c381b5655ad0734fcdd510f",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782459254814
+      "lastSend": 1782450215754
     },
     {
       "username": "@thekingsr",
@@ -1029,8 +1028,7 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T06:51:05.545Z",
       "expiresAt": null,
-      "rat_token": "3072e2d49d73e4c0aeda7f7e",
-      "expiredDate": "9999-12-31"
+      "rat_token": "3072e2d49d73e4c0aeda7f7e"
     },
     {
       "username": "cangzkece",
@@ -1044,9 +1042,35 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T07:16:59.152Z",
       "expiresAt": "2026-07-26T07:16:59.152Z",
-      "rat_token": "074c53376a24347ac3e901c0",
-      "expiredDate": "2026-07-26",
-      "lastSend": 1782460706533
+      "rat_token": "074c53376a24347ac3e901c0"
+    },
+    {
+      "username": "Mike Rebelion",
+      "password": "kaje",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 1,
+      "telegramId": 1348415353,
+      "selfOwner": null,
+      "createdBy": 1348415353,
+      "approvedBy": 1348415353,
+      "approvedAt": "2026-06-26T07:33:51.008Z",
+      "expiresAt": "2026-06-27T07:33:51.008Z",
+      "rat_token": "9d80242464fe9219000a113f"
+    },
+    {
+      "username": "MikeRebelion",
+      "password": "kaje",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 1,
+      "telegramId": 1348415353,
+      "selfOwner": null,
+      "createdBy": 1348415353,
+      "approvedBy": 1348415353,
+      "approvedAt": "2026-06-26T07:58:49.830Z",
+      "expiresAt": "2026-06-27T07:58:49.829Z",
+      "rat_token": "cae4be1e07e48b64f4b93954"
     }
   ]
 }
