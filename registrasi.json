@@ -935,5 +935,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-26T08:39:42.373Z"
+  },
+  "8444530450": {
+    "telegramId": 8444530450,
+    "username": "@reyyz777",
+    "fotoFileId": "AgACAgUAAxkBAAIM8Wo-Px8ZwrhplYq5Rl9ztt2kHLfSAAK2EWsb9-jwVVUHyuVtP553AQADAgADdwADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-26T08:58:08.366Z"
   }
 }
