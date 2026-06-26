@@ -562,7 +562,8 @@
       "approvedAt": "2026-06-22T12:21:36.491Z",
       "expiresAt": null,
       "rat_token": "53b7ad01bab3777d438e4103",
-      "expiredDate": "9999-12-31"
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782483245356
     },
     {
       "username": "@nandanew",
