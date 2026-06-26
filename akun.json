@@ -194,8 +194,7 @@
       "approvedAt": "2026-06-21T12:39:23.816Z",
       "expiresAt": null,
       "rat_token": "fd9f9beea4b39f180e3a0b6c",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782463635571
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "Ethan",
@@ -1029,8 +1028,7 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T06:51:05.545Z",
       "expiresAt": null,
-      "rat_token": "3072e2d49d73e4c0aeda7f7e",
-      "expiredDate": "9999-12-31"
+      "rat_token": "3072e2d49d73e4c0aeda7f7e"
     },
     {
       "username": "cangzkece",
@@ -1044,8 +1042,7 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T07:16:59.152Z",
       "expiresAt": "2026-07-26T07:16:59.152Z",
-      "rat_token": "074c53376a24347ac3e901c0",
-      "expiredDate": "2026-07-26"
+      "rat_token": "074c53376a24347ac3e901c0"
     },
     {
       "username": "MikeRebelion",
@@ -1059,9 +1056,7 @@
       "approvedBy": 1348415353,
       "approvedAt": "2026-06-26T07:58:49.830Z",
       "expiresAt": "2026-06-27T07:58:49.829Z",
-      "rat_token": "cae4be1e07e48b64f4b93954",
-      "expiredDate": "2026-06-27",
-      "lastSend": 1782464148327
+      "rat_token": "cae4be1e07e48b64f4b93954"
     },
     {
       "username": "blegorblegor",
@@ -1075,9 +1070,21 @@
       "approvedBy": 7448167894,
       "approvedAt": "2026-06-26T08:10:50.839Z",
       "expiresAt": null,
-      "rat_token": "d8ba2eaf8610d5749fd17373",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782463915927
+      "rat_token": "d8ba2eaf8610d5749fd17373"
+    },
+    {
+      "username": "reyyz",
+      "password": "111",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 8444530450,
+      "selfOwner": 8444530450,
+      "createdBy": 8444530450,
+      "approvedBy": 8444530450,
+      "approvedAt": "2026-06-26T08:59:07.009Z",
+      "expiresAt": null,
+      "rat_token": "415ca28773a0afcdd90a1b02"
     }
   ]
 }
