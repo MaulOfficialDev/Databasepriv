@@ -925,17 +925,6 @@
     "approved": false,
     "timestamp": "2026-06-26T08:18:59.683Z"
   },
-  "7547859175": {
-    "telegramId": 7547859175,
-    "username": "@XwanzXit",
-    "fotoFileId": "AgACAgUAAxkBAAIM5mo-Os3k0XnbJ9xjK9OC8fwd8H-QAAL7D2sbch_wVZiKqkiCkYMDAQADAgADeQADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-26T08:39:42.373Z"
-  },
   "8444530450": {
     "telegramId": 8444530450,
     "username": "@reyyz777",
@@ -944,7 +933,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-26T08:58:08.366Z"
+    "approved": true,
+    "timestamp": "2026-06-26T08:58:08.366Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-26T08:58:20.090Z"
   }
 }
