@@ -1014,7 +1014,7 @@
       "expiresAt": null,
       "rat_token": "6a44150a5b7c1e069fd82b2b",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782457118164
+      "lastSend": 1782451844942
     },
     {
       "username": "ARSIL",
@@ -1028,9 +1028,21 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T06:51:05.545Z",
       "expiresAt": null,
-      "rat_token": "3072e2d49d73e4c0aeda7f7e",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782456772295
+      "rat_token": "3072e2d49d73e4c0aeda7f7e"
+    },
+    {
+      "username": "cangzkece",
+      "password": "nabati",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 30,
+      "telegramId": 7622065417,
+      "selfOwner": null,
+      "createdBy": 7622065417,
+      "approvedBy": 7622065417,
+      "approvedAt": "2026-06-26T07:16:59.152Z",
+      "expiresAt": "2026-07-26T07:16:59.152Z",
+      "rat_token": "074c53376a24347ac3e901c0"
     }
   ]
 }
