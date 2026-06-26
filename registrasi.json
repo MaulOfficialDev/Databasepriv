@@ -574,8 +574,10 @@
     "registeredBy": 6856509437,
     "registeredByName": "LINS OFFICIAL",
     "registeredByRole": "reseller",
-    "approved": false,
-    "timestamp": "2026-06-26T09:18:32.448Z"
+    "approved": true,
+    "timestamp": "2026-06-26T09:18:32.448Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-26T09:24:06.178Z"
   },
   "7209908062": {
     "telegramId": 7209908062,
