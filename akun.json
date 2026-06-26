@@ -1099,6 +1099,20 @@
       "approvedAt": "2026-06-26T11:31:11.737Z",
       "expiresAt": null,
       "rat_token": "e7c8a0ecb3687573d4e4979c"
+    },
+    {
+      "username": "Dh4nzy",
+      "password": "dhanz99",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 2002404618,
+      "selfOwner": 2002404618,
+      "createdBy": 2002404618,
+      "approvedBy": 2002404618,
+      "approvedAt": "2026-06-26T11:41:08.462Z",
+      "expiresAt": null,
+      "rat_token": "5d54bee0d3867e5f7993fef8"
     }
   ]
 }
