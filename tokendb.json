@@ -63,6 +63,15 @@
       "ownerId": 7475858516,
       "ownerRole": "reseller",
       "addedAt": "2026-06-26T16:09:05.892Z"
+    },
+    {
+      "token": "8774917071:AAF-M98FqzhRXoAmlShVLL74opZ20LOZ22o",
+      "botId": 8774917071,
+      "botUsername": "juatinbug_bot",
+      "botName": "justinbug",
+      "ownerId": 6405841968,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-26T16:11:57.985Z"
     }
   ]
 }
