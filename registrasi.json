@@ -569,15 +569,13 @@
   "6856509437": {
     "telegramId": 6856509437,
     "username": "@Linsoffic",
-    "fotoFileId": "AgACAgUAAxkBAAIH_Wo54BehnFLQh7QQpV2MzEE1m4kpAAILEmsbU5rJVYCSbIp27goJAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-23T01:23:35.225Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-23T01:23:54.347Z"
+    "fotoFileId": "AgACAgUAAxkBAAINBGo-Q-iMl2L7c3ClxwABI_ruDP4kwwAC_w9rG5gm8FWMX1c28g1-PAEAAwIAA3kAAzwE",
+    "targetRole": "fullupdate",
+    "registeredBy": 6856509437,
+    "registeredByName": "LINS OFFICIAL",
+    "registeredByRole": "reseller",
+    "approved": false,
+    "timestamp": "2026-06-26T09:18:32.448Z"
   },
   "7209908062": {
     "telegramId": 7209908062,
@@ -922,8 +920,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-26T08:18:59.683Z"
+    "approved": true,
+    "timestamp": "2026-06-26T08:18:59.683Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-26T08:58:33.505Z"
   },
   "8444530450": {
     "telegramId": 8444530450,
