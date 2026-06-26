@@ -54,6 +54,15 @@
       "ownerId": 8170050525,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-26T16:05:21.606Z"
+    },
+    {
+      "token": "8931486882:AAF836GWTs_4SN0FDXlCUm8f02ulpr1WHZg",
+      "botId": 8931486882,
+      "botUsername": "wayanid_bot",
+      "botName": "wayanid_bot",
+      "ownerId": 7475858516,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-26T16:09:05.892Z"
     }
   ]
 }
