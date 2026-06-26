@@ -887,5 +887,16 @@
     "timestamp": "2026-06-25T14:36:05.844Z",
     "approvedBy": 7907433870,
     "approvedAt": "2026-06-25T17:27:46.266Z"
+  },
+  "7977308446": {
+    "telegramId": 7977308446,
+    "username": "@komishouko0987",
+    "fotoFileId": "AgACAgUAAxkBAAIMXmo-D_HItsyow9O3zYDC06pbtcVnAALED2sbEKrxVdTHN1dkV86yAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-26T05:39:34.584Z"
   }
 }
