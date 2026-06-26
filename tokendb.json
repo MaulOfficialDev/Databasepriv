@@ -1,5 +1,14 @@
 {
   "tokens": [
-    "8552162614:AAH8mrEyz79uWB3hJ067aZ9T6_gvvkTD87M"
+    "8552162614:AAH8mrEyz79uWB3hJ067aZ9T6_gvvkTD87M",
+    {
+      "token": "8984419411:AAGJs5y8KkYug6cNTDD729S3rYSYDNe2tvI",
+      "botId": 8984419411,
+      "botUsername": "XSPAYCONTROLLER_bot",
+      "botName": "XSPAYCONTROLLER",
+      "ownerId": 1348415353,
+      "ownerRole": "developer",
+      "addedAt": "2026-06-26T05:38:10.179Z"
+    }
   ]
 }
