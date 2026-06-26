@@ -126,6 +126,15 @@
       "ownerId": 8425799900,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-26T17:26:46.824Z"
+    },
+    {
+      "token": "7789225776:AAGhkyHIpZTty7QANzWw3bvzvvZCNxuPkGU",
+      "botId": 7789225776,
+      "botUsername": "VINZVOTZ_bot",
+      "botName": "VINZBOTZ",
+      "ownerId": 7866644787,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-26T21:06:50.483Z"
     }
   ]
 }
