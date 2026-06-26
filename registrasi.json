@@ -57,8 +57,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-26T11:18:14.728Z"
+    "approved": true,
+    "timestamp": "2026-06-26T11:18:14.728Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-26T11:32:58.840Z"
   },
   "6923426449": {
     "telegramId": 6923426449,
@@ -937,5 +939,16 @@
     "timestamp": "2026-06-26T08:58:08.366Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-26T08:58:20.090Z"
+  },
+  "6405841968": {
+    "telegramId": 6405841968,
+    "username": "@RyzenSukaTuru",
+    "fotoFileId": "AgACAgUAAxkBAAINbmo-o5GmXyzg8B__xZxhwbq7v0kXAAIuDmsbpvP4VTluYKBacLniAQADAgADdwADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-26T16:06:41.389Z"
   }
 }
