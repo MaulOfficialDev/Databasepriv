@@ -909,7 +909,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-26T08:03:48.862Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-26T08:03:50.692Z"
+  },
+  "7225374943": {
+    "telegramId": 7225374943,
+    "username": "@hbz111412",
+    "fotoFileId": "AgACAgUAAxkBAAIM1Wo-NfPtpvNi7YbjZfNEdrr6246nAAIdEWsblHPxVR_WI8pu0gbdAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-26T08:03:48.862Z"
+    "timestamp": "2026-06-26T08:18:59.683Z"
   }
 }
