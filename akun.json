@@ -44,7 +44,7 @@
       "expiresAt": null,
       "rat_token": "a21ceca5d0b398630746aeae",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782456089310
+      "lastSend": 1782448643947
     },
     {
       "username": "vemz3t",
@@ -210,7 +210,7 @@
       "expiresAt": null,
       "rat_token": "2303710560a0cd462f66c540",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782453229866
+      "lastSend": 1782444364539
     },
     {
       "username": "dapp",
@@ -754,7 +754,7 @@
       "expiresAt": null,
       "rat_token": "7a6a80a2d112d76348a5fb3b",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782454875026
+      "lastSend": 1782441988200
     },
     {
       "username": "Valen",
@@ -937,7 +937,7 @@
       "expiresAt": null,
       "rat_token": "4c381b5655ad0734fcdd510f",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782455671031
+      "lastSend": 1782450215754
     },
     {
       "username": "@thekingsr",
@@ -998,7 +998,7 @@
       "expiresAt": null,
       "rat_token": "a785d3ee8cad2645c6cabecf",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782454370918
+      "lastSend": 1782451071873
     },
     {
       "username": "ikycihuy",
@@ -1015,6 +1015,20 @@
       "rat_token": "6a44150a5b7c1e069fd82b2b",
       "expiredDate": "9999-12-31",
       "lastSend": 1782451844942
+    },
+    {
+      "username": "ARSIL",
+      "password": "ARSILNIH",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7622065417,
+      "selfOwner": 7622065417,
+      "createdBy": 7622065417,
+      "approvedBy": 7622065417,
+      "approvedAt": "2026-06-26T06:51:05.545Z",
+      "expiresAt": null,
+      "rat_token": "3072e2d49d73e4c0aeda7f7e"
     }
   ]
 }
