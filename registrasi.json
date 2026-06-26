@@ -918,14 +918,12 @@
     "telegramId": 7225374943,
     "username": "@hbz111412",
     "fotoFileId": "AgACAgUAAxkBAAIM1Wo-NfPtpvNi7YbjZfNEdrr6246nAAIdEWsblHPxVR_WI8pu0gbdAQADAgADeQADPAQ",
-    "targetRole": "patner",
+    "targetRole": "admin",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-26T08:18:59.683Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-26T08:58:33.505Z"
+    "approved": false,
+    "timestamp": "2026-06-26T10:12:04.914Z"
   },
   "8444530450": {
     "telegramId": 8444530450,
