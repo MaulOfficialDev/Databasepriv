@@ -937,7 +937,7 @@
       "expiresAt": null,
       "rat_token": "4c381b5655ad0734fcdd510f",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782450215754
+      "lastSend": 1782458820754
     },
     {
       "username": "@thekingsr",
@@ -1028,7 +1028,8 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T06:51:05.545Z",
       "expiresAt": null,
-      "rat_token": "3072e2d49d73e4c0aeda7f7e"
+      "rat_token": "3072e2d49d73e4c0aeda7f7e",
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "cangzkece",
@@ -1042,7 +1043,8 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T07:16:59.152Z",
       "expiresAt": "2026-07-26T07:16:59.152Z",
-      "rat_token": "074c53376a24347ac3e901c0"
+      "rat_token": "074c53376a24347ac3e901c0",
+      "expiredDate": "2026-07-26"
     }
   ]
 }
