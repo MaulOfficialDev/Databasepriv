@@ -31,8 +31,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-27T08:15:15.901Z"
+    "approved": true,
+    "timestamp": "2026-06-27T08:15:15.901Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-27T16:48:57.710Z"
   },
   "1462961563": {
     "telegramId": 1462961563,
@@ -1023,15 +1025,13 @@
   "5001676583": {
     "telegramId": 5001676583,
     "username": "@Azt112233",
-    "fotoFileId": "AgACAgUAAxkBAAIPhmo_jwwrh6Khq2fZh-yV1VSJ00Q2AAJJEWsbUt35VbijlZ29ymLzAQADAgADeQADPAQ",
-    "targetRole": "fullupdate",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": true,
-    "timestamp": "2026-06-27T08:51:24.867Z",
-    "approvedBy": 1348415353,
-    "approvedAt": "2026-06-27T08:52:03.511Z"
+    "fotoFileId": "AgACAgUAAxkBAAIQJGpAXOf4Gp793Xo8KVszKZ3lkYVbAAKfDmsb6soBVlVCSm-hDEXQAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": 8719472321,
+    "registeredByName": "Jack Cytrus",
+    "registeredByRole": "admin",
+    "approved": false,
+    "timestamp": "2026-06-27T23:29:43.483Z"
   },
   "8282363443": {
     "telegramId": 8282363443,
@@ -1052,7 +1052,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-27T13:26:24.672Z"
+    "approved": true,
+    "timestamp": "2026-06-27T13:26:24.672Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-27T13:28:12.345Z"
   }
 }
