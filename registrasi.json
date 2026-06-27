@@ -987,5 +987,16 @@
     "registeredByRole": "reseller",
     "approved": false,
     "timestamp": "2026-06-27T03:53:29.437Z"
+  },
+  "8966818843": {
+    "telegramId": 8966818843,
+    "username": "@JanssNew",
+    "fotoFileId": "AgACAgUAAxkBAAIPBWo_X0mcIESsXrnkZSwp1bvGl-uOAAIdD2sbaKf4VUyStlnyzT8HAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-27T05:27:37.372Z"
   }
 }
