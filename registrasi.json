@@ -23,6 +23,17 @@
     "approvedBy": 1266058971,
     "approvedAt": "2026-06-27T02:22:44.615Z"
   },
+  "1340374637": {
+    "telegramId": 1340374637,
+    "username": "@ryykazee1",
+    "fotoFileId": "AgACAgUAAxkBAAIPbmo_hpNanHfFw-KEU7GTOMnV2phhAAJ0EGsbsM74Va3p2eHGtiUeAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-27T08:15:15.901Z"
+  },
   "1462961563": {
     "telegramId": 1462961563,
     "username": "@bpklohmatik",
@@ -57,8 +68,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-27T07:52:56.630Z"
+    "approved": true,
+    "timestamp": "2026-06-27T07:52:56.630Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-27T07:53:04.972Z"
   },
   "1921699808": {
     "telegramId": 1921699808,
