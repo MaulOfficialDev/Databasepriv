@@ -955,13 +955,13 @@
   },
   "7849923525": {
     "telegramId": 7849923525,
-    "username": "@𝘽𝙄𝙀𝙇 𝙆𝘼𝘾𝙄𝙒𝙒 👋🏻",
-    "fotoFileId": "AgACAgUAAxkBAAIN_Go-vEeqRykgr_4YXxd6uRK3L2MFAAI4FGsbIqH4VRUot0rAZNeiAQADAgADeQADPAQ",
-    "targetRole": "reseller",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
+    "username": "BIEL",
+    "fotoFileId": "AgACAgUAAyEFAATuYbJdAAImtmo-vGSER893LtWr1UYO2Tp1Fk6WAAIkEGsbw1z5VXMV1Lob9vlWAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 7849923525,
+    "registeredByName": "𝘽𝙄𝙀𝙇 𝙆𝘼𝘾𝙄𝙒𝙒 👋🏻",
+    "registeredByRole": "reseller",
     "approved": false,
-    "timestamp": "2026-06-26T17:52:07.568Z"
+    "timestamp": "2026-06-27T01:59:09.251Z"
   }
 }
