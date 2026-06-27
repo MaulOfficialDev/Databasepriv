@@ -976,5 +976,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-27T03:38:57.684Z"
+  },
+  "8742472745": {
+    "telegramId": 8742472745,
+    "username": "@officialbielbot",
+    "fotoFileId": "AgACAgUAAxkBAAIO7Go_STkcUDDyg9VIeXkizFd4g6RwAAKJEWsbIqEAAVbv7gGiqG_AJwEAAwIAA3kAAzwE",
+    "targetRole": "fullupdate",
+    "registeredBy": 7849923525,
+    "registeredByName": "𝘽𝙄𝙀𝙇 𝙆𝘼𝘾𝙄𝙒𝙒👋🏻",
+    "registeredByRole": "reseller",
+    "approved": false,
+    "timestamp": "2026-06-27T03:53:29.437Z"
   }
 }
