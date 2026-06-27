@@ -252,6 +252,15 @@
       "ownerId": 8051906389,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-27T09:41:24.794Z"
+    },
+    {
+      "token": "8100098681:AAHJlXsImHwcu8gqwihvXWIlgz0bJhh141w",
+      "botId": 8100098681,
+      "botUsername": "yeheznokos_bot",
+      "botName": "YEHEZ_bot",
+      "ownerId": 8435390202,
+      "ownerRole": "admin",
+      "addedAt": "2026-06-27T13:45:44.153Z"
     }
   ]
 }
