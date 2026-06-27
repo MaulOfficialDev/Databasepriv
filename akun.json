@@ -1196,6 +1196,20 @@
       "approvedAt": "2026-06-27T12:12:42.510Z",
       "expiresAt": null,
       "rat_token": "16d6d41d6dabf1fb54c73043"
+    },
+    {
+      "username": "edgar",
+      "password": "lw0",
+      "role": "admin",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 5858585407,
+      "selfOwner": 5858585407,
+      "createdBy": 5858585407,
+      "approvedBy": 5858585407,
+      "approvedAt": "2026-06-27T12:14:25.020Z",
+      "expiresAt": null,
+      "rat_token": "4e9f2af5b9b4dd90496408d8"
     }
   ]
 }
