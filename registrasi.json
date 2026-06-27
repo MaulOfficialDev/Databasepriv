@@ -965,16 +965,5 @@
     "timestamp": "2026-06-26T16:06:41.389Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-26T16:09:21.398Z"
-  },
-  "6913572523": {
-    "telegramId": 6913572523,
-    "username": "@ryuuunvd",
-    "fotoFileId": "AgACAgUAAxkBAAIOoGo_QuwNEsTmjiuJaG5zvWq6HyYLAAJjEGsbgQvAVQzTD9vnHBsSAQADAgADeQADPAQ",
-    "targetRole": "admin",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-27T03:26:36.630Z"
   }
 }
