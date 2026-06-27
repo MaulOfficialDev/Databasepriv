@@ -171,6 +171,15 @@
       "ownerId": 7511024958,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-27T03:39:42.173Z"
+    },
+    {
+      "token": "8742472745:AAE4v0lD2h2nMN7qD8l0-sDhmhg4grJ3w1s",
+      "botId": 8742472745,
+      "botUsername": "officialbielbot",
+      "botName": "Biel",
+      "ownerId": 7849923525,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-27T03:50:39.213Z"
     }
   ]
 }
