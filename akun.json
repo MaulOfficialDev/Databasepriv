@@ -286,7 +286,7 @@
       "expiresAt": null,
       "rat_token": "78e69e85670df8f668849cb5",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782448792688
+      "lastSend": 1782544016535
     },
     {
       "username": "RIZKY",
@@ -1165,7 +1165,7 @@
       "expiresAt": null,
       "rat_token": "2a5651602d7ea860c038f02a",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782543890124
+      "lastSend": 1782543234630
     }
   ]
 }
