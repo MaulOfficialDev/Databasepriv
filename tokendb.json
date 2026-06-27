@@ -189,6 +189,15 @@
       "ownerId": 1921699808,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-27T05:11:26.963Z"
+    },
+    {
+      "token": "8784157885:AAH6LeOli6I_AruPQoBPx9wGFHOLsgEWSYc",
+      "botId": 8784157885,
+      "botUsername": "JanssNew_bot",
+      "botName": "JansBotNew_Bot",
+      "ownerId": 8966818843,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-27T05:55:36.539Z"
     }
   ]
 }
