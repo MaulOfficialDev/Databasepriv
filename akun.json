@@ -28,7 +28,8 @@
       "approvedAt": "2026-06-21T04:36:24.208Z",
       "expiresAt": null,
       "rat_token": "11345323ed5d674ce60cb45a",
-      "expiredDate": "9999-12-31"
+      "expiredDate": "9999-12-31",
+      "lastSend": 1782544387628
     },
     {
       "username": "kaje OFFICIAL",
