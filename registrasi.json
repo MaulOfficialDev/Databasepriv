@@ -1043,5 +1043,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-27T13:22:44.343Z"
+  },
+  "8435390202": {
+    "telegramId": 8435390202,
+    "username": "@zhallofc",
+    "fotoFileId": "AgACAgUAAxkBAAIP32o_z4B7-T4LEhMYo4JzDEAf8QNVAAJZDWsbJukBVj6dnjW8dpihAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-27T13:26:24.672Z"
   }
 }
