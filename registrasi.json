@@ -653,17 +653,6 @@
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-23T02:20:57.902Z"
   },
-  "6037887037": {
-    "telegramId": 6037887037,
-    "username": "VoldiGolz",
-    "fotoFileId": "AgACAgUAAxkBAAIKHmo6lQABrIh-UdQpR2OmG1puC1fqcgAClRJrGxp90VUJrxy8XUIypwEAAwIAA3kAAzwE",
-    "targetRole": "fullupdate",
-    "registeredBy": 6037887037,
-    "registeredByName": "𝐃𝐢𝐦𝐳 卐 𝐏𝐍𝐏 卐",
-    "registeredByRole": "reseller",
-    "approved": false,
-    "timestamp": "2026-06-23T14:15:28.468Z"
-  },
   "6320222759": {
     "telegramId": 6320222759,
     "username": "@Edzx",
@@ -1046,7 +1035,9 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-27T08:51:24.867Z"
+    "approved": true,
+    "timestamp": "2026-06-27T08:51:24.867Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-27T08:52:03.511Z"
   }
 }
