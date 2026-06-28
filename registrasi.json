@@ -1132,7 +1132,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-28T14:36:16.474Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-28T14:36:27.773Z"
+  },
+  "7696137203": {
+    "telegramId": 7696137203,
+    "username": "@Lase9006",
+    "fotoFileId": "AgACAgUAAxkBAAIQ8GpBORN_9E_42vVevAbV6blcP9WUAAKRD2sbXpQJVgzIIroBYdnyAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-28T14:36:16.474Z"
+    "timestamp": "2026-06-28T15:09:07.781Z"
   }
 }
