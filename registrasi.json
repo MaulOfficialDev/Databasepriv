@@ -10,6 +10,17 @@
     "approved": false,
     "timestamp": "2026-06-24T16:23:31.361Z"
   },
+  "2222": {
+    "telegramId": 2222,
+    "username": "bian",
+    "fotoFileId": "AgACAgUAAxkBAAIQd2pA4pgYeVcmpmhR2tJFYqvJ7jDrAAL8D2sbB0gIVrZOLRWrWXaLAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": 8401709312,
+    "registeredByName": "bian",
+    "registeredByRole": "patner",
+    "approved": false,
+    "timestamp": "2026-06-28T18:21:56.305Z"
+  },
   "1266058971": {
     "telegramId": 1266058971,
     "username": "BIEL",
