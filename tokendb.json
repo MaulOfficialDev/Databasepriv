@@ -324,6 +324,15 @@
       "ownerId": 1266058971,
       "ownerRole": "developer",
       "addedAt": "2026-06-28T02:50:15.839Z"
+    },
+    {
+      "token": "8968866013:AAGKv1BzHYZA1lSFrdBWimnCS4jbMd-ZTNs",
+      "botId": 8968866013,
+      "botUsername": "Kanzzstrombot",
+      "botName": "Kanzzstrom",
+      "ownerId": 7916741226,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-28T04:00:27.950Z"
     }
   ]
 }
