@@ -315,6 +315,15 @@
       "ownerId": 8719472321,
       "ownerRole": "admin",
       "addedAt": "2026-06-28T01:49:07.126Z"
+    },
+    {
+      "token": "8396804745:AAGS3wmwGYLGyqD2OmVgMJXzpUOO9ac4qtY",
+      "botId": 8396804745,
+      "botUsername": "Fanxz_bot",
+      "botName": "FANZZY_BOT",
+      "ownerId": 1266058971,
+      "ownerRole": "developer",
+      "addedAt": "2026-06-28T02:50:15.839Z"
     }
   ]
 }
