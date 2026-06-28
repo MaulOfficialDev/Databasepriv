@@ -31,8 +31,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-28T10:11:13.718Z"
+    "approved": true,
+    "timestamp": "2026-06-28T10:11:13.718Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-28T10:11:53.058Z"
   },
   "1340374637": {
     "telegramId": 1340374637,
@@ -1091,8 +1093,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-06-28T09:00:08.549Z"
+    "approved": true,
+    "timestamp": "2026-06-28T09:00:08.549Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-28T12:40:15.737Z"
   },
   "6800144337": {
     "telegramId": 6800144337,
@@ -1106,5 +1110,16 @@
     "timestamp": "2026-06-28T09:16:01.539Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-28T09:18:46.352Z"
+  },
+  "8225653555": {
+    "telegramId": 8225653555,
+    "username": "@RizzOfficial85",
+    "fotoFileId": "AgACAgUAAxkBAAIQv2pBHhyJX9AVpHl5w5eVNzyAH1XPAAIuEmsbsBMJVr4mfq0cJojeAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-28T13:14:05.117Z"
   }
 }
