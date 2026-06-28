@@ -342,6 +342,15 @@
       "ownerId": 6800144337,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-28T09:47:38.007Z"
+    },
+    {
+      "token": "8727251167:AAFbjI15wfWiqxvLVg27dwT_LfXO3IRh7H0",
+      "botId": 8727251167,
+      "botUsername": "Juztin_bot",
+      "botName": "Juztin_bot",
+      "ownerId": 8556614907,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-28T14:39:28.900Z"
     }
   ]
 }
