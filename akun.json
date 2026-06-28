@@ -17,7 +17,7 @@
     },
     {
       "username": "@vortexmono",
-      "password": "2015",
+      "password": "1926",
       "role": "fullupdate",
       "fotoFileId": null,
       "duration": 999,
@@ -28,8 +28,7 @@
       "approvedAt": "2026-06-21T04:36:24.208Z",
       "expiresAt": null,
       "rat_token": "11345323ed5d674ce60cb45a",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782636124873
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "kaje OFFICIAL",
@@ -241,8 +240,7 @@
       "approvedAt": "2026-06-21T13:28:16.208Z",
       "expiresAt": null,
       "rat_token": "de7fe055b887a2a234920cb8",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782588663023
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "@pinalpin14",
@@ -288,7 +286,7 @@
       "expiresAt": null,
       "rat_token": "78e69e85670df8f668849cb5",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782615928534
+      "lastSend": 1782448792688
     },
     {
       "username": "RIZKY",
@@ -349,8 +347,7 @@
       "approvedAt": "2026-06-22T03:58:29.757Z",
       "expiresAt": null,
       "rat_token": "f0972f14fcb167a6269afa78",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782617670370
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "nizam",
@@ -410,8 +407,7 @@
       "approvedAt": "2026-06-22T05:21:54.032Z",
       "expiresAt": null,
       "rat_token": "9827532bf351412d38a3adee",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782630933167
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "Justin",
@@ -457,8 +453,7 @@
       "approvedAt": "2026-06-22T07:39:10.854Z",
       "expiresAt": null,
       "rat_token": "2fb3c6ffd06a0a211418840b",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782637822078
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "MannXD",
@@ -488,8 +483,7 @@
       "approvedAt": "2026-06-22T08:07:47.493Z",
       "expiresAt": null,
       "rat_token": "b920f93372c6192c41b59956",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782621895026
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "@sukamakan",
@@ -609,8 +603,7 @@
       "approvedAt": "2026-06-23T01:33:37.173Z",
       "expiresAt": null,
       "rat_token": "1775964b821370a1e8304b75",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782613668861
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "JACK",
@@ -625,8 +618,7 @@
       "approvedAt": "2026-06-23T02:00:32.919Z",
       "expiresAt": null,
       "rat_token": "1ab2a7464a4cc3eaf6f349d6",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782612587461
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "zerotwo",
@@ -852,8 +844,7 @@
       "approvedAt": "2026-06-24T05:34:38.681Z",
       "expiresAt": null,
       "rat_token": "672effc21bcf44e666f69e73",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782591428503
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "elvira",
@@ -915,7 +906,7 @@
       "expiresAt": null,
       "rat_token": "04b9bf176a87f97965d62715",
       "expiredDate": "9999-12-31",
-      "lastSend": 1782625301169
+      "lastSend": 1782431614799
     },
     {
       "username": "@zyandd",
@@ -930,8 +921,7 @@
       "approvedAt": "2026-06-24T16:16:34.022Z",
       "expiresAt": null,
       "rat_token": "b021aaf007ce02a3cd2157d7",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782637228500
+      "expiredDate": "9999-12-31"
     },
     {
       "username": "@Xidzzi",
@@ -1023,8 +1013,7 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T06:51:05.545Z",
       "expiresAt": null,
-      "rat_token": "3072e2d49d73e4c0aeda7f7e",
-      "expiredDate": "9999-12-31"
+      "rat_token": "3072e2d49d73e4c0aeda7f7e"
     },
     {
       "username": "cangzkece",
@@ -1038,8 +1027,7 @@
       "approvedBy": 7622065417,
       "approvedAt": "2026-06-26T07:16:59.152Z",
       "expiresAt": "2026-07-26T07:16:59.152Z",
-      "rat_token": "074c53376a24347ac3e901c0",
-      "expiredDate": "2026-07-26"
+      "rat_token": "074c53376a24347ac3e901c0"
     },
     {
       "username": "blegorblegor",
@@ -1053,9 +1041,7 @@
       "approvedBy": 7448167894,
       "approvedAt": "2026-06-26T08:10:50.839Z",
       "expiresAt": null,
-      "rat_token": "d8ba2eaf8610d5749fd17373",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782628808865
+      "rat_token": "d8ba2eaf8610d5749fd17373"
     },
     {
       "username": "reyyz",
@@ -1069,8 +1055,7 @@
       "approvedBy": 8444530450,
       "approvedAt": "2026-06-26T08:59:07.009Z",
       "expiresAt": null,
-      "rat_token": "415ca28773a0afcdd90a1b02",
-      "expiredDate": "9999-12-31"
+      "rat_token": "415ca28773a0afcdd90a1b02"
     },
     {
       "username": "Purinple",
@@ -1084,8 +1069,7 @@
       "approvedBy": 7977308446,
       "approvedAt": "2026-06-26T11:31:11.737Z",
       "expiresAt": null,
-      "rat_token": "e7c8a0ecb3687573d4e4979c",
-      "expiredDate": "9999-12-31"
+      "rat_token": "e7c8a0ecb3687573d4e4979c"
     },
     {
       "username": "Dh4nzy",
@@ -1099,8 +1083,7 @@
       "approvedBy": 2002404618,
       "approvedAt": "2026-06-26T11:41:08.462Z",
       "expiresAt": null,
-      "rat_token": "5d54bee0d3867e5f7993fef8",
-      "expiredDate": "9999-12-31"
+      "rat_token": "5d54bee0d3867e5f7993fef8"
     },
     {
       "username": "7906196417:AAFoQ9wNxVGNCS31lFb5ER2HV4opyYCFd18",
@@ -1114,8 +1097,7 @@
       "approvedBy": 5327228770,
       "approvedAt": "2026-06-26T17:18:30.417Z",
       "expiresAt": "2026-07-26T17:18:30.416Z",
-      "rat_token": "3a6887dca6b53ca1a122970e",
-      "expiredDate": "2026-07-26"
+      "rat_token": "3a6887dca6b53ca1a122970e"
     },
     {
       "username": "BIEL, ANJAY",
@@ -1129,8 +1111,7 @@
       "approvedBy": 7849923525,
       "approvedAt": "2026-06-27T04:08:53.683Z",
       "expiresAt": null,
-      "rat_token": "2578db32df3f1dc5ca563c1e",
-      "expiredDate": "9999-12-31"
+      "rat_token": "2578db32df3f1dc5ca563c1e"
     },
     {
       "username": "Start",
@@ -1144,9 +1125,7 @@
       "approvedBy": 8966818843,
       "approvedAt": "2026-06-27T05:56:43.003Z",
       "expiresAt": null,
-      "rat_token": "501fe0d646e48ee673a04bd4",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782637673139
+      "rat_token": "501fe0d646e48ee673a04bd4"
     },
     {
       "username": "@yongz",
@@ -1160,8 +1139,7 @@
       "approvedBy": 6475164494,
       "approvedAt": "2026-06-27T06:51:03.190Z",
       "expiresAt": null,
-      "rat_token": "2a5651602d7ea860c038f02a",
-      "expiredDate": "9999-12-31"
+      "rat_token": "2a5651602d7ea860c038f02a"
     },
     {
       "username": "NXZ",
@@ -1175,8 +1153,7 @@
       "approvedBy": 1720962662,
       "approvedAt": "2026-06-27T07:53:34.031Z",
       "expiresAt": null,
-      "rat_token": "f877658fe00e1f8a1eebe321",
-      "expiredDate": "9999-12-31"
+      "rat_token": "f877658fe00e1f8a1eebe321"
     },
     {
       "username": "JHONI",
@@ -1190,8 +1167,7 @@
       "approvedBy": 5001676583,
       "approvedAt": "2026-06-27T08:54:27.719Z",
       "expiresAt": null,
-      "rat_token": "d30a2159636bf84f767f4813",
-      "expiredDate": "9999-12-31"
+      "rat_token": "d30a2159636bf84f767f4813"
     },
     {
       "username": "jeck",
@@ -1205,8 +1181,7 @@
       "approvedBy": 1348415353,
       "approvedAt": "2026-06-27T09:15:32.810Z",
       "expiresAt": "2026-07-27T09:15:32.810Z",
-      "rat_token": "e763af966ed97cadc8f4abb5",
-      "expiredDate": "2026-07-27"
+      "rat_token": "e763af966ed97cadc8f4abb5"
     },
     {
       "username": "@cspremioreal",
@@ -1220,9 +1195,7 @@
       "approvedBy": 8526418944,
       "approvedAt": "2026-06-27T12:12:42.510Z",
       "expiresAt": null,
-      "rat_token": "16d6d41d6dabf1fb54c73043",
-      "expiredDate": "9999-12-31",
-      "lastSend": 1782630773978
+      "rat_token": "16d6d41d6dabf1fb54c73043"
     },
     {
       "username": "edgar",
@@ -1236,8 +1209,7 @@
       "approvedBy": 5858585407,
       "approvedAt": "2026-06-27T12:14:25.020Z",
       "expiresAt": null,
-      "rat_token": "4e9f2af5b9b4dd90496408d8",
-      "expiredDate": "9999-12-31"
+      "rat_token": "4e9f2af5b9b4dd90496408d8"
     },
     {
       "username": "memek",
@@ -1251,8 +1223,7 @@
       "approvedBy": 1348415353,
       "approvedAt": "2026-06-27T16:07:54.338Z",
       "expiresAt": "2026-06-28T16:07:54.337Z",
-      "rat_token": "207d156c064ac462e19770f0",
-      "expiredDate": "2026-06-28"
+      "rat_token": "207d156c064ac462e19770f0"
     },
     {
       "username": "@ygmungkinandakenal",
@@ -1266,8 +1237,21 @@
       "approvedBy": 8526418944,
       "approvedAt": "2026-06-27T18:31:43.278Z",
       "expiresAt": "2026-06-28T18:31:43.278Z",
-      "rat_token": "075a4a89b46a28688057ff70",
-      "expiredDate": "2026-06-28"
+      "rat_token": "075a4a89b46a28688057ff70"
+    },
+    {
+      "username": "mnyy04_",
+      "password": "fall040504",
+      "role": "fullupdate",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 6800144337,
+      "selfOwner": 6800144337,
+      "createdBy": 6800144337,
+      "approvedBy": 6800144337,
+      "approvedAt": "2026-06-28T09:28:07.177Z",
+      "expiresAt": null,
+      "rat_token": "50acf845ac17052ee79d1f36"
     }
   ]
 }
