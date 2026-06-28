@@ -1119,7 +1119,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-28T13:14:05.117Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-06-28T13:29:56.875Z"
+  },
+  "8556614907": {
+    "telegramId": 8556614907,
+    "username": "@Mr_zh4",
+    "fotoFileId": "AgACAgUAAxkBAAIQ12pBMWDiVXNlSh98eIjkmsUmhcnGAAIqEWsbmsQIVrGu3a11JCNzAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-28T13:14:05.117Z"
+    "timestamp": "2026-06-28T14:36:16.474Z"
   }
 }
