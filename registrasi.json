@@ -1147,5 +1147,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-28T15:09:07.781Z"
+  },
+  "8305723667": {
+    "telegramId": 8305723667,
+    "username": "8305723667",
+    "fotoFileId": "AgACAgUAAxkBAAIRCGpBTPSZd0hSBthhYJt_xrV9b6FSAAKCEmsbsBMJVs98qYV0qAWAAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": 8225653555,
+    "registeredByName": "Rizz Offiicial",
+    "registeredByRole": "patner",
+    "approved": false,
+    "timestamp": "2026-06-28T16:33:57.350Z"
   }
 }
