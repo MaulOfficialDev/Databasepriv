@@ -23,6 +23,17 @@
     "approvedBy": 1266058971,
     "approvedAt": "2026-06-27T02:22:44.615Z"
   },
+  "1339471047": {
+    "telegramId": 1339471047,
+    "username": "@luvbyshawn",
+    "fotoFileId": "AgACAgUAAxkBAAIQmmpA8xC0c8XTZJSHmSNAMfE9VS9eAAJPEGsbRmYJVoVAWnABQ2JcAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-28T10:11:13.718Z"
+  },
   "1340374637": {
     "telegramId": 1340374637,
     "username": "@ryykazee1",
@@ -1091,7 +1102,9 @@
     "registeredBy": 6663434560,
     "registeredByName": "私 𝗡𝗶𝘇𝗮𝗺𝗫𝗭𝗬𝗧 - 𝗜𝗗 ( mau tidur siang)",
     "registeredByRole": "patner",
-    "approved": false,
-    "timestamp": "2026-06-28T09:16:01.539Z"
+    "approved": true,
+    "timestamp": "2026-06-28T09:16:01.539Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-28T09:18:46.352Z"
   }
 }
