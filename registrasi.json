@@ -1169,5 +1169,16 @@
     "registeredByRole": "patner",
     "approved": false,
     "timestamp": "2026-06-28T16:33:57.350Z"
+  },
+  "8574058239": {
+    "telegramId": 8574058239,
+    "username": "@Luknpjir",
+    "fotoFileId": "AgACAgUAAyEFAATuYbJdAAIqNmpBeyunj1Ik66M-D_Ap4MAvY8ThAAKwEWsbnw4JVoCEzVzZk0O_AQADAgADdwADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-28T19:55:32.936Z"
   }
 }
