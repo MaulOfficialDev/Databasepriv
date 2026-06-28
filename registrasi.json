@@ -1056,5 +1056,16 @@
     "timestamp": "2026-06-27T13:26:24.672Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-27T13:28:12.345Z"
+  },
+  "8027036733": {
+    "telegramId": 8027036733,
+    "username": "@test",
+    "fotoFileId": "AgACAgUAAxkBAAIQNWpAcxMBtGQJMvhUV9e1g6Z6-xKFAAJvEmsbbgwIVtDoeRwe1RaBAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-28T01:04:19.560Z"
   }
 }
