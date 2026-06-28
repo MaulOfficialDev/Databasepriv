@@ -1082,5 +1082,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-28T09:00:08.549Z"
+  },
+  "6800144337": {
+    "telegramId": 6800144337,
+    "username": "@whoiam9991",
+    "fotoFileId": "AgACAgUAAxkBAAIQgmpA5lGzVTpFoveqEr0ZRdDphL89AAJBEWsbLWsJVp_zZeP23VbdAQADAgADdwADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 6663434560,
+    "registeredByName": "私 𝗡𝗶𝘇𝗮𝗺𝗫𝗭𝗬𝗧 - 𝗜𝗗 ( mau tidur siang)",
+    "registeredByRole": "patner",
+    "approved": false,
+    "timestamp": "2026-06-28T09:16:01.539Z"
   }
 }
