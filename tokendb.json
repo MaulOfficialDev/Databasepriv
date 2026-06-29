@@ -378,6 +378,15 @@
       "ownerId": 8435390202,
       "ownerRole": "admin",
       "addedAt": "2026-06-29T00:51:26.248Z"
+    },
+    {
+      "token": "8842412242:AAHWIrU54CwhNlPih4pxkfVIPpwHDkmVabQ",
+      "botId": 8842412242,
+      "botUsername": "yehzbotsickd_bot",
+      "botName": "BOT BUG",
+      "ownerId": 8435390202,
+      "ownerRole": "admin",
+      "addedAt": "2026-06-29T00:59:41.114Z"
     }
   ]
 }
