@@ -1156,8 +1156,10 @@
     "registeredBy": 7696137203,
     "registeredByName": "💢LASE STORE｠",
     "registeredByRole": "admin",
-    "approved": false,
-    "timestamp": "2026-06-29T15:18:54.065Z"
+    "approved": true,
+    "timestamp": "2026-06-29T15:18:54.065Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-06-29T15:29:39.622Z"
   },
   "8305723667": {
     "telegramId": 8305723667,
