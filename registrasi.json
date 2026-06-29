@@ -1206,5 +1206,16 @@
     "timestamp": "2026-06-29T02:23:01.174Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-29T02:23:08.448Z"
+  },
+  "7573363606": {
+    "telegramId": 7573363606,
+    "username": "@NikoFryanto",
+    "fotoFileId": "AgACAgUAAxkBAAIRm2pB-veq3vhMgDRkBDrkSIqtyUoWAAKmD2sbtMARVn4JR-p8PxdxAQADAgADdwADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-29T04:56:23.513Z"
   }
 }
