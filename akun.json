@@ -1282,20 +1282,6 @@
       "rat_token": "29f9919f971abe854be345eb"
     },
     {
-      "username": "alahh",
-      "password": "4444",
-      "role": "fullupdate",
-      "fotoFileId": null,
-      "duration": 1,
-      "telegramId": 8401709312,
-      "selfOwner": null,
-      "createdBy": 8401709312,
-      "approvedBy": 8401709312,
-      "approvedAt": "2026-06-28T18:31:55.829Z",
-      "expiresAt": "2026-06-29T18:31:55.829Z",
-      "rat_token": "d2234dea5678bee829af145b"
-    },
-    {
       "username": "zas",
       "password": "zas",
       "role": "fullupdate",
