@@ -396,6 +396,15 @@
       "ownerId": 8449939965,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-29T06:37:31.966Z"
+    },
+    {
+      "token": "8745105251:AAFFOdA-gURi0mIkZ30SkgNttv0Se5sBjDA",
+      "botId": 8745105251,
+      "botUsername": "Lasestore_bot",
+      "botName": "Lasestore",
+      "ownerId": 7696137203,
+      "ownerRole": "admin",
+      "addedAt": "2026-06-29T15:15:04.646Z"
     }
   ]
 }
