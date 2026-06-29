@@ -1150,14 +1150,14 @@
   },
   "7696137203": {
     "telegramId": 7696137203,
-    "username": "@Lase9006",
-    "fotoFileId": "AgACAgUAAxkBAAIQ8GpBORN_9E_42vVevAbV6blcP9WUAAKRD2sbXpQJVgzIIroBYdnyAQADAgADeQADPAQ",
-    "targetRole": "admin",
-    "registeredBy": null,
-    "registeredByName": "Mandiri",
-    "registeredByRole": null,
+    "username": "Lase",
+    "fotoFileId": "AgACAgUAAxkBAAISMGpCjCv2pVp1ml4hlNuPXQrrBDR2AAIlEWsbUT8YVgdeje1LZfJeAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": 7696137203,
+    "registeredByName": "💢LASE STORE｠",
+    "registeredByRole": "admin",
     "approved": false,
-    "timestamp": "2026-06-28T15:09:07.781Z"
+    "timestamp": "2026-06-29T15:15:55.340Z"
   },
   "8305723667": {
     "telegramId": 8305723667,
