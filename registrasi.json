@@ -1217,5 +1217,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-29T04:56:23.513Z"
+  },
+  "7616048087": {
+    "telegramId": 7616048087,
+    "username": "@LyyNewEra1922",
+    "fotoFileId": "AgACAgUAAxkBAAIR3mpCY3Y3wvc5qYdJQsECtLI1kxYUAALWEWsbW9QRVh5rJ_g-0bcoAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-29T12:22:14.688Z"
   }
 }
