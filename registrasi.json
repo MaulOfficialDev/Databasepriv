@@ -1180,5 +1180,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-28T19:55:32.936Z"
+  },
+  "8637699489": {
+    "telegramId": 8637699489,
+    "username": "@Perancisnihbos",
+    "fotoFileId": "AgACAgUAAxkBAAIRZWpB1t6fF1xBExNkklEAAbWHzr38sQACzRBrG8CkEFYyFdXZBNqqzAEAAwIAA3kAAzwE",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-29T02:22:22.924Z"
   }
 }
