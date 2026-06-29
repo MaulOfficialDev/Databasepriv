@@ -1226,7 +1226,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-29T12:22:14.688Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-29T12:22:22.539Z"
+  },
+  "8319589150": {
+    "telegramId": 8319589150,
+    "username": "@Hafidzzoffc",
+    "fotoFileId": "AgACAgUAAxkBAAIR8mpCZcR4JB8q5Lp0yyOo6MYWVVVaAAKdEWsbWcsRVvwqv8wC6_uAAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-29T12:22:14.688Z"
+    "timestamp": "2026-06-29T12:32:04.803Z"
   }
 }
