@@ -387,6 +387,15 @@
       "ownerId": 8435390202,
       "ownerRole": "admin",
       "addedAt": "2026-06-29T00:59:41.114Z"
+    },
+    {
+      "token": "8866551155:AAFMwzKnAe86d7Xg4J6ohzmTzWPermxmMeQ",
+      "botId": 8866551155,
+      "botUsername": "Lzanbot",
+      "botName": "L-zanbot",
+      "ownerId": 8449939965,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-29T06:37:31.966Z"
     }
   ]
 }
