@@ -1189,7 +1189,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-06-29T02:22:22.924Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-06-29T02:22:41.292Z"
+  },
+  "8449939965": {
+    "telegramId": 8449939965,
+    "username": "@LzanKagenou",
+    "fotoFileId": "AgACAgUAAxkBAAIRampB1wTypgdgay-uMZsaviu6vI3dAALcDmsb6zARVlAa6zD7BpR3AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-29T02:22:22.924Z"
+    "timestamp": "2026-06-29T02:23:01.174Z"
   }
 }
