@@ -1258,12 +1258,23 @@
   "8981671198": {
     "telegramId": 8981671198,
     "username": "@shinskynerv2",
-    "fotoFileId": "AgACAgUAAxkBAAIS6mpDoWFFF6v1OpLrA6jnNxzZtRLyAAKmEWsb8Y8YVlR2lOBIYts0AQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIS62pDoWHFsyOZoPT0kHA5Zs_uaZSSAAKlEWsb8Y8YVudVHCsw6OsJAQADAgADeQADPAQ",
     "targetRole": "fullupdate",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-06-30T10:58:41.413Z"
+    "timestamp": "2026-06-30T10:58:41.588Z"
+  },
+  "8617873618": {
+    "telegramId": 8617873618,
+    "username": "@RenzxBug",
+    "fotoFileId": "AgACAgUAAxkBAAITAWpDre6GznsusO-tuDti9EH5urEEAAJoEWsbsdwhVuxkSTYQR7SkAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-30T11:52:14.801Z"
   }
 }
