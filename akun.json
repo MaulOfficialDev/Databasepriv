@@ -1448,6 +1448,20 @@
       "approvedAt": "2026-06-30T12:15:30.019Z",
       "expiresAt": null,
       "rat_token": "01d633c443d7372934b8860d"
+    },
+    {
+      "username": "@cielozo",
+      "password": "ĉielozo ⸸",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7594542892,
+      "selfOwner": 7594542892,
+      "createdBy": 7594542892,
+      "approvedBy": 7594542892,
+      "approvedAt": "2026-06-30T16:23:03.792Z",
+      "expiresAt": null,
+      "rat_token": "f21243297fe0598ed2376d85"
     }
   ]
 }
