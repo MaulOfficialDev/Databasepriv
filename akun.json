@@ -1338,20 +1338,6 @@
       "rat_token": "be090e53956a3bbc46d6a85d"
     },
     {
-      "username": "critical",
-      "password": "123",
-      "role": "fullupdate",
-      "fotoFileId": null,
-      "duration": 1,
-      "telegramId": 8225653555,
-      "selfOwner": null,
-      "createdBy": 8225653555,
-      "approvedBy": 8225653555,
-      "approvedAt": "2026-06-29T09:38:50.235Z",
-      "expiresAt": "2026-06-30T09:38:50.234Z",
-      "rat_token": "14dbde89ab828de9c2c19285"
-    },
-    {
       "username": "abc",
       "password": "123",
       "role": "fullupdate",
