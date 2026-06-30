@@ -1243,5 +1243,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-06-29T12:32:04.803Z"
+  },
+  "8082574620": {
+    "telegramId": 8082574620,
+    "username": "@DenCrasher",
+    "fotoFileId": "AgACAgUAAxkBAAISmWpDV-RpDoj6XK68mVUJZbQcggslAAJDD2sbTvIYVgV1DWWsj6uXAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": 7960748153,
+    "registeredByName": "⏤͟͟͞͞𝐗𝟒 𝐑𝐀𝐏𝐒 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋|𝐓𝟓",
+    "registeredByRole": "admin",
+    "approved": false,
+    "timestamp": "2026-06-30T05:45:09.120Z"
   }
 }
