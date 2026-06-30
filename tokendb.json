@@ -441,6 +441,15 @@
       "ownerId": 6541701591,
       "ownerRole": "reseller",
       "addedAt": "2026-06-30T07:28:38.372Z"
+    },
+    {
+      "token": "8777203085:AAG0IQkQQMwaRbUqB7nBxbkwfOIYfYM94Qw",
+      "botId": 8777203085,
+      "botUsername": "konntil_bot",
+      "botName": "nana",
+      "ownerId": 8451719873,
+      "ownerRole": "patner",
+      "addedAt": "2026-06-30T14:44:27.934Z"
     }
   ]
 }
