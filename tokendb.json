@@ -405,6 +405,15 @@
       "ownerId": 7696137203,
       "ownerRole": "admin",
       "addedAt": "2026-06-29T15:15:04.646Z"
+    },
+    {
+      "token": "8301089219:AAHxICKzeoDbx3Ir_8raZXHulMM62hDfq8Q",
+      "botId": 8301089219,
+      "botUsername": "Warlorrds_bot",
+      "botName": "Warlords",
+      "ownerId": 6541701591,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-30T05:31:50.638Z"
     }
   ]
 }
