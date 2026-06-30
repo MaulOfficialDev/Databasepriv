@@ -414,6 +414,15 @@
       "ownerId": 6541701591,
       "ownerRole": "reseller",
       "addedAt": "2026-06-30T05:31:50.638Z"
+    },
+    {
+      "token": "8508249577:AAHm1Nlue7gEhChA2aWShWhxewQLIQ_LoX8",
+      "botId": 8508249577,
+      "botUsername": "Antihack22_bot",
+      "botName": "khususscbug",
+      "ownerId": 7616048087,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-30T06:16:37.671Z"
     }
   ]
 }
