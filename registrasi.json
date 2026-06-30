@@ -1254,5 +1254,16 @@
     "timestamp": "2026-06-30T05:45:09.120Z",
     "approvedBy": 1348415353,
     "approvedAt": "2026-06-30T05:50:04.388Z"
+  },
+  "8981671198": {
+    "telegramId": 8981671198,
+    "username": "@shinskynerv2",
+    "fotoFileId": "AgACAgUAAxkBAAIS6mpDoWFFF6v1OpLrA6jnNxzZtRLyAAKmEWsb8Y8YVlR2lOBIYts0AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-06-30T10:58:41.413Z"
   }
 }
