@@ -1434,6 +1434,20 @@
       "approvedAt": "2026-06-30T06:23:28.666Z",
       "expiresAt": null,
       "rat_token": "f637e281a554b1233b1a1b2c"
+    },
+    {
+      "username": "Habz",
+      "password": "hbz111",
+      "role": "patner",
+      "fotoFileId": null,
+      "duration": 999,
+      "telegramId": 7225374943,
+      "selfOwner": 7225374943,
+      "createdBy": 7225374943,
+      "approvedBy": 7225374943,
+      "approvedAt": "2026-06-30T06:25:22.943Z",
+      "expiresAt": null,
+      "rat_token": "564348ac62e56a6d46c97944"
     }
   ]
 }
