@@ -459,6 +459,15 @@
       "ownerId": 7820410494,
       "ownerRole": "admin",
       "addedAt": "2026-06-30T16:00:45.414Z"
+    },
+    {
+      "token": "8875788496:AAGF9ERD7_FOjjPJBWZ6uY44hxWssI63G9w",
+      "botId": 8875788496,
+      "botUsername": "justingw_bot",
+      "botName": "justin",
+      "ownerId": 1339471047,
+      "ownerRole": "fullupdate",
+      "addedAt": "2026-06-30T20:34:10.705Z"
     }
   ]
 }
