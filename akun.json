@@ -60,7 +60,8 @@
       "approvedAt": "2026-06-21T04:45:54.069Z",
       "expiresAt": "2026-07-21T04:45:54.069Z",
       "rat_token": "405c193045b8e4b661fd61c8",
-      "expiredDate": "2026-07-21"
+      "expiredDate": "2026-07-21",
+      "lastSend": 1782835788229
     },
     {
       "username": "@Fataofiicial",
