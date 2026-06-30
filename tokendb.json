@@ -432,6 +432,15 @@
       "ownerId": 7696137203,
       "ownerRole": "admin",
       "addedAt": "2026-06-30T06:25:34.656Z"
+    },
+    {
+      "token": "8675532267:AAFkvkPOgz8bDXpxqM0Hg8pw1pxzlidmHb0",
+      "botId": 8675532267,
+      "botUsername": "khanzo_bvg_bot",
+      "botName": "KHANZO BVG BOT",
+      "ownerId": 6541701591,
+      "ownerRole": "reseller",
+      "addedAt": "2026-06-30T07:28:38.372Z"
     }
   ]
 }
