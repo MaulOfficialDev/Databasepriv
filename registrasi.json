@@ -1335,7 +1335,20 @@
     "registeredBy": 7802387631,
     "registeredByName": "𝐋𝐕𝐒 | 𝕷𝘶𝘤𝘢𝘻𝘹𝘹",
     "registeredByRole": "reseller",
+    "approved": true,
+    "timestamp": "2026-07-01T12:42:35.588Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-07-01T13:28:27.001Z"
+  },
+  "7774461111": {
+    "telegramId": 7774461111,
+    "username": "@acaf8x",
+    "fotoFileId": "AgACAgUAAxkBAAIUN2pFV6sEZ0TrA9Tt5Hh8kYAgwm7PAAKLEWsbaP0oVgzhs5QZJHoOAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-07-01T12:42:35.588Z"
+    "timestamp": "2026-07-01T18:08:43.682Z"
   }
 }
