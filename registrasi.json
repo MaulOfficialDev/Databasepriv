@@ -1300,5 +1300,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-07-01T04:04:12.996Z"
+  },
+  "7405869025": {
+    "telegramId": 7405869025,
+    "username": "@biellofc",
+    "fotoFileId": "AgACAgUAAxkBAAITympEtAMuGq6vxpvUoXxp4O1fbNjEAAIsEWsbg40pVuhtO8KUGaTvAQADAgADeQADPAQ",
+    "targetRole": "reseller",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-07-01T06:30:28.188Z"
   }
 }
