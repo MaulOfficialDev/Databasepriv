@@ -1287,7 +1287,20 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-07-01T03:30:40.366Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-07-01T03:30:51.222Z"
+  },
+  "5784189930": {
+    "telegramId": 5784189930,
+    "username": "@Cryzp927",
+    "fotoFileId": "AgACAgUAAxkBAAITmmpEkbxqlx7BxTG-HDSoDH7U_cuQAAI-EGsbc-4hVtMDOXlJ3A7PAQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-07-01T03:30:40.366Z"
+    "timestamp": "2026-07-01T04:04:12.996Z"
   }
 }
