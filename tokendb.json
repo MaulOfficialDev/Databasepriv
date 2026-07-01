@@ -504,6 +504,15 @@
       "ownerId": 7405869025,
       "ownerRole": "reseller",
       "addedAt": "2026-07-01T06:36:10.490Z"
+    },
+    {
+      "token": "8908999178:AAHP-mkOQe8aX9qWJeWbv9YcOQqb0dq4Wag",
+      "botId": 8908999178,
+      "botUsername": "Knightcrusher_v4_bot",
+      "botName": "Knight crusher v4",
+      "ownerId": 6541701591,
+      "ownerRole": "reseller",
+      "addedAt": "2026-07-01T09:30:27.242Z"
     }
   ]
 }
