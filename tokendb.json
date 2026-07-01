@@ -513,6 +513,15 @@
       "ownerId": 6541701591,
       "ownerRole": "reseller",
       "addedAt": "2026-07-01T09:30:27.242Z"
+    },
+    {
+      "token": "7732215089:AAF-uvr5R5UqxYTFNWtduFoXFgPN_lE1hRA",
+      "botId": 7732215089,
+      "botUsername": "botdaparill_bot",
+      "botName": "botdaparill",
+      "ownerId": 7774461111,
+      "ownerRole": "reseller",
+      "addedAt": "2026-07-01T20:10:13.360Z"
     }
   ]
 }
