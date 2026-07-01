@@ -1343,12 +1343,25 @@
   "7774461111": {
     "telegramId": 7774461111,
     "username": "@acaf8x",
-    "fotoFileId": "AgACAgUAAxkBAAIUN2pFV6sEZ0TrA9Tt5Hh8kYAgwm7PAAKLEWsbaP0oVgzhs5QZJHoOAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAIUOGpFV6u5BdoTQDwZ4Z63YngclXVQAAKMEWsbaP0oVr8WFHOJ3lNkAQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
+    "approved": true,
+    "timestamp": "2026-07-01T18:08:43.846Z",
+    "approvedBy": 1348415353,
+    "approvedAt": "2026-07-01T18:09:28.963Z"
+  },
+  "8637078020": {
+    "telegramId": 8637078020,
+    "username": "@FANZZ71",
+    "fotoFileId": "AgACAgUAAxkBAAIUQGpFZhKItDR_94QB_u8Kt5f0zpubAALPDmsbndAxVkUDYdmQSJmBAQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
     "approved": false,
-    "timestamp": "2026-07-01T18:08:43.682Z"
+    "timestamp": "2026-07-01T19:10:10.857Z"
   }
 }
