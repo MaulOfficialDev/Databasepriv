@@ -468,6 +468,15 @@
       "ownerId": 1339471047,
       "ownerRole": "fullupdate",
       "addedAt": "2026-06-30T20:34:10.705Z"
+    },
+    {
+      "token": "8482763889:AAE73DMfRlrL5sOmdQ6b2SlkU_s9oHj8_nI",
+      "botId": 8482763889,
+      "botUsername": "gilmantax_bot",
+      "botName": "gillmantaxx_bot",
+      "ownerId": 8416565884,
+      "ownerRole": "reseller",
+      "addedAt": "2026-07-01T00:55:47.073Z"
     }
   ]
 }
