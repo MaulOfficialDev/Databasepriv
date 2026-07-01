@@ -73,6 +73,17 @@
     "approvedBy": 1266058971,
     "approvedAt": "2026-06-22T15:05:29.083Z"
   },
+  "1496360287": {
+    "telegramId": 1496360287,
+    "username": "@noctyyy",
+    "fotoFileId": "AgACAgUAAxkBAAIT72pE0ZTgwu-PrvTPtzpqVFx9lmtoAAKkFGsbwF4pVtAowCkw5QL2AQADAgADeQADPAQ",
+    "targetRole": "admin",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-07-01T08:36:36.493Z"
+  },
   "1497667429": {
     "telegramId": 1497667429,
     "username": "@inocyxcryptocurrencyexchange",
@@ -1304,12 +1315,14 @@
   "7405869025": {
     "telegramId": 7405869025,
     "username": "@biellofc",
-    "fotoFileId": "AgACAgUAAxkBAAITympEtAMuGq6vxpvUoXxp4O1fbNjEAAIsEWsbg40pVuhtO8KUGaTvAQADAgADeQADPAQ",
+    "fotoFileId": "AgACAgUAAxkBAAITy2pEtANnYG_L04evrkoaMd7T2hjUAAItEWsbg40pVtMJyBKKHtd2AQADAgADeQADPAQ",
     "targetRole": "reseller",
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-07-01T06:30:28.188Z"
+    "approved": true,
+    "timestamp": "2026-07-01T06:30:28.357Z",
+    "approvedBy": 1266058971,
+    "approvedAt": "2026-07-01T06:32:20.854Z"
   }
 }
