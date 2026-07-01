@@ -486,6 +486,15 @@
       "ownerId": 8716790509,
       "ownerRole": "patner",
       "addedAt": "2026-07-01T02:03:48.651Z"
+    },
+    {
+      "token": "8157918596:AAFz1CkbpNKlgh9EAwzungRT8ddr5ViTgMs",
+      "botId": 8157918596,
+      "botUsername": "daerahjawa_bot",
+      "botName": "daerah jawa",
+      "ownerId": 7915362968,
+      "ownerRole": "reseller",
+      "addedAt": "2026-07-01T03:45:30.682Z"
     }
   ]
 }
