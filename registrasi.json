@@ -81,8 +81,10 @@
     "registeredBy": null,
     "registeredByName": "Mandiri",
     "registeredByRole": null,
-    "approved": false,
-    "timestamp": "2026-07-01T08:36:36.493Z"
+    "approved": true,
+    "timestamp": "2026-07-01T08:36:36.493Z",
+    "approvedBy": 7907433870,
+    "approvedAt": "2026-07-01T08:38:49.428Z"
   },
   "1497667429": {
     "telegramId": 1497667429,
@@ -1324,5 +1326,16 @@
     "timestamp": "2026-07-01T06:30:28.357Z",
     "approvedBy": 1266058971,
     "approvedAt": "2026-07-01T06:32:20.854Z"
+  },
+  "8793055027": {
+    "telegramId": 8793055027,
+    "username": "teguh",
+    "fotoFileId": "AgACAgUAAxkBAAIUFGpFCzvbjJszayhhjInToZjzFt8CAAI4D2sbnlIxVgflsk8nVKl8AQADAgADeQADPAQ",
+    "targetRole": "fullupdate",
+    "registeredBy": 7802387631,
+    "registeredByName": "𝐋𝐕𝐒 | 𝕷𝘶𝘤𝘢𝘻𝘹𝘹",
+    "registeredByRole": "reseller",
+    "approved": false,
+    "timestamp": "2026-07-01T12:42:35.588Z"
   }
 }
