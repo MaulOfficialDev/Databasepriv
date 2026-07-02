@@ -1449,20 +1449,6 @@
       "rat_token": "acca244b69e7fbb36818a7ed"
     },
     {
-      "username": "ma",
-      "password": "1",
-      "role": "fullupdate",
-      "fotoFileId": null,
-      "duration": 1,
-      "telegramId": 8225653555,
-      "selfOwner": null,
-      "createdBy": 8225653555,
-      "approvedBy": 8225653555,
-      "approvedAt": "2026-07-01T08:22:19.245Z",
-      "expiresAt": "2026-07-02T08:22:19.245Z",
-      "rat_token": "5354a38fbda53bf78748f817"
-    },
-    {
       "username": "Fann",
       "password": "11",
       "role": "admin",
