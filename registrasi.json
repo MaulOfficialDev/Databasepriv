@@ -1350,5 +1350,16 @@
     "registeredByRole": null,
     "approved": false,
     "timestamp": "2026-07-01T19:10:10.857Z"
+  },
+  "8654172159": {
+    "telegramId": 8654172159,
+    "username": "am_kzyy",
+    "fotoFileId": "AgACAgUAAxkBAAIUa2pF53Bvcw3V8f6x6_KbE1eB-4hRAAIsEGsbWpEwVlWro579pJfMAQADAgADeQADPAQ",
+    "targetRole": "patner",
+    "registeredBy": null,
+    "registeredByName": "Mandiri",
+    "registeredByRole": null,
+    "approved": false,
+    "timestamp": "2026-07-02T04:22:08.479Z"
   }
 }
