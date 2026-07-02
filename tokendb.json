@@ -531,6 +531,15 @@
       "ownerId": 6923426449,
       "ownerRole": "patner",
       "addedAt": "2026-07-02T04:03:38.847Z"
+    },
+    {
+      "token": "8702760963:AAHpWM6Kb0wZxcR3r61rpNYmbXWZ4w6pXRk",
+      "botId": 8702760963,
+      "botUsername": "Yowbrywkwd_bot",
+      "botName": "King",
+      "ownerId": 6541701591,
+      "ownerRole": "reseller",
+      "addedAt": "2026-07-02T06:54:10.351Z"
     }
   ]
 }
